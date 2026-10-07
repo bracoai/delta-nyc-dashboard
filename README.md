@@ -9,12 +9,11 @@
 
 ## Business question
 
-**What is Delta's competitive position in New York in May 2026, and where do
-passenger share, capacity, and seat occupancy suggest further commercial investigation?**
+**What is Delta's competitive position in New York in May 2026?**
 
-The dashboard compares airlines, airports, routes, and monthly history to support
-capacity and revenue-management discussions. Market share and occupancy provide
-context; they do not establish pricing power or profitability.
+Compare passenger share, seat supply, occupancy, and flights across airlines,
+airports, routes, and months. These measures inform capacity and revenue-management
+discussions; they do not establish pricing power or profitability.
 
 ## May 2026 snapshot
 
@@ -28,15 +27,15 @@ Delta ranks **second by passenger share** in both views.
 | Flights operated | **5,694** | **5,746** |
 
 > [!NOTE]
-> The dashboard defaults to **NYC core**. The executive summary uses **City Market
-> 31703**. Select that wider market in the dashboard to compare the same scope.
+> The dashboard opens on **NYC core**. Choose **NYC (City Market ID 31703)**
+> for the wider metropolitan view used in the executive summary.
 
 ## Technologies and platforms
 
 | Tool | Use in this project |
 |---|---|
 | **Python + pandas** | Data preparation, table joins, filtering, and presentation calculations. |
-| **DuckDB + SQL** | Local analytical database and offline aggregation/validation pipeline. |
+| **DuckDB + SQL** | Analytical database and SQL queries for preparing the data offline. |
 | **Streamlit + Altair** | Interactive dashboard, charts, filters, tables, and CSV downloads. |
 | **GitHub** | Hosts the published website code and prepared datasets. |
 | **Streamlit Community Cloud** | Hosts the [live dashboard](https://delta-nyc-dashboard.streamlit.app). |
@@ -48,12 +47,18 @@ its TranStats website**:
 
 - [T-100 Domestic Market — All Carriers](https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=GED&QO_fu146_anzr=Nv4+Pn44vr45): on-flight passenger traffic and passenger share.
 - [T-100 Domestic Segment — All Carriers](https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=GEE&QO_fu146_anzr=Nv4+Pn44vr45): nonstop flight legs, seats, departures, and distance-weighted occupancy.
-- [BTS Airport ID lookup](https://www.transtats.bts.gov/Download_Lookup.asp?Y11x72=Y_NVecbeg_VQ): airport identifiers and display names.
+- [BTS City Market ID definition and lookup][city-market]: explains how airports are grouped into the same city market.
 
-Coverage: **January–December 2024 and 2025; January–June 2026**. Analysis includes
-domestic departures in scheduled passenger/cargo service (Class F). Regional
-operators remain separate; missing coverage is not filled with zero. Occupancy
-is total passenger-miles divided by total available seat-miles.
+**Coverage:** full-year 2024 and 2025; January–June 2026.
+
+**Market selection:** NYC core includes departures from **JFK, LGA, and EWR**.
+The wider NYC view selects records where **Origin City Market ID = 31703**,
+using the BTS grouping. Airport names come from the BTS Airport ID lookup.
+
+Both views include domestic departures in **scheduled passenger/cargo service
+(Class F)**. Regional operators remain separate, and shares compare each airline
+with all airlines in the selected market. Occupancy is passenger-miles divided
+by available seat-miles; missing coverage remains blank.
 
 ## How the files feed the website
 
@@ -63,40 +68,21 @@ is total passenger-miles divided by total available seat-miles.
 |---|---|
 | [`app.py`](app.py) | Website entrypoint, layout, controls, charts, and downloads. |
 | [`dashboard_model.py`](dashboard_model.py) | Loads prepared tables and supplies comparisons, routes, and history. |
-| [`data_v2/`](data_v2/) | Seven saved CSV tables and the [build manifest](data_v2/build_manifest.json) documenting lineage and checks. |
+| [`data_v2/`](data_v2/) | Prepared passenger, capacity, route, airport, airline, and coverage tables, plus a source [manifest](data_v2/build_manifest.json). |
 | [`requirements.txt`](requirements.txt) | Pinned Python dependencies. |
 | [`.streamlit/config.toml`](.streamlit/config.toml) and [`assets/`](assets/) | Theme, logo, and [attribution](assets/SOURCES.md). |
 
-This repository contains the **website and prepared data**. The raw ZIP archive,
-DuckDB database, SQL preparation scripts, and full test suite remain in the local
-development project. The hosted app reads saved CSVs; it does not query a live
-database or rebuild the pipeline when a visitor changes a filter.
+The website loads saved CSVs for fast filtering. This repository contains the
+**app and prepared data**; the DuckDB/SQL preparation pipeline is maintained
+separately in the local development project.
 
-## Explore and verify
+## Explore the dashboard
 
-1. **Compare:** switch airlines and airports in the sidebar.
-2. **Investigate:** open **Routes** and search an airport or city.
-3. **Contextualize:** open **History & seasonality** to compare the same month across years.
-
-Before deployment, the local project passed **8 pipeline tests, 32 dashboard
-checks, and all 6 source-ZIP fingerprint checks**. The author also tested the
-hosted app in Incognito and on another device. These are completed checks,
-not automated GitHub CI results.
-
-<details>
-<summary>Run locally with Python 3.13</summary>
-
-From the repository folder, preferably in a virtual environment:
-
-```bash
-python -m pip install -r requirements.txt
-python -m streamlit run app.py
-```
-
-No credentials, database server, or source-data download is required.
-
-</details>
+Use the sidebar to compare airlines and airports, **Routes** to inspect airport
+pairs, and **History & seasonality** to compare the same month across years.
 
 ---
 
 Independent work by **Brandon Bardales**; not an official Delta Air Lines publication.
+
+[city-market]: https://www.transtats.bts.gov/FieldInfo.asp?Svryq_Qr5p=b4vtv0%FDNv42146%FP%FDPv6B%FDZn4xr6%FDVQ.%FDPv6B%FDZn4xr6%FDVQ%FDv5%FDn0%FDvqr06vsvpn6v10%FD07zor4%FDn55vt0rq%FDoB%FDhf%FDQbg%FD61%FDvqr06vsB%FDn%FDpv6B%FDzn4xr6.%FD%FDh5r%FD6uv5%FDsvryq%FD61%FDp1051yvqn6r%FDnv421465%FD5r48v0t%FD6ur%FD5nzr%FDpv6B%FDzn4xr6.&Svryq_gB2r=a7z&Y11x72_gnoyr=Y_PVgl_ZNeXRg_VQ&gnoyr_VQ=GED&flf_gnoyr_anzr=g_gEDDQ_ZNeXRg_NYY_PNeeVRe&fB5_Svryq_anzr=beVTVa_PVgl_ZNeXRg_VQ
