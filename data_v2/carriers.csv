@@ -1,0 +1,4342 @@
+YEAR,MONTH,AIRLINE_ID,UNIQUE_CARRIER,UNIQUE_CARRIER_NAME
+2024,1,19393,WN,Southwest Airlines Co.
+2024,1,19531,AC,Air Canada
+2024,1,19534,AM,Aeromexico
+2024,1,19543,CA,Air China
+2024,1,19544,CI,China Airlines Ltd.
+2024,1,19548,JL,Japan Air Lines Co. Ltd.
+2024,1,19550,KE,Korean Air Lines Co. Ltd.
+2024,1,19552,LA,LATAM Airlines Group SA dba Lan Airlines
+2024,1,19554,LH,Lufthansa German Airlines
+2024,1,19566,QF,Qantas Airways Ltd.
+2024,1,19572,SQ,Singapore Airlines Ltd.
+2024,1,19576,TP,TAP-TAP Air Portugal
+2024,1,19687,QX,Horizon Air
+2024,1,19690,HA,Hawaiian Airlines Inc.
+2024,1,19779,CX,Cathay Pacific Airways Ltd.
+2024,1,19790,DL,Delta Air Lines Inc.
+2024,1,19805,AA,American Airlines Inc.
+2024,1,19821,TK,Turk Hava Yollari A.O.
+2024,1,19830,KZ,Nippon Cargo Airlines
+2024,1,19874,8C,Air Transport International
+2024,1,19917,5X,United Parcel Service
+2024,1,19930,AS,Alaska Airlines Inc.
+2024,1,19958,MU,China Eastern Airlines
+2024,1,19977,UA,United Air Lines Inc.
+2024,1,20005,BR,Eva Airways Corporation
+2024,1,20007,5Y,Atlas Air Inc.
+2024,1,20046,ZW,Air Wisconsin Airlines Corp
+2024,1,20100,PO,Polar Air Cargo Airways
+2024,1,20107,FX,Federal Express Corporation
+2024,1,20108,NC,Northern Air Cargo Inc.
+2024,1,20110,ADB,Antonov Company
+2024,1,20120,DE,Condor Flugdienst
+2024,1,20140,CC,Air Atlanta Icelandic
+2024,1,20151,M6,Amerijet International
+2024,1,20166,GFQ,Gulf And Caribbean Cargo
+2024,1,20169,L2,Lynden Air Cargo Airlines
+2024,1,20177,PFQ,Asia Pacific
+2024,1,20195,WI,Sky Lease Cargo
+2024,1,20201,AMQ,Ameristar Air Cargo
+2024,1,20207,XP,TEM Enterprises dba  Avelo Airlines
+2024,1,20224,KAT,Katmai Air
+2024,1,20226,SNK,Spernak Airways Inc.
+2024,1,20250,5D,Aerolitoral
+2024,1,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2024,1,20261,ELL,Ellis Air Taxi Inc.
+2024,1,20263,EM,Empire Airlines Inc.
+2024,1,20267,GCH,Grand Canyon Helicopters
+2024,1,20272,M5,Kenmore Air Harbor
+2024,1,20273,NEW,New England Airlines Inc.
+2024,1,20277,OZ,Asiana Airlines Inc.
+2024,1,20280,SEB,"Seaborne Virgin Islands, Inc."
+2024,1,20285,WRD,Ward Air
+2024,1,20303,NLQ,Nolinor Aviation
+2024,1,20304,OO,SkyWest Airlines Inc.
+2024,1,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2024,1,20319,2E,Smokey Bay Air Inc.
+2024,1,20323,4W,Warbelow
+2024,1,20327,7H,NEW PACIFIC AIRLINES
+2024,1,20330,7S,Ryan Air f/k/a Arctic Transportation
+2024,1,20331,8E,Bering Air Inc.
+2024,1,20333,8V,Wright Air Service
+2024,1,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2024,1,20341,KO,Alaska Central Express
+2024,1,20342,Q5,40-Mile Air
+2024,1,20346,V8,Iliamna Air Taxi
+2024,1,20348,XL,Lan Ecuador
+2024,1,20362,CK,China Cargo Airline
+2024,1,20363,9E,Endeavor Air Inc.
+2024,1,20368,G4,Allegiant Air
+2024,1,20370,KAQ,Kalitta Air LLC
+2024,1,20372,KLQ,Kalitta Charters II
+2024,1,20377,X9,Omni Air International LLC
+2024,1,20378,YV,Mesa Airlines Inc.
+2024,1,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2024,1,20397,OH,PSA Airlines Inc.
+2024,1,20398,MQ,Envoy Air
+2024,1,20401,3M,Silver Airways
+2024,1,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2024,1,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2024,1,20409,B6,JetBlue Airways
+2024,1,20416,NK,Spirit Air Lines
+2024,1,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2024,1,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2024,1,20426,VD,Vieques Air Link Inc.
+2024,1,20427,PT,Piedmont Airlines
+2024,1,20436,F9,Frontier Airlines Inc.
+2024,1,20443,2O,Island Air Service
+2024,1,20445,C5,CommuteAir LLC dba CommuteAir
+2024,1,20447,U7,USA Jet Airlines Inc.
+2024,1,20452,YX,Republic Airline
+2024,1,20453,ABX,ABX Air Inc
+2024,1,20455,GV,Grant Aviation
+2024,1,20500,G7,GoJet Airlines LLC d/b/a United Express
+2024,1,21022,Z3Q,"PM Air, LLC"
+2024,1,21040,02Q,Titan Airways
+2024,1,21080,TJ,Tradewind Aviation
+2024,1,21147,0Q,Flying Service N.V.
+2024,1,21160,SVW,"Global Jet Luxembourg, Sa"
+2024,1,21161,09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern"
+2024,1,21196,0CQ,ACM AIR CHARTER GmbH
+2024,1,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2024,1,21376,L7,Lan Colombia
+2024,1,21386,X4,Air Excursions LLC
+2024,1,21427,3S,AeroLogic GmbH
+2024,1,21440,15Q,Air Alsie A/S
+2024,1,21447,17Q,Albinati Aeronautics SA
+2024,1,21477,VC,Via Airlines d/b/a Sterling Airways
+2024,1,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2024,1,21518,1EQ,"KaiserAir, Inc."
+2024,1,21548,1HQ,International Jet Management GmbH
+2024,1,21568,VJT,VistaJet Limited
+2024,1,21570,S2,Star Marianas Air Inc.
+2024,1,21582,RVQ,"Reeve Air Alaska, LLC"
+2024,1,21590,1UQ,Gainjet Aviation SA
+2024,1,21594,I4,Scott Air LLC dba Island Air Express
+2024,1,21599,4B,Boutique Air
+2024,1,21610,RV,Air Canada rouge LP
+2024,1,21614,1QQ,City Wings Inc dba Seaflight
+2024,1,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2024,1,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2024,1,21629,KD,Western Global
+2024,1,21634,KH,Aloha Air Cargo
+2024,1,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2024,1,21646,24Q,Jet Story
+2024,1,21652,27Q,"Jet Aviation Flight Services, Inc."
+2024,1,21656,2AQ,ABS JETS A.S
+2024,1,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2024,1,21718,XE,Delux Public Charters d/b/a JSX
+2024,1,21743,TI,Tropic Ocean Airways LLC
+2024,1,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2024,1,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2024,1,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2024,1,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2024,1,21894,AN,"ADVANCED AIR, LLC"
+2024,1,21909,3AQ,"Maritime Helicopters, Inc."
+2024,1,21944,W7,"Nealco Air Charter Services, Inc.  d/b/a  Watermakers Air"
+2024,1,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2024,1,21979,3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge"
+2024,1,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2024,1,22061,WGT,Volkswagen AirSevice GmbH dba Volkswagon
+2024,1,22068,PAF,Pathfinder Aviation
+2024,1,22075,X5,"Junipogo, LLC"
+2024,1,22077,HAQ,Hamilton Jetport Limited
+2024,1,22080,MX,Breeze Aviation Group DBA  Breeze
+2024,1,22081,TQ,"Tailwind Air, LLC"
+2024,1,22083,BAS,Baranautica Air Service LLC
+2024,1,22085,GCA,"Global Crossing Airlines, Inc."
+2024,1,22093,CT,Air Atlanta Europe Limited
+2024,1,22099,PTQ,Pontair Ltd.
+2024,1,22105,6F,"Fox Aircraft, LLC"
+2024,1,22107,JRQ,"KENAI AVIATION OPERATIONS, LLC"
+2024,1,22119,GQQ,Executive Express dba Ravn Connect
+2024,1,22120,QFX,Sparfell Malta Ltd
+2024,1,22137,LNY,"Western Aircraft, dba Lanai Air"
+2024,2,19393,WN,Southwest Airlines Co.
+2024,2,19531,AC,Air Canada
+2024,2,19534,AM,Aeromexico
+2024,2,19543,CA,Air China
+2024,2,19544,CI,China Airlines Ltd.
+2024,2,19550,KE,Korean Air Lines Co. Ltd.
+2024,2,19554,LH,Lufthansa German Airlines
+2024,2,19564,PR,Philippine Airlines Inc.
+2024,2,19566,QF,Qantas Airways Ltd.
+2024,2,19572,SQ,Singapore Airlines Ltd.
+2024,2,19687,QX,Horizon Air
+2024,2,19690,HA,Hawaiian Airlines Inc.
+2024,2,19779,CX,Cathay Pacific Airways Ltd.
+2024,2,19790,DL,Delta Air Lines Inc.
+2024,2,19805,AA,American Airlines Inc.
+2024,2,19821,TK,Turk Hava Yollari A.O.
+2024,2,19830,KZ,Nippon Cargo Airlines
+2024,2,19874,8C,Air Transport International
+2024,2,19917,5X,United Parcel Service
+2024,2,19930,AS,Alaska Airlines Inc.
+2024,2,19958,MU,China Eastern Airlines
+2024,2,19977,UA,United Air Lines Inc.
+2024,2,20005,BR,Eva Airways Corporation
+2024,2,20007,5Y,Atlas Air Inc.
+2024,2,20046,ZW,Air Wisconsin Airlines Corp
+2024,2,20100,PO,Polar Air Cargo Airways
+2024,2,20107,FX,Federal Express Corporation
+2024,2,20108,NC,Northern Air Cargo Inc.
+2024,2,20110,ADB,Antonov Company
+2024,2,20120,DE,Condor Flugdienst
+2024,2,20140,CC,Air Atlanta Icelandic
+2024,2,20151,M6,Amerijet International
+2024,2,20166,GFQ,Gulf And Caribbean Cargo
+2024,2,20169,L2,Lynden Air Cargo Airlines
+2024,2,20177,PFQ,Asia Pacific
+2024,2,20195,WI,Sky Lease Cargo
+2024,2,20201,AMQ,Ameristar Air Cargo
+2024,2,20207,XP,TEM Enterprises dba  Avelo Airlines
+2024,2,20226,SNK,Spernak Airways Inc.
+2024,2,20233,LX,Swiss International Airlines
+2024,2,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2024,2,20261,ELL,Ellis Air Taxi Inc.
+2024,2,20263,EM,Empire Airlines Inc.
+2024,2,20267,GCH,Grand Canyon Helicopters
+2024,2,20272,M5,Kenmore Air Harbor
+2024,2,20273,NEW,New England Airlines Inc.
+2024,2,20277,OZ,Asiana Airlines Inc.
+2024,2,20280,SEB,"Seaborne Virgin Islands, Inc."
+2024,2,20285,WRD,Ward Air
+2024,2,20304,OO,SkyWest Airlines Inc.
+2024,2,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2024,2,20319,2E,Smokey Bay Air Inc.
+2024,2,20323,4W,Warbelow
+2024,2,20327,7H,NEW PACIFIC AIRLINES
+2024,2,20330,7S,Ryan Air f/k/a Arctic Transportation
+2024,2,20331,8E,Bering Air Inc.
+2024,2,20333,8V,Wright Air Service
+2024,2,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2024,2,20341,KO,Alaska Central Express
+2024,2,20342,Q5,40-Mile Air
+2024,2,20346,V8,Iliamna Air Taxi
+2024,2,20362,CK,China Cargo Airline
+2024,2,20363,9E,Endeavor Air Inc.
+2024,2,20368,G4,Allegiant Air
+2024,2,20370,KAQ,Kalitta Air LLC
+2024,2,20372,KLQ,Kalitta Charters II
+2024,2,20377,X9,Omni Air International LLC
+2024,2,20378,YV,Mesa Airlines Inc.
+2024,2,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2024,2,20397,OH,PSA Airlines Inc.
+2024,2,20398,MQ,Envoy Air
+2024,2,20401,3M,Silver Airways
+2024,2,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2024,2,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2024,2,20409,B6,JetBlue Airways
+2024,2,20416,NK,Spirit Air Lines
+2024,2,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2024,2,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2024,2,20426,VD,Vieques Air Link Inc.
+2024,2,20427,PT,Piedmont Airlines
+2024,2,20436,F9,Frontier Airlines Inc.
+2024,2,20443,2O,Island Air Service
+2024,2,20445,C5,CommuteAir LLC dba CommuteAir
+2024,2,20447,U7,USA Jet Airlines Inc.
+2024,2,20452,YX,Republic Airline
+2024,2,20453,ABX,ABX Air Inc
+2024,2,20455,GV,Grant Aviation
+2024,2,20500,G7,GoJet Airlines LLC d/b/a United Express
+2024,2,21022,Z3Q,"PM Air, LLC"
+2024,2,21040,02Q,Titan Airways
+2024,2,21080,TJ,Tradewind Aviation
+2024,2,21147,0Q,Flying Service N.V.
+2024,2,21160,SVW,"Global Jet Luxembourg, Sa"
+2024,2,21161,09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern"
+2024,2,21186,0BQ,DCA
+2024,2,21271,HU,Hainan Airlines Company Limited
+2024,2,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2024,2,21376,L7,Lan Colombia
+2024,2,21386,X4,Air Excursions LLC
+2024,2,21427,3S,AeroLogic GmbH
+2024,2,21437,13Q,Chartright Air Inc.
+2024,2,21440,15Q,Air Alsie A/S
+2024,2,21477,VC,Via Airlines d/b/a Sterling Airways
+2024,2,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2024,2,21518,1EQ,"KaiserAir, Inc."
+2024,2,21548,1HQ,International Jet Management GmbH
+2024,2,21570,S2,Star Marianas Air Inc.
+2024,2,21582,RVQ,"Reeve Air Alaska, LLC"
+2024,2,21590,1UQ,Gainjet Aviation SA
+2024,2,21594,I4,Scott Air LLC dba Island Air Express
+2024,2,21599,4B,Boutique Air
+2024,2,21605,G3,VRG Linhas Aereas S A
+2024,2,21614,1QQ,City Wings Inc dba Seaflight
+2024,2,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2024,2,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2024,2,21629,KD,Western Global
+2024,2,21634,KH,Aloha Air Cargo
+2024,2,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2024,2,21646,24Q,Jet Story
+2024,2,21652,27Q,"Jet Aviation Flight Services, Inc."
+2024,2,21656,2AQ,ABS JETS A.S
+2024,2,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2024,2,21718,XE,Delux Public Charters d/b/a JSX
+2024,2,21743,TI,Tropic Ocean Airways LLC
+2024,2,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2024,2,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2024,2,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2024,2,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2024,2,21894,AN,"ADVANCED AIR, LLC"
+2024,2,21909,3AQ,"Maritime Helicopters, Inc."
+2024,2,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2024,2,21979,3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge"
+2024,2,22020,GEQ,"Gestair, S.A."
+2024,2,22035,LDQ,Sparfell Luftfahrt GmbH
+2024,2,22068,PAF,Pathfinder Aviation
+2024,2,22074,AOQ,Avcon Jet AG
+2024,2,22075,X5,"Junipogo, LLC"
+2024,2,22077,HAQ,Hamilton Jetport Limited
+2024,2,22080,MX,Breeze Aviation Group DBA  Breeze
+2024,2,22083,BAS,Baranautica Air Service LLC
+2024,2,22085,GCA,"Global Crossing Airlines, Inc."
+2024,2,22087,NIQ,AVCON JET MALTA LTD
+2024,2,22105,6F,"Fox Aircraft, LLC"
+2024,2,22107,JRQ,"KENAI AVIATION OPERATIONS, LLC"
+2024,2,22119,GQQ,Executive Express dba Ravn Connect
+2024,2,22120,QFX,Sparfell Malta Ltd
+2024,2,22121,HUQ,Haute Aviation
+2024,2,22137,LNY,"Western Aircraft, dba Lanai Air"
+2024,3,19393,WN,Southwest Airlines Co.
+2024,3,19531,AC,Air Canada
+2024,3,19534,AM,Aeromexico
+2024,3,19539,AZ,Italia Transporto Aereo S.P.A DBA ITA S.P.A
+2024,3,19543,CA,Air China
+2024,3,19544,CI,China Airlines Ltd.
+2024,3,19550,KE,Korean Air Lines Co. Ltd.
+2024,3,19552,LA,LATAM Airlines Group SA dba Lan Airlines
+2024,3,19554,LH,Lufthansa German Airlines
+2024,3,19566,QF,Qantas Airways Ltd.
+2024,3,19572,SQ,Singapore Airlines Ltd.
+2024,3,19687,QX,Horizon Air
+2024,3,19690,HA,Hawaiian Airlines Inc.
+2024,3,19779,CX,Cathay Pacific Airways Ltd.
+2024,3,19790,DL,Delta Air Lines Inc.
+2024,3,19805,AA,American Airlines Inc.
+2024,3,19821,TK,Turk Hava Yollari A.O.
+2024,3,19830,KZ,Nippon Cargo Airlines
+2024,3,19874,8C,Air Transport International
+2024,3,19917,5X,United Parcel Service
+2024,3,19930,AS,Alaska Airlines Inc.
+2024,3,19958,MU,China Eastern Airlines
+2024,3,19977,UA,United Air Lines Inc.
+2024,3,20005,BR,Eva Airways Corporation
+2024,3,20007,5Y,Atlas Air Inc.
+2024,3,20046,ZW,Air Wisconsin Airlines Corp
+2024,3,20100,PO,Polar Air Cargo Airways
+2024,3,20107,FX,Federal Express Corporation
+2024,3,20108,NC,Northern Air Cargo Inc.
+2024,3,20110,ADB,Antonov Company
+2024,3,20120,DE,Condor Flugdienst
+2024,3,20140,CC,Air Atlanta Icelandic
+2024,3,20151,M6,Amerijet International
+2024,3,20156,M3,ABSA-Aerolinhas Brasileiras
+2024,3,20166,GFQ,Gulf And Caribbean Cargo
+2024,3,20169,L2,Lynden Air Cargo Airlines
+2024,3,20177,PFQ,Asia Pacific
+2024,3,20195,WI,Sky Lease Cargo
+2024,3,20201,AMQ,Ameristar Air Cargo
+2024,3,20207,XP,TEM Enterprises dba  Avelo Airlines
+2024,3,20224,KAT,Katmai Air
+2024,3,20226,SNK,Spernak Airways Inc.
+2024,3,20250,5D,Aerolitoral
+2024,3,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2024,3,20261,ELL,Ellis Air Taxi Inc.
+2024,3,20263,EM,Empire Airlines Inc.
+2024,3,20267,GCH,Grand Canyon Helicopters
+2024,3,20272,M5,Kenmore Air Harbor
+2024,3,20273,NEW,New England Airlines Inc.
+2024,3,20277,OZ,Asiana Airlines Inc.
+2024,3,20280,SEB,"Seaborne Virgin Islands, Inc."
+2024,3,20285,WRD,Ward Air
+2024,3,20303,NLQ,Nolinor Aviation
+2024,3,20304,OO,SkyWest Airlines Inc.
+2024,3,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2024,3,20319,2E,Smokey Bay Air Inc.
+2024,3,20323,4W,Warbelow
+2024,3,20327,7H,NEW PACIFIC AIRLINES
+2024,3,20330,7S,Ryan Air f/k/a Arctic Transportation
+2024,3,20331,8E,Bering Air Inc.
+2024,3,20333,8V,Wright Air Service
+2024,3,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2024,3,20341,KO,Alaska Central Express
+2024,3,20342,Q5,40-Mile Air
+2024,3,20346,V8,Iliamna Air Taxi
+2024,3,20348,XL,Lan Ecuador
+2024,3,20362,CK,China Cargo Airline
+2024,3,20363,9E,Endeavor Air Inc.
+2024,3,20368,G4,Allegiant Air
+2024,3,20370,KAQ,Kalitta Air LLC
+2024,3,20372,KLQ,Kalitta Charters II
+2024,3,20377,X9,Omni Air International LLC
+2024,3,20378,YV,Mesa Airlines Inc.
+2024,3,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2024,3,20397,OH,PSA Airlines Inc.
+2024,3,20398,MQ,Envoy Air
+2024,3,20401,3M,Silver Airways
+2024,3,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2024,3,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2024,3,20409,B6,JetBlue Airways
+2024,3,20416,NK,Spirit Air Lines
+2024,3,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2024,3,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2024,3,20426,VD,Vieques Air Link Inc.
+2024,3,20427,PT,Piedmont Airlines
+2024,3,20436,F9,Frontier Airlines Inc.
+2024,3,20443,2O,Island Air Service
+2024,3,20445,C5,CommuteAir LLC dba CommuteAir
+2024,3,20447,U7,USA Jet Airlines Inc.
+2024,3,20452,YX,Republic Airline
+2024,3,20453,ABX,ABX Air Inc
+2024,3,20455,GV,Grant Aviation
+2024,3,20500,G7,GoJet Airlines LLC d/b/a United Express
+2024,3,21022,Z3Q,"PM Air, LLC"
+2024,3,21040,02Q,Titan Airways
+2024,3,21080,TJ,Tradewind Aviation
+2024,3,21147,0Q,Flying Service N.V.
+2024,3,21160,SVW,"Global Jet Luxembourg, Sa"
+2024,3,21161,09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern"
+2024,3,21196,0CQ,ACM AIR CHARTER GmbH
+2024,3,21271,HU,Hainan Airlines Company Limited
+2024,3,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2024,3,21376,L7,Lan Colombia
+2024,3,21386,X4,Air Excursions LLC
+2024,3,21427,3S,AeroLogic GmbH
+2024,3,21437,13Q,Chartright Air Inc.
+2024,3,21440,15Q,Air Alsie A/S
+2024,3,21477,VC,Via Airlines d/b/a Sterling Airways
+2024,3,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2024,3,21518,1EQ,"KaiserAir, Inc."
+2024,3,21570,S2,Star Marianas Air Inc.
+2024,3,21582,RVQ,"Reeve Air Alaska, LLC"
+2024,3,21590,1UQ,Gainjet Aviation SA
+2024,3,21594,I4,Scott Air LLC dba Island Air Express
+2024,3,21599,4B,Boutique Air
+2024,3,21605,G3,VRG Linhas Aereas S A
+2024,3,21610,RV,Air Canada rouge LP
+2024,3,21614,1QQ,City Wings Inc dba Seaflight
+2024,3,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2024,3,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2024,3,21629,KD,Western Global
+2024,3,21634,KH,Aloha Air Cargo
+2024,3,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2024,3,21646,24Q,Jet Story
+2024,3,21652,27Q,"Jet Aviation Flight Services, Inc."
+2024,3,21656,2AQ,ABS JETS A.S
+2024,3,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2024,3,21718,XE,Delux Public Charters d/b/a JSX
+2024,3,21743,TI,Tropic Ocean Airways LLC
+2024,3,21814,2UQ,Svenskt Industriflyg AB
+2024,3,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2024,3,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2024,3,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2024,3,21894,AN,"ADVANCED AIR, LLC"
+2024,3,21909,3AQ,"Maritime Helicopters, Inc."
+2024,3,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2024,3,21979,3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge"
+2024,3,22010,IFQ,FAI rent-a-jet AG
+2024,3,22020,GEQ,"Gestair, S.A."
+2024,3,22025,KFQ,Skyfirst Limited
+2024,3,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2024,3,22052,EAU,Elitavia Malta Limited
+2024,3,22061,WGT,Volkswagen AirSevice GmbH dba Volkswagon
+2024,3,22062,HYP,Hyperion Aviation Ltd. dba Hyperion
+2024,3,22068,PAF,Pathfinder Aviation
+2024,3,22074,AOQ,Avcon Jet AG
+2024,3,22075,X5,"Junipogo, LLC"
+2024,3,22077,HAQ,Hamilton Jetport Limited
+2024,3,22080,MX,Breeze Aviation Group DBA  Breeze
+2024,3,22083,BAS,Baranautica Air Service LLC
+2024,3,22085,GCA,"Global Crossing Airlines, Inc."
+2024,3,22090,4Y,Eurowings Discover GmbH
+2024,3,22099,PTQ,Pontair Ltd.
+2024,3,22105,6F,"Fox Aircraft, LLC"
+2024,3,22107,JRQ,"KENAI AVIATION OPERATIONS, LLC"
+2024,3,22119,GQQ,Executive Express dba Ravn Connect
+2024,3,22120,QFX,Sparfell Malta Ltd
+2024,3,22121,HUQ,Haute Aviation
+2024,3,22137,LNY,"Western Aircraft, dba Lanai Air"
+2024,4,19393,WN,Southwest Airlines Co.
+2024,4,19531,AC,Air Canada
+2024,4,19539,AZ,Italia Transporto Aereo S.P.A DBA ITA S.P.A
+2024,4,19540,BA,British Airways Plc
+2024,4,19543,CA,Air China
+2024,4,19544,CI,China Airlines Ltd.
+2024,4,19547,IB,Iberia Air Lines Of Spain
+2024,4,19550,KE,Korean Air Lines Co. Ltd.
+2024,4,19554,LH,Lufthansa German Airlines
+2024,4,19566,QF,Qantas Airways Ltd.
+2024,4,19572,SQ,Singapore Airlines Ltd.
+2024,4,19574,TA,Taca International Airlines
+2024,4,19687,QX,Horizon Air
+2024,4,19690,HA,Hawaiian Airlines Inc.
+2024,4,19779,CX,Cathay Pacific Airways Ltd.
+2024,4,19790,DL,Delta Air Lines Inc.
+2024,4,19805,AA,American Airlines Inc.
+2024,4,19821,TK,Turk Hava Yollari A.O.
+2024,4,19830,KZ,Nippon Cargo Airlines
+2024,4,19874,8C,Air Transport International
+2024,4,19917,5X,United Parcel Service
+2024,4,19930,AS,Alaska Airlines Inc.
+2024,4,19958,MU,China Eastern Airlines
+2024,4,19977,UA,United Air Lines Inc.
+2024,4,20005,BR,Eva Airways Corporation
+2024,4,20007,5Y,Atlas Air Inc.
+2024,4,20046,ZW,Air Wisconsin Airlines Corp
+2024,4,20100,PO,Polar Air Cargo Airways
+2024,4,20107,FX,Federal Express Corporation
+2024,4,20108,NC,Northern Air Cargo Inc.
+2024,4,20110,ADB,Antonov Company
+2024,4,20120,DE,Condor Flugdienst
+2024,4,20151,M6,Amerijet International
+2024,4,20156,M3,ABSA-Aerolinhas Brasileiras
+2024,4,20166,GFQ,Gulf And Caribbean Cargo
+2024,4,20169,L2,Lynden Air Cargo Airlines
+2024,4,20177,PFQ,Asia Pacific
+2024,4,20195,WI,Sky Lease Cargo
+2024,4,20201,AMQ,Ameristar Air Cargo
+2024,4,20207,XP,TEM Enterprises dba  Avelo Airlines
+2024,4,20224,KAT,Katmai Air
+2024,4,20226,SNK,Spernak Airways Inc.
+2024,4,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2024,4,20261,ELL,Ellis Air Taxi Inc.
+2024,4,20263,EM,Empire Airlines Inc.
+2024,4,20267,GCH,Grand Canyon Helicopters
+2024,4,20272,M5,Kenmore Air Harbor
+2024,4,20273,NEW,New England Airlines Inc.
+2024,4,20277,OZ,Asiana Airlines Inc.
+2024,4,20285,WRD,Ward Air
+2024,4,20304,OO,SkyWest Airlines Inc.
+2024,4,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2024,4,20319,2E,Smokey Bay Air Inc.
+2024,4,20323,4W,Warbelow
+2024,4,20327,7H,NEW PACIFIC AIRLINES
+2024,4,20330,7S,Ryan Air f/k/a Arctic Transportation
+2024,4,20331,8E,Bering Air Inc.
+2024,4,20333,8V,Wright Air Service
+2024,4,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2024,4,20341,KO,Alaska Central Express
+2024,4,20342,Q5,40-Mile Air
+2024,4,20346,V8,Iliamna Air Taxi
+2024,4,20348,XL,Lan Ecuador
+2024,4,20362,CK,China Cargo Airline
+2024,4,20363,9E,Endeavor Air Inc.
+2024,4,20368,G4,Allegiant Air
+2024,4,20370,KAQ,Kalitta Air LLC
+2024,4,20372,KLQ,Kalitta Charters II
+2024,4,20377,X9,Omni Air International LLC
+2024,4,20378,YV,Mesa Airlines Inc.
+2024,4,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2024,4,20397,OH,PSA Airlines Inc.
+2024,4,20398,MQ,Envoy Air
+2024,4,20401,3M,Silver Airways
+2024,4,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2024,4,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2024,4,20409,B6,JetBlue Airways
+2024,4,20416,NK,Spirit Air Lines
+2024,4,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2024,4,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2024,4,20426,VD,Vieques Air Link Inc.
+2024,4,20427,PT,Piedmont Airlines
+2024,4,20436,F9,Frontier Airlines Inc.
+2024,4,20443,2O,Island Air Service
+2024,4,20445,C5,CommuteAir LLC dba CommuteAir
+2024,4,20447,U7,USA Jet Airlines Inc.
+2024,4,20452,YX,Republic Airline
+2024,4,20453,ABX,ABX Air Inc
+2024,4,20455,GV,Grant Aviation
+2024,4,20500,G7,GoJet Airlines LLC d/b/a United Express
+2024,4,21022,Z3Q,"PM Air, LLC"
+2024,4,21040,02Q,Titan Airways
+2024,4,21080,TJ,Tradewind Aviation
+2024,4,21147,0Q,Flying Service N.V.
+2024,4,21160,SVW,"Global Jet Luxembourg, Sa"
+2024,4,21331,0UQ,"Comlux Malta, Ltd."
+2024,4,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2024,4,21376,L7,Lan Colombia
+2024,4,21386,X4,Air Excursions LLC
+2024,4,21407,10Q,Swiss Air Ambulance
+2024,4,21427,3S,AeroLogic GmbH
+2024,4,21437,13Q,Chartright Air Inc.
+2024,4,21440,15Q,Air Alsie A/S
+2024,4,21477,VC,Via Airlines d/b/a Sterling Airways
+2024,4,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2024,4,21518,1EQ,"KaiserAir, Inc."
+2024,4,21548,1HQ,International Jet Management GmbH
+2024,4,21570,S2,Star Marianas Air Inc.
+2024,4,21582,RVQ,"Reeve Air Alaska, LLC"
+2024,4,21590,1UQ,Gainjet Aviation SA
+2024,4,21594,I4,Scott Air LLC dba Island Air Express
+2024,4,21599,4B,Boutique Air
+2024,4,21601,1XQ,Dassault Falcon Service
+2024,4,21614,1QQ,City Wings Inc dba Seaflight
+2024,4,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2024,4,21629,KD,Western Global
+2024,4,21634,KH,Aloha Air Cargo
+2024,4,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2024,4,21649,25Q,Mjet GmbH
+2024,4,21652,27Q,"Jet Aviation Flight Services, Inc."
+2024,4,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2024,4,21718,XE,Delux Public Charters d/b/a JSX
+2024,4,21743,TI,Tropic Ocean Airways LLC
+2024,4,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2024,4,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2024,4,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2024,4,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2024,4,21894,AN,"ADVANCED AIR, LLC"
+2024,4,21909,3AQ,"Maritime Helicopters, Inc."
+2024,4,21944,W7,"Nealco Air Charter Services, Inc.  d/b/a  Watermakers Air"
+2024,4,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2024,4,22010,IFQ,FAI rent-a-jet AG
+2024,4,22025,KFQ,Skyfirst Limited
+2024,4,22061,WGT,Volkswagen AirSevice GmbH dba Volkswagon
+2024,4,22062,HYP,Hyperion Aviation Ltd. dba Hyperion
+2024,4,22068,PAF,Pathfinder Aviation
+2024,4,22074,AOQ,Avcon Jet AG
+2024,4,22075,X5,"Junipogo, LLC"
+2024,4,22077,HAQ,Hamilton Jetport Limited
+2024,4,22080,MX,Breeze Aviation Group DBA  Breeze
+2024,4,22083,BAS,Baranautica Air Service LLC
+2024,4,22085,GCA,"Global Crossing Airlines, Inc."
+2024,4,22090,4Y,Eurowings Discover GmbH
+2024,4,22099,PTQ,Pontair Ltd.
+2024,4,22105,6F,"Fox Aircraft, LLC"
+2024,4,22107,JRQ,"KENAI AVIATION OPERATIONS, LLC"
+2024,4,22119,GQQ,Executive Express dba Ravn Connect
+2024,4,22120,QFX,Sparfell Malta Ltd
+2024,4,22121,HUQ,Haute Aviation
+2024,4,22135,EDQ,Air Charter Scotland Ltd.
+2024,4,22137,LNY,"Western Aircraft, dba Lanai Air"
+2024,5,19393,WN,Southwest Airlines Co.
+2024,5,19531,AC,Air Canada
+2024,5,19532,AF,Compagnie Natl Air France
+2024,5,19543,CA,Air China
+2024,5,19544,CI,China Airlines Ltd.
+2024,5,19547,IB,Iberia Air Lines Of Spain
+2024,5,19550,KE,Korean Air Lines Co. Ltd.
+2024,5,19552,LA,LATAM Airlines Group SA dba Lan Airlines
+2024,5,19554,LH,Lufthansa German Airlines
+2024,5,19566,QF,Qantas Airways Ltd.
+2024,5,19572,SQ,Singapore Airlines Ltd.
+2024,5,19574,TA,Taca International Airlines
+2024,5,19576,TP,TAP-TAP Air Portugal
+2024,5,19687,QX,Horizon Air
+2024,5,19690,HA,Hawaiian Airlines Inc.
+2024,5,19779,CX,Cathay Pacific Airways Ltd.
+2024,5,19790,DL,Delta Air Lines Inc.
+2024,5,19805,AA,American Airlines Inc.
+2024,5,19821,TK,Turk Hava Yollari A.O.
+2024,5,19830,KZ,Nippon Cargo Airlines
+2024,5,19874,8C,Air Transport International
+2024,5,19917,5X,United Parcel Service
+2024,5,19930,AS,Alaska Airlines Inc.
+2024,5,19977,UA,United Air Lines Inc.
+2024,5,20005,BR,Eva Airways Corporation
+2024,5,20007,5Y,Atlas Air Inc.
+2024,5,20046,ZW,Air Wisconsin Airlines Corp
+2024,5,20100,PO,Polar Air Cargo Airways
+2024,5,20107,FX,Federal Express Corporation
+2024,5,20108,NC,Northern Air Cargo Inc.
+2024,5,20110,ADB,Antonov Company
+2024,5,20140,CC,Air Atlanta Icelandic
+2024,5,20151,M6,Amerijet International
+2024,5,20156,M3,ABSA-Aerolinhas Brasileiras
+2024,5,20166,GFQ,Gulf And Caribbean Cargo
+2024,5,20169,L2,Lynden Air Cargo Airlines
+2024,5,20177,PFQ,Asia Pacific
+2024,5,20188,LP,Lan Peru Airlines
+2024,5,20195,WI,Sky Lease Cargo
+2024,5,20207,XP,TEM Enterprises dba  Avelo Airlines
+2024,5,20224,KAT,Katmai Air
+2024,5,20226,SNK,Spernak Airways Inc.
+2024,5,20233,LX,Swiss International Airlines
+2024,5,20250,5D,Aerolitoral
+2024,5,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2024,5,20261,ELL,Ellis Air Taxi Inc.
+2024,5,20263,EM,Empire Airlines Inc.
+2024,5,20272,M5,Kenmore Air Harbor
+2024,5,20273,NEW,New England Airlines Inc.
+2024,5,20277,OZ,Asiana Airlines Inc.
+2024,5,20285,WRD,Ward Air
+2024,5,20289,WST,Friday Harbor Seaplanes
+2024,5,20304,OO,SkyWest Airlines Inc.
+2024,5,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2024,5,20319,2E,Smokey Bay Air Inc.
+2024,5,20323,4W,Warbelow
+2024,5,20327,7H,NEW PACIFIC AIRLINES
+2024,5,20330,7S,Ryan Air f/k/a Arctic Transportation
+2024,5,20331,8E,Bering Air Inc.
+2024,5,20333,8V,Wright Air Service
+2024,5,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2024,5,20341,KO,Alaska Central Express
+2024,5,20342,Q5,40-Mile Air
+2024,5,20346,V8,Iliamna Air Taxi
+2024,5,20362,CK,China Cargo Airline
+2024,5,20363,9E,Endeavor Air Inc.
+2024,5,20368,G4,Allegiant Air
+2024,5,20370,KAQ,Kalitta Air LLC
+2024,5,20372,KLQ,Kalitta Charters II
+2024,5,20377,X9,Omni Air International LLC
+2024,5,20378,YV,Mesa Airlines Inc.
+2024,5,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2024,5,20397,OH,PSA Airlines Inc.
+2024,5,20398,MQ,Envoy Air
+2024,5,20401,3M,Silver Airways
+2024,5,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2024,5,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2024,5,20409,B6,JetBlue Airways
+2024,5,20416,NK,Spirit Air Lines
+2024,5,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2024,5,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2024,5,20426,VD,Vieques Air Link Inc.
+2024,5,20427,PT,Piedmont Airlines
+2024,5,20436,F9,Frontier Airlines Inc.
+2024,5,20443,2O,Island Air Service
+2024,5,20445,C5,CommuteAir LLC dba CommuteAir
+2024,5,20447,U7,USA Jet Airlines Inc.
+2024,5,20452,YX,Republic Airline
+2024,5,20453,ABX,ABX Air Inc
+2024,5,20455,GV,Grant Aviation
+2024,5,20500,G7,GoJet Airlines LLC d/b/a United Express
+2024,5,21022,Z3Q,"PM Air, LLC"
+2024,5,21040,02Q,Titan Airways
+2024,5,21080,TJ,Tradewind Aviation
+2024,5,21147,0Q,Flying Service N.V.
+2024,5,21160,SVW,"Global Jet Luxembourg, Sa"
+2024,5,21196,0CQ,ACM AIR CHARTER GmbH
+2024,5,21271,HU,Hainan Airlines Company Limited
+2024,5,21331,0UQ,"Comlux Malta, Ltd."
+2024,5,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2024,5,21376,L7,Lan Colombia
+2024,5,21386,X4,Air Excursions LLC
+2024,5,21427,3S,AeroLogic GmbH
+2024,5,21437,13Q,Chartright Air Inc.
+2024,5,21440,15Q,Air Alsie A/S
+2024,5,21477,VC,Via Airlines d/b/a Sterling Airways
+2024,5,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2024,5,21518,1EQ,"KaiserAir, Inc."
+2024,5,21568,VJT,VistaJet Limited
+2024,5,21570,S2,Star Marianas Air Inc.
+2024,5,21582,RVQ,"Reeve Air Alaska, LLC"
+2024,5,21590,1UQ,Gainjet Aviation SA
+2024,5,21594,I4,Scott Air LLC dba Island Air Express
+2024,5,21599,4B,Boutique Air
+2024,5,21610,RV,Air Canada rouge LP
+2024,5,21614,1QQ,City Wings Inc dba Seaflight
+2024,5,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2024,5,21629,KD,Western Global
+2024,5,21634,KH,Aloha Air Cargo
+2024,5,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2024,5,21649,25Q,Mjet GmbH
+2024,5,21652,27Q,"Jet Aviation Flight Services, Inc."
+2024,5,21656,2AQ,ABS JETS A.S
+2024,5,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2024,5,21718,XE,Delux Public Charters d/b/a JSX
+2024,5,21743,TI,Tropic Ocean Airways LLC
+2024,5,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2024,5,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2024,5,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2024,5,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2024,5,21894,AN,"ADVANCED AIR, LLC"
+2024,5,21909,3AQ,"Maritime Helicopters, Inc."
+2024,5,21944,W7,"Nealco Air Charter Services, Inc.  d/b/a  Watermakers Air"
+2024,5,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2024,5,21979,3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge"
+2024,5,22010,IFQ,FAI rent-a-jet AG
+2024,5,22020,GEQ,"Gestair, S.A."
+2024,5,22025,KFQ,Skyfirst Limited
+2024,5,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2024,5,22061,WGT,Volkswagen AirSevice GmbH dba Volkswagon
+2024,5,22068,PAF,Pathfinder Aviation
+2024,5,22074,AOQ,Avcon Jet AG
+2024,5,22075,X5,"Junipogo, LLC"
+2024,5,22077,HAQ,Hamilton Jetport Limited
+2024,5,22080,MX,Breeze Aviation Group DBA  Breeze
+2024,5,22083,BAS,Baranautica Air Service LLC
+2024,5,22085,GCA,"Global Crossing Airlines, Inc."
+2024,5,22105,6F,"Fox Aircraft, LLC"
+2024,5,22107,JRQ,"KENAI AVIATION OPERATIONS, LLC"
+2024,5,22113,AQB,Scanwings Oy
+2024,5,22115,SWQ,Swiss Private Jet S.A.
+2024,5,22119,GQQ,Executive Express dba Ravn Connect
+2024,5,22120,QFX,Sparfell Malta Ltd
+2024,5,22121,HUQ,Haute Aviation
+2024,5,22124,JEQ,Jetflite Oy
+2024,5,22129,W2,FlexFlight AsP
+2024,5,22137,LNY,"Western Aircraft, dba Lanai Air"
+2024,6,19393,WN,Southwest Airlines Co.
+2024,6,19531,AC,Air Canada
+2024,6,19532,AF,Compagnie Natl Air France
+2024,6,19534,AM,Aeromexico
+2024,6,19543,CA,Air China
+2024,6,19544,CI,China Airlines Ltd.
+2024,6,19550,KE,Korean Air Lines Co. Ltd.
+2024,6,19552,LA,LATAM Airlines Group SA dba Lan Airlines
+2024,6,19554,LH,Lufthansa German Airlines
+2024,6,19566,QF,Qantas Airways Ltd.
+2024,6,19572,SQ,Singapore Airlines Ltd.
+2024,6,19576,TP,TAP-TAP Air Portugal
+2024,6,19682,VS,Virgin Atlantic Airways
+2024,6,19687,QX,Horizon Air
+2024,6,19690,HA,Hawaiian Airlines Inc.
+2024,6,19779,CX,Cathay Pacific Airways Ltd.
+2024,6,19790,DL,Delta Air Lines Inc.
+2024,6,19805,AA,American Airlines Inc.
+2024,6,19821,TK,Turk Hava Yollari A.O.
+2024,6,19830,KZ,Nippon Cargo Airlines
+2024,6,19874,8C,Air Transport International
+2024,6,19912,KX,Cayman Airways Limited
+2024,6,19917,5X,United Parcel Service
+2024,6,19930,AS,Alaska Airlines Inc.
+2024,6,19958,MU,China Eastern Airlines
+2024,6,19977,UA,United Air Lines Inc.
+2024,6,20005,BR,Eva Airways Corporation
+2024,6,20007,5Y,Atlas Air Inc.
+2024,6,20046,ZW,Air Wisconsin Airlines Corp
+2024,6,20100,PO,Polar Air Cargo Airways
+2024,6,20107,FX,Federal Express Corporation
+2024,6,20108,NC,Northern Air Cargo Inc.
+2024,6,20110,ADB,Antonov Company
+2024,6,20120,DE,Condor Flugdienst
+2024,6,20151,M6,Amerijet International
+2024,6,20166,GFQ,Gulf And Caribbean Cargo
+2024,6,20169,L2,Lynden Air Cargo Airlines
+2024,6,20177,PFQ,Asia Pacific
+2024,6,20188,LP,Lan Peru Airlines
+2024,6,20195,WI,Sky Lease Cargo
+2024,6,20201,AMQ,Ameristar Air Cargo
+2024,6,20207,XP,TEM Enterprises dba  Avelo Airlines
+2024,6,20224,KAT,Katmai Air
+2024,6,20226,SNK,Spernak Airways Inc.
+2024,6,20233,LX,Swiss International Airlines
+2024,6,20250,5D,Aerolitoral
+2024,6,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2024,6,20261,ELL,Ellis Air Taxi Inc.
+2024,6,20263,EM,Empire Airlines Inc.
+2024,6,20267,GCH,Grand Canyon Helicopters
+2024,6,20272,M5,Kenmore Air Harbor
+2024,6,20273,NEW,New England Airlines Inc.
+2024,6,20277,OZ,Asiana Airlines Inc.
+2024,6,20285,WRD,Ward Air
+2024,6,20289,WST,Friday Harbor Seaplanes
+2024,6,20303,NLQ,Nolinor Aviation
+2024,6,20304,OO,SkyWest Airlines Inc.
+2024,6,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2024,6,20319,2E,Smokey Bay Air Inc.
+2024,6,20323,4W,Warbelow
+2024,6,20327,7H,NEW PACIFIC AIRLINES
+2024,6,20330,7S,Ryan Air f/k/a Arctic Transportation
+2024,6,20331,8E,Bering Air Inc.
+2024,6,20333,8V,Wright Air Service
+2024,6,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2024,6,20341,KO,Alaska Central Express
+2024,6,20342,Q5,40-Mile Air
+2024,6,20346,V8,Iliamna Air Taxi
+2024,6,20348,XL,Lan Ecuador
+2024,6,20362,CK,China Cargo Airline
+2024,6,20363,9E,Endeavor Air Inc.
+2024,6,20368,G4,Allegiant Air
+2024,6,20370,KAQ,Kalitta Air LLC
+2024,6,20372,KLQ,Kalitta Charters II
+2024,6,20377,X9,Omni Air International LLC
+2024,6,20378,YV,Mesa Airlines Inc.
+2024,6,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2024,6,20397,OH,PSA Airlines Inc.
+2024,6,20398,MQ,Envoy Air
+2024,6,20401,3M,Silver Airways
+2024,6,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2024,6,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2024,6,20409,B6,JetBlue Airways
+2024,6,20416,NK,Spirit Air Lines
+2024,6,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2024,6,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2024,6,20427,PT,Piedmont Airlines
+2024,6,20436,F9,Frontier Airlines Inc.
+2024,6,20443,2O,Island Air Service
+2024,6,20445,C5,CommuteAir LLC dba CommuteAir
+2024,6,20447,U7,USA Jet Airlines Inc.
+2024,6,20452,YX,Republic Airline
+2024,6,20453,ABX,ABX Air Inc
+2024,6,20455,GV,Grant Aviation
+2024,6,20500,G7,GoJet Airlines LLC d/b/a United Express
+2024,6,21022,Z3Q,"PM Air, LLC"
+2024,6,21080,TJ,Tradewind Aviation
+2024,6,21147,0Q,Flying Service N.V.
+2024,6,21196,0CQ,ACM AIR CHARTER GmbH
+2024,6,21271,HU,Hainan Airlines Company Limited
+2024,6,21331,0UQ,"Comlux Malta, Ltd."
+2024,6,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2024,6,21376,L7,Lan Colombia
+2024,6,21386,X4,Air Excursions LLC
+2024,6,21407,10Q,Swiss Air Ambulance
+2024,6,21427,3S,AeroLogic GmbH
+2024,6,21437,13Q,Chartright Air Inc.
+2024,6,21440,15Q,Air Alsie A/S
+2024,6,21477,VC,Via Airlines d/b/a Sterling Airways
+2024,6,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2024,6,21518,1EQ,"KaiserAir, Inc."
+2024,6,21568,VJT,VistaJet Limited
+2024,6,21570,S2,Star Marianas Air Inc.
+2024,6,21582,RVQ,"Reeve Air Alaska, LLC"
+2024,6,21590,1UQ,Gainjet Aviation SA
+2024,6,21594,I4,Scott Air LLC dba Island Air Express
+2024,6,21599,4B,Boutique Air
+2024,6,21601,1XQ,Dassault Falcon Service
+2024,6,21610,RV,Air Canada rouge LP
+2024,6,21614,1QQ,City Wings Inc dba Seaflight
+2024,6,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2024,6,21629,KD,Western Global
+2024,6,21634,KH,Aloha Air Cargo
+2024,6,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2024,6,21652,27Q,"Jet Aviation Flight Services, Inc."
+2024,6,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2024,6,21718,XE,Delux Public Charters d/b/a JSX
+2024,6,21743,TI,Tropic Ocean Airways LLC
+2024,6,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2024,6,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2024,6,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2024,6,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2024,6,21894,AN,"ADVANCED AIR, LLC"
+2024,6,21909,3AQ,"Maritime Helicopters, Inc."
+2024,6,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2024,6,21979,3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge"
+2024,6,22010,IFQ,FAI rent-a-jet AG
+2024,6,22020,GEQ,"Gestair, S.A."
+2024,6,22025,KFQ,Skyfirst Limited
+2024,6,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2024,6,22061,WGT,Volkswagen AirSevice GmbH dba Volkswagon
+2024,6,22068,PAF,Pathfinder Aviation
+2024,6,22074,AOQ,Avcon Jet AG
+2024,6,22075,X5,"Junipogo, LLC"
+2024,6,22080,MX,Breeze Aviation Group DBA  Breeze
+2024,6,22083,BAS,Baranautica Air Service LLC
+2024,6,22085,GCA,"Global Crossing Airlines, Inc."
+2024,6,22087,NIQ,AVCON JET MALTA LTD
+2024,6,22099,PTQ,Pontair Ltd.
+2024,6,22105,6F,"Fox Aircraft, LLC"
+2024,6,22107,JRQ,"KENAI AVIATION OPERATIONS, LLC"
+2024,6,22115,SWQ,Swiss Private Jet S.A.
+2024,6,22119,GQQ,Executive Express dba Ravn Connect
+2024,6,22120,QFX,Sparfell Malta Ltd
+2024,6,22134,JWQ,Global Jet Aruba V.B.A. d/b/a Global Jet Aruba
+2024,6,22137,LNY,"Western Aircraft, dba Lanai Air"
+2024,7,19393,WN,Southwest Airlines Co.
+2024,7,19531,AC,Air Canada
+2024,7,19534,AM,Aeromexico
+2024,7,19543,CA,Air China
+2024,7,19544,CI,China Airlines Ltd.
+2024,7,19550,KE,Korean Air Lines Co. Ltd.
+2024,7,19554,LH,Lufthansa German Airlines
+2024,7,19566,QF,Qantas Airways Ltd.
+2024,7,19572,SQ,Singapore Airlines Ltd.
+2024,7,19687,QX,Horizon Air
+2024,7,19690,HA,Hawaiian Airlines Inc.
+2024,7,19779,CX,Cathay Pacific Airways Ltd.
+2024,7,19790,DL,Delta Air Lines Inc.
+2024,7,19805,AA,American Airlines Inc.
+2024,7,19821,TK,Turk Hava Yollari A.O.
+2024,7,19830,KZ,Nippon Cargo Airlines
+2024,7,19874,8C,Air Transport International
+2024,7,19917,5X,United Parcel Service
+2024,7,19930,AS,Alaska Airlines Inc.
+2024,7,19977,UA,United Air Lines Inc.
+2024,7,20005,BR,Eva Airways Corporation
+2024,7,20007,5Y,Atlas Air Inc.
+2024,7,20046,ZW,Air Wisconsin Airlines Corp
+2024,7,20100,PO,Polar Air Cargo Airways
+2024,7,20107,FX,Federal Express Corporation
+2024,7,20108,NC,Northern Air Cargo Inc.
+2024,7,20110,ADB,Antonov Company
+2024,7,20120,DE,Condor Flugdienst
+2024,7,20151,M6,Amerijet International
+2024,7,20166,GFQ,Gulf And Caribbean Cargo
+2024,7,20169,L2,Lynden Air Cargo Airlines
+2024,7,20177,PFQ,Asia Pacific
+2024,7,20188,LP,Lan Peru Airlines
+2024,7,20195,WI,Sky Lease Cargo
+2024,7,20201,AMQ,Ameristar Air Cargo
+2024,7,20207,XP,TEM Enterprises dba  Avelo Airlines
+2024,7,20224,KAT,Katmai Air
+2024,7,20226,SNK,Spernak Airways Inc.
+2024,7,20229,WS,Westjet
+2024,7,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2024,7,20261,ELL,Ellis Air Taxi Inc.
+2024,7,20263,EM,Empire Airlines Inc.
+2024,7,20267,GCH,Grand Canyon Helicopters
+2024,7,20272,M5,Kenmore Air Harbor
+2024,7,20273,NEW,New England Airlines Inc.
+2024,7,20277,OZ,Asiana Airlines Inc.
+2024,7,20285,WRD,Ward Air
+2024,7,20289,WST,Friday Harbor Seaplanes
+2024,7,20304,OO,SkyWest Airlines Inc.
+2024,7,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2024,7,20319,2E,Smokey Bay Air Inc.
+2024,7,20323,4W,Warbelow
+2024,7,20327,7H,NEW PACIFIC AIRLINES
+2024,7,20330,7S,Ryan Air f/k/a Arctic Transportation
+2024,7,20331,8E,Bering Air Inc.
+2024,7,20333,8V,Wright Air Service
+2024,7,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2024,7,20341,KO,Alaska Central Express
+2024,7,20342,Q5,40-Mile Air
+2024,7,20346,V8,Iliamna Air Taxi
+2024,7,20348,XL,Lan Ecuador
+2024,7,20362,CK,China Cargo Airline
+2024,7,20363,9E,Endeavor Air Inc.
+2024,7,20368,G4,Allegiant Air
+2024,7,20370,KAQ,Kalitta Air LLC
+2024,7,20372,KLQ,Kalitta Charters II
+2024,7,20377,X9,Omni Air International LLC
+2024,7,20378,YV,Mesa Airlines Inc.
+2024,7,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2024,7,20397,OH,PSA Airlines Inc.
+2024,7,20398,MQ,Envoy Air
+2024,7,20401,3M,Silver Airways
+2024,7,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2024,7,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2024,7,20409,B6,JetBlue Airways
+2024,7,20416,NK,Spirit Air Lines
+2024,7,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2024,7,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2024,7,20426,VD,Vieques Air Link Inc.
+2024,7,20427,PT,Piedmont Airlines
+2024,7,20436,F9,Frontier Airlines Inc.
+2024,7,20443,2O,Island Air Service
+2024,7,20445,C5,CommuteAir LLC dba CommuteAir
+2024,7,20447,U7,USA Jet Airlines Inc.
+2024,7,20452,YX,Republic Airline
+2024,7,20453,ABX,ABX Air Inc
+2024,7,20455,GV,Grant Aviation
+2024,7,20500,G7,GoJet Airlines LLC d/b/a United Express
+2024,7,21022,Z3Q,"PM Air, LLC"
+2024,7,21080,TJ,Tradewind Aviation
+2024,7,21160,SVW,"Global Jet Luxembourg, Sa"
+2024,7,21196,0CQ,ACM AIR CHARTER GmbH
+2024,7,21202,CAZ,CAT Aviation
+2024,7,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2024,7,21376,L7,Lan Colombia
+2024,7,21386,X4,Air Excursions LLC
+2024,7,21427,3S,AeroLogic GmbH
+2024,7,21437,13Q,Chartright Air Inc.
+2024,7,21440,15Q,Air Alsie A/S
+2024,7,21477,VC,Via Airlines d/b/a Sterling Airways
+2024,7,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2024,7,21518,1EQ,"KaiserAir, Inc."
+2024,7,21548,1HQ,International Jet Management GmbH
+2024,7,21570,S2,Star Marianas Air Inc.
+2024,7,21582,RVQ,"Reeve Air Alaska, LLC"
+2024,7,21590,1UQ,Gainjet Aviation SA
+2024,7,21594,I4,Scott Air LLC dba Island Air Express
+2024,7,21599,4B,Boutique Air
+2024,7,21610,RV,Air Canada rouge LP
+2024,7,21614,1QQ,City Wings Inc dba Seaflight
+2024,7,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2024,7,21629,KD,Western Global
+2024,7,21634,KH,Aloha Air Cargo
+2024,7,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2024,7,21646,24Q,Jet Story
+2024,7,21652,27Q,"Jet Aviation Flight Services, Inc."
+2024,7,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2024,7,21718,XE,Delux Public Charters d/b/a JSX
+2024,7,21743,TI,Tropic Ocean Airways LLC
+2024,7,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2024,7,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2024,7,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2024,7,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2024,7,21894,AN,"ADVANCED AIR, LLC"
+2024,7,21909,3AQ,"Maritime Helicopters, Inc."
+2024,7,21944,W7,"Nealco Air Charter Services, Inc.  d/b/a  Watermakers Air"
+2024,7,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2024,7,21979,3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge"
+2024,7,22010,IFQ,FAI rent-a-jet AG
+2024,7,22020,GEQ,"Gestair, S.A."
+2024,7,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2024,7,22061,WGT,Volkswagen AirSevice GmbH dba Volkswagon
+2024,7,22068,PAF,Pathfinder Aviation
+2024,7,22074,AOQ,Avcon Jet AG
+2024,7,22075,X5,"Junipogo, LLC"
+2024,7,22080,MX,Breeze Aviation Group DBA  Breeze
+2024,7,22083,BAS,Baranautica Air Service LLC
+2024,7,22085,GCA,"Global Crossing Airlines, Inc."
+2024,7,22090,4Y,Eurowings Discover GmbH
+2024,7,22104,ATQ,Bairline Fluggesellschaft
+2024,7,22105,6F,"Fox Aircraft, LLC"
+2024,7,22107,JRQ,"KENAI AVIATION OPERATIONS, LLC"
+2024,7,22115,SWQ,Swiss Private Jet S.A.
+2024,7,22119,GQQ,Executive Express dba Ravn Connect
+2024,7,22129,W2,FlexFlight AsP
+2024,7,22137,LNY,"Western Aircraft, dba Lanai Air"
+2024,8,19393,WN,Southwest Airlines Co.
+2024,8,19531,AC,Air Canada
+2024,8,19532,AF,Compagnie Natl Air France
+2024,8,19534,AM,Aeromexico
+2024,8,19543,CA,Air China
+2024,8,19544,CI,China Airlines Ltd.
+2024,8,19547,IB,Iberia Air Lines Of Spain
+2024,8,19550,KE,Korean Air Lines Co. Ltd.
+2024,8,19554,LH,Lufthansa German Airlines
+2024,8,19566,QF,Qantas Airways Ltd.
+2024,8,19572,SQ,Singapore Airlines Ltd.
+2024,8,19576,TP,TAP-TAP Air Portugal
+2024,8,19682,VS,Virgin Atlantic Airways
+2024,8,19687,QX,Horizon Air
+2024,8,19690,HA,Hawaiian Airlines Inc.
+2024,8,19779,CX,Cathay Pacific Airways Ltd.
+2024,8,19790,DL,Delta Air Lines Inc.
+2024,8,19805,AA,American Airlines Inc.
+2024,8,19821,TK,Turk Hava Yollari A.O.
+2024,8,19830,KZ,Nippon Cargo Airlines
+2024,8,19874,8C,Air Transport International
+2024,8,19912,KX,Cayman Airways Limited
+2024,8,19917,5X,United Parcel Service
+2024,8,19930,AS,Alaska Airlines Inc.
+2024,8,19977,UA,United Air Lines Inc.
+2024,8,20005,BR,Eva Airways Corporation
+2024,8,20007,5Y,Atlas Air Inc.
+2024,8,20046,ZW,Air Wisconsin Airlines Corp
+2024,8,20100,PO,Polar Air Cargo Airways
+2024,8,20107,FX,Federal Express Corporation
+2024,8,20108,NC,Northern Air Cargo Inc.
+2024,8,20110,ADB,Antonov Company
+2024,8,20148,MP,Martinair Holland N.V.
+2024,8,20151,M6,Amerijet International
+2024,8,20166,GFQ,Gulf And Caribbean Cargo
+2024,8,20169,L2,Lynden Air Cargo Airlines
+2024,8,20177,PFQ,Asia Pacific
+2024,8,20188,LP,Lan Peru Airlines
+2024,8,20195,WI,Sky Lease Cargo
+2024,8,20201,AMQ,Ameristar Air Cargo
+2024,8,20207,XP,TEM Enterprises dba  Avelo Airlines
+2024,8,20224,KAT,Katmai Air
+2024,8,20226,SNK,Spernak Airways Inc.
+2024,8,20250,5D,Aerolitoral
+2024,8,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2024,8,20261,ELL,Ellis Air Taxi Inc.
+2024,8,20263,EM,Empire Airlines Inc.
+2024,8,20267,GCH,Grand Canyon Helicopters
+2024,8,20272,M5,Kenmore Air Harbor
+2024,8,20273,NEW,New England Airlines Inc.
+2024,8,20277,OZ,Asiana Airlines Inc.
+2024,8,20285,WRD,Ward Air
+2024,8,20289,WST,Friday Harbor Seaplanes
+2024,8,20304,OO,SkyWest Airlines Inc.
+2024,8,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2024,8,20319,2E,Smokey Bay Air Inc.
+2024,8,20323,4W,Warbelow
+2024,8,20327,7H,NEW PACIFIC AIRLINES
+2024,8,20330,7S,Ryan Air f/k/a Arctic Transportation
+2024,8,20331,8E,Bering Air Inc.
+2024,8,20333,8V,Wright Air Service
+2024,8,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2024,8,20341,KO,Alaska Central Express
+2024,8,20342,Q5,40-Mile Air
+2024,8,20346,V8,Iliamna Air Taxi
+2024,8,20362,CK,China Cargo Airline
+2024,8,20363,9E,Endeavor Air Inc.
+2024,8,20368,G4,Allegiant Air
+2024,8,20370,KAQ,Kalitta Air LLC
+2024,8,20372,KLQ,Kalitta Charters II
+2024,8,20377,X9,Omni Air International LLC
+2024,8,20378,YV,Mesa Airlines Inc.
+2024,8,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2024,8,20397,OH,PSA Airlines Inc.
+2024,8,20398,MQ,Envoy Air
+2024,8,20401,3M,Silver Airways
+2024,8,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2024,8,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2024,8,20409,B6,JetBlue Airways
+2024,8,20416,NK,Spirit Air Lines
+2024,8,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2024,8,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2024,8,20426,VD,Vieques Air Link Inc.
+2024,8,20427,PT,Piedmont Airlines
+2024,8,20436,F9,Frontier Airlines Inc.
+2024,8,20443,2O,Island Air Service
+2024,8,20445,C5,CommuteAir LLC dba CommuteAir
+2024,8,20447,U7,USA Jet Airlines Inc.
+2024,8,20452,YX,Republic Airline
+2024,8,20453,ABX,ABX Air Inc
+2024,8,20455,GV,Grant Aviation
+2024,8,20500,G7,GoJet Airlines LLC d/b/a United Express
+2024,8,21022,Z3Q,"PM Air, LLC"
+2024,8,21040,02Q,Titan Airways
+2024,8,21080,TJ,Tradewind Aviation
+2024,8,21160,SVW,"Global Jet Luxembourg, Sa"
+2024,8,21196,0CQ,ACM AIR CHARTER GmbH
+2024,8,21271,HU,Hainan Airlines Company Limited
+2024,8,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2024,8,21376,L7,Lan Colombia
+2024,8,21386,X4,Air Excursions LLC
+2024,8,21406,CRV,Acropolis Aviation Ltd.
+2024,8,21427,3S,AeroLogic GmbH
+2024,8,21437,13Q,Chartright Air Inc.
+2024,8,21440,15Q,Air Alsie A/S
+2024,8,21477,VC,Via Airlines d/b/a Sterling Airways
+2024,8,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2024,8,21518,1EQ,"KaiserAir, Inc."
+2024,8,21570,S2,Star Marianas Air Inc.
+2024,8,21582,RVQ,"Reeve Air Alaska, LLC"
+2024,8,21590,1UQ,Gainjet Aviation SA
+2024,8,21594,I4,Scott Air LLC dba Island Air Express
+2024,8,21599,4B,Boutique Air
+2024,8,21610,RV,Air Canada rouge LP
+2024,8,21614,1QQ,City Wings Inc dba Seaflight
+2024,8,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2024,8,21629,KD,Western Global
+2024,8,21634,KH,Aloha Air Cargo
+2024,8,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2024,8,21652,27Q,"Jet Aviation Flight Services, Inc."
+2024,8,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2024,8,21718,XE,Delux Public Charters d/b/a JSX
+2024,8,21743,TI,Tropic Ocean Airways LLC
+2024,8,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2024,8,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2024,8,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2024,8,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2024,8,21894,AN,"ADVANCED AIR, LLC"
+2024,8,21909,3AQ,"Maritime Helicopters, Inc."
+2024,8,21944,W7,"Nealco Air Charter Services, Inc.  d/b/a  Watermakers Air"
+2024,8,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2024,8,21979,3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge"
+2024,8,22010,IFQ,FAI rent-a-jet AG
+2024,8,22020,GEQ,"Gestair, S.A."
+2024,8,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2024,8,22052,EAU,Elitavia Malta Limited
+2024,8,22061,WGT,Volkswagen AirSevice GmbH dba Volkswagon
+2024,8,22068,PAF,Pathfinder Aviation
+2024,8,22075,X5,"Junipogo, LLC"
+2024,8,22080,MX,Breeze Aviation Group DBA  Breeze
+2024,8,22083,BAS,Baranautica Air Service LLC
+2024,8,22085,GCA,"Global Crossing Airlines, Inc."
+2024,8,22099,PTQ,Pontair Ltd.
+2024,8,22105,6F,"Fox Aircraft, LLC"
+2024,8,22107,JRQ,"KENAI AVIATION OPERATIONS, LLC"
+2024,8,22120,QFX,Sparfell Malta Ltd
+2024,8,22121,HUQ,Haute Aviation
+2024,8,22129,W2,FlexFlight AsP
+2024,8,22137,LNY,"Western Aircraft, dba Lanai Air"
+2024,9,19393,WN,Southwest Airlines Co.
+2024,9,19531,AC,Air Canada
+2024,9,19543,CA,Air China
+2024,9,19544,CI,China Airlines Ltd.
+2024,9,19550,KE,Korean Air Lines Co. Ltd.
+2024,9,19552,LA,LATAM Airlines Group SA dba Lan Airlines
+2024,9,19554,LH,Lufthansa German Airlines
+2024,9,19566,QF,Qantas Airways Ltd.
+2024,9,19572,SQ,Singapore Airlines Ltd.
+2024,9,19682,VS,Virgin Atlantic Airways
+2024,9,19687,QX,Horizon Air
+2024,9,19690,HA,Hawaiian Airlines Inc.
+2024,9,19779,CX,Cathay Pacific Airways Ltd.
+2024,9,19790,DL,Delta Air Lines Inc.
+2024,9,19805,AA,American Airlines Inc.
+2024,9,19821,TK,Turk Hava Yollari A.O.
+2024,9,19830,KZ,Nippon Cargo Airlines
+2024,9,19874,8C,Air Transport International
+2024,9,19917,5X,United Parcel Service
+2024,9,19930,AS,Alaska Airlines Inc.
+2024,9,19977,UA,United Air Lines Inc.
+2024,9,20005,BR,Eva Airways Corporation
+2024,9,20007,5Y,Atlas Air Inc.
+2024,9,20046,ZW,Air Wisconsin Airlines Corp
+2024,9,20100,PO,Polar Air Cargo Airways
+2024,9,20107,FX,Federal Express Corporation
+2024,9,20108,NC,Northern Air Cargo Inc.
+2024,9,20110,ADB,Antonov Company
+2024,9,20151,M6,Amerijet International
+2024,9,20166,GFQ,Gulf And Caribbean Cargo
+2024,9,20169,L2,Lynden Air Cargo Airlines
+2024,9,20177,PFQ,Asia Pacific
+2024,9,20195,WI,Sky Lease Cargo
+2024,9,20201,AMQ,Ameristar Air Cargo
+2024,9,20207,XP,TEM Enterprises dba  Avelo Airlines
+2024,9,20224,KAT,Katmai Air
+2024,9,20226,SNK,Spernak Airways Inc.
+2024,9,20250,5D,Aerolitoral
+2024,9,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2024,9,20261,ELL,Ellis Air Taxi Inc.
+2024,9,20263,EM,Empire Airlines Inc.
+2024,9,20267,GCH,Grand Canyon Helicopters
+2024,9,20272,M5,Kenmore Air Harbor
+2024,9,20273,NEW,New England Airlines Inc.
+2024,9,20277,OZ,Asiana Airlines Inc.
+2024,9,20285,WRD,Ward Air
+2024,9,20289,WST,Friday Harbor Seaplanes
+2024,9,20304,OO,SkyWest Airlines Inc.
+2024,9,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2024,9,20319,2E,Smokey Bay Air Inc.
+2024,9,20323,4W,Warbelow
+2024,9,20327,7H,NEW PACIFIC AIRLINES
+2024,9,20330,7S,Ryan Air f/k/a Arctic Transportation
+2024,9,20331,8E,Bering Air Inc.
+2024,9,20333,8V,Wright Air Service
+2024,9,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2024,9,20341,KO,Alaska Central Express
+2024,9,20342,Q5,40-Mile Air
+2024,9,20346,V8,Iliamna Air Taxi
+2024,9,20362,CK,China Cargo Airline
+2024,9,20363,9E,Endeavor Air Inc.
+2024,9,20368,G4,Allegiant Air
+2024,9,20370,KAQ,Kalitta Air LLC
+2024,9,20372,KLQ,Kalitta Charters II
+2024,9,20377,X9,Omni Air International LLC
+2024,9,20378,YV,Mesa Airlines Inc.
+2024,9,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2024,9,20397,OH,PSA Airlines Inc.
+2024,9,20398,MQ,Envoy Air
+2024,9,20401,3M,Silver Airways
+2024,9,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2024,9,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2024,9,20409,B6,JetBlue Airways
+2024,9,20416,NK,Spirit Air Lines
+2024,9,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2024,9,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2024,9,20426,VD,Vieques Air Link Inc.
+2024,9,20427,PT,Piedmont Airlines
+2024,9,20436,F9,Frontier Airlines Inc.
+2024,9,20443,2O,Island Air Service
+2024,9,20445,C5,CommuteAir LLC dba CommuteAir
+2024,9,20447,U7,USA Jet Airlines Inc.
+2024,9,20452,YX,Republic Airline
+2024,9,20453,ABX,ABX Air Inc
+2024,9,20455,GV,Grant Aviation
+2024,9,20500,G7,GoJet Airlines LLC d/b/a United Express
+2024,9,21022,Z3Q,"PM Air, LLC"
+2024,9,21040,02Q,Titan Airways
+2024,9,21080,TJ,Tradewind Aviation
+2024,9,21160,SVW,"Global Jet Luxembourg, Sa"
+2024,9,21196,0CQ,ACM AIR CHARTER GmbH
+2024,9,21271,HU,Hainan Airlines Company Limited
+2024,9,21331,0UQ,"Comlux Malta, Ltd."
+2024,9,21376,L7,Lan Colombia
+2024,9,21386,X4,Air Excursions LLC
+2024,9,21406,CRV,Acropolis Aviation Ltd.
+2024,9,21427,3S,AeroLogic GmbH
+2024,9,21437,13Q,Chartright Air Inc.
+2024,9,21440,15Q,Air Alsie A/S
+2024,9,21477,VC,Via Airlines d/b/a Sterling Airways
+2024,9,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2024,9,21518,1EQ,"KaiserAir, Inc."
+2024,9,21548,1HQ,International Jet Management GmbH
+2024,9,21570,S2,Star Marianas Air Inc.
+2024,9,21582,RVQ,"Reeve Air Alaska, LLC"
+2024,9,21590,1UQ,Gainjet Aviation SA
+2024,9,21594,I4,Scott Air LLC dba Island Air Express
+2024,9,21599,4B,Boutique Air
+2024,9,21605,G3,VRG Linhas Aereas S A
+2024,9,21610,RV,Air Canada rouge LP
+2024,9,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2024,9,21629,KD,Western Global
+2024,9,21634,KH,Aloha Air Cargo
+2024,9,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2024,9,21652,27Q,"Jet Aviation Flight Services, Inc."
+2024,9,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2024,9,21718,XE,Delux Public Charters d/b/a JSX
+2024,9,21743,TI,Tropic Ocean Airways LLC
+2024,9,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2024,9,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2024,9,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2024,9,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2024,9,21894,AN,"ADVANCED AIR, LLC"
+2024,9,21909,3AQ,"Maritime Helicopters, Inc."
+2024,9,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2024,9,21979,3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge"
+2024,9,22010,IFQ,FAI rent-a-jet AG
+2024,9,22020,GEQ,"Gestair, S.A."
+2024,9,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2024,9,22061,WGT,Volkswagen AirSevice GmbH dba Volkswagon
+2024,9,22068,PAF,Pathfinder Aviation
+2024,9,22075,X5,"Junipogo, LLC"
+2024,9,22077,HAQ,Hamilton Jetport Limited
+2024,9,22080,MX,Breeze Aviation Group DBA  Breeze
+2024,9,22083,BAS,Baranautica Air Service LLC
+2024,9,22085,GCA,"Global Crossing Airlines, Inc."
+2024,9,22087,NIQ,AVCON JET MALTA LTD
+2024,9,22090,4Y,Eurowings Discover GmbH
+2024,9,22105,6F,"Fox Aircraft, LLC"
+2024,9,22107,JRQ,"KENAI AVIATION OPERATIONS, LLC"
+2024,9,22120,QFX,Sparfell Malta Ltd
+2024,9,22121,HUQ,Haute Aviation
+2024,9,22127,BQJ,Brenzil Pty. Ltd. d/b/a Brenzil Jet Charter
+2024,9,22135,EDQ,Air Charter Scotland Ltd.
+2024,9,22137,LNY,"Western Aircraft, dba Lanai Air"
+2024,10,19393,WN,Southwest Airlines Co.
+2024,10,19531,AC,Air Canada
+2024,10,19534,AM,Aeromexico
+2024,10,19543,CA,Air China
+2024,10,19544,CI,China Airlines Ltd.
+2024,10,19550,KE,Korean Air Lines Co. Ltd.
+2024,10,19552,LA,LATAM Airlines Group SA dba Lan Airlines
+2024,10,19554,LH,Lufthansa German Airlines
+2024,10,19566,QF,Qantas Airways Ltd.
+2024,10,19572,SQ,Singapore Airlines Ltd.
+2024,10,19682,VS,Virgin Atlantic Airways
+2024,10,19687,QX,Horizon Air
+2024,10,19690,HA,Hawaiian Airlines Inc.
+2024,10,19779,CX,Cathay Pacific Airways Ltd.
+2024,10,19790,DL,Delta Air Lines Inc.
+2024,10,19805,AA,American Airlines Inc.
+2024,10,19821,TK,Turk Hava Yollari A.O.
+2024,10,19830,KZ,Nippon Cargo Airlines
+2024,10,19855,BCQ,Bradley Air Services Ltd.
+2024,10,19874,8C,Air Transport International
+2024,10,19917,5X,United Parcel Service
+2024,10,19930,AS,Alaska Airlines Inc.
+2024,10,19977,UA,United Air Lines Inc.
+2024,10,20005,BR,Eva Airways Corporation
+2024,10,20007,5Y,Atlas Air Inc.
+2024,10,20046,ZW,Air Wisconsin Airlines Corp
+2024,10,20100,PO,Polar Air Cargo Airways
+2024,10,20107,FX,Federal Express Corporation
+2024,10,20108,NC,Northern Air Cargo Inc.
+2024,10,20110,ADB,Antonov Company
+2024,10,20140,CC,Air Atlanta Icelandic
+2024,10,20151,M6,Amerijet International
+2024,10,20166,GFQ,Gulf And Caribbean Cargo
+2024,10,20169,L2,Lynden Air Cargo Airlines
+2024,10,20177,PFQ,Asia Pacific
+2024,10,20195,WI,Sky Lease Cargo
+2024,10,20201,AMQ,Ameristar Air Cargo
+2024,10,20207,XP,TEM Enterprises dba  Avelo Airlines
+2024,10,20224,KAT,Katmai Air
+2024,10,20226,SNK,Spernak Airways Inc.
+2024,10,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2024,10,20261,ELL,Ellis Air Taxi Inc.
+2024,10,20263,EM,Empire Airlines Inc.
+2024,10,20267,GCH,Grand Canyon Helicopters
+2024,10,20272,M5,Kenmore Air Harbor
+2024,10,20273,NEW,New England Airlines Inc.
+2024,10,20277,OZ,Asiana Airlines Inc.
+2024,10,20285,WRD,Ward Air
+2024,10,20289,WST,Friday Harbor Seaplanes
+2024,10,20304,OO,SkyWest Airlines Inc.
+2024,10,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2024,10,20319,2E,Smokey Bay Air Inc.
+2024,10,20323,4W,Warbelow
+2024,10,20327,7H,NEW PACIFIC AIRLINES
+2024,10,20330,7S,Ryan Air f/k/a Arctic Transportation
+2024,10,20331,8E,Bering Air Inc.
+2024,10,20333,8V,Wright Air Service
+2024,10,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2024,10,20341,KO,Alaska Central Express
+2024,10,20342,Q5,40-Mile Air
+2024,10,20346,V8,Iliamna Air Taxi
+2024,10,20348,XL,Lan Ecuador
+2024,10,20362,CK,China Cargo Airline
+2024,10,20363,9E,Endeavor Air Inc.
+2024,10,20368,G4,Allegiant Air
+2024,10,20370,KAQ,Kalitta Air LLC
+2024,10,20372,KLQ,Kalitta Charters II
+2024,10,20377,X9,Omni Air International LLC
+2024,10,20378,YV,Mesa Airlines Inc.
+2024,10,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2024,10,20397,OH,PSA Airlines Inc.
+2024,10,20398,MQ,Envoy Air
+2024,10,20401,3M,Silver Airways
+2024,10,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2024,10,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2024,10,20409,B6,JetBlue Airways
+2024,10,20416,NK,Spirit Air Lines
+2024,10,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2024,10,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2024,10,20426,VD,Vieques Air Link Inc.
+2024,10,20427,PT,Piedmont Airlines
+2024,10,20436,F9,Frontier Airlines Inc.
+2024,10,20443,2O,Island Air Service
+2024,10,20445,C5,CommuteAir LLC dba CommuteAir
+2024,10,20447,U7,USA Jet Airlines Inc.
+2024,10,20452,YX,Republic Airline
+2024,10,20453,ABX,ABX Air Inc
+2024,10,20455,GV,Grant Aviation
+2024,10,20500,G7,GoJet Airlines LLC d/b/a United Express
+2024,10,21022,Z3Q,"PM Air, LLC"
+2024,10,21035,TIQ,Tyrolean Jet Service
+2024,10,21080,TJ,Tradewind Aviation
+2024,10,21147,0Q,Flying Service N.V.
+2024,10,21160,SVW,"Global Jet Luxembourg, Sa"
+2024,10,21271,HU,Hainan Airlines Company Limited
+2024,10,21331,0UQ,"Comlux Malta, Ltd."
+2024,10,21376,L7,Lan Colombia
+2024,10,21386,X4,Air Excursions LLC
+2024,10,21427,3S,AeroLogic GmbH
+2024,10,21437,13Q,Chartright Air Inc.
+2024,10,21440,15Q,Air Alsie A/S
+2024,10,21477,VC,Via Airlines d/b/a Sterling Airways
+2024,10,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2024,10,21518,1EQ,"KaiserAir, Inc."
+2024,10,21548,1HQ,International Jet Management GmbH
+2024,10,21568,VJT,VistaJet Limited
+2024,10,21570,S2,Star Marianas Air Inc.
+2024,10,21582,RVQ,"Reeve Air Alaska, LLC"
+2024,10,21590,1UQ,Gainjet Aviation SA
+2024,10,21594,I4,Scott Air LLC dba Island Air Express
+2024,10,21599,4B,Boutique Air
+2024,10,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2024,10,21629,KD,Western Global
+2024,10,21634,KH,Aloha Air Cargo
+2024,10,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2024,10,21652,27Q,"Jet Aviation Flight Services, Inc."
+2024,10,21656,2AQ,ABS JETS A.S
+2024,10,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2024,10,21718,XE,Delux Public Charters d/b/a JSX
+2024,10,21743,TI,Tropic Ocean Airways LLC
+2024,10,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2024,10,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2024,10,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2024,10,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2024,10,21894,AN,"ADVANCED AIR, LLC"
+2024,10,21909,3AQ,"Maritime Helicopters, Inc."
+2024,10,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2024,10,22010,IFQ,FAI rent-a-jet AG
+2024,10,22020,GEQ,"Gestair, S.A."
+2024,10,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2024,10,22068,PAF,Pathfinder Aviation
+2024,10,22074,AOQ,Avcon Jet AG
+2024,10,22075,X5,"Junipogo, LLC"
+2024,10,22077,HAQ,Hamilton Jetport Limited
+2024,10,22080,MX,Breeze Aviation Group DBA  Breeze
+2024,10,22083,BAS,Baranautica Air Service LLC
+2024,10,22085,GCA,"Global Crossing Airlines, Inc."
+2024,10,22105,6F,"Fox Aircraft, LLC"
+2024,10,22107,JRQ,"KENAI AVIATION OPERATIONS, LLC"
+2024,10,22115,SWQ,Swiss Private Jet S.A.
+2024,10,22120,QFX,Sparfell Malta Ltd
+2024,10,22121,HUQ,Haute Aviation
+2024,10,22124,JEQ,Jetflite Oy
+2024,10,22127,BQJ,Brenzil Pty. Ltd. d/b/a Brenzil Jet Charter
+2024,10,22129,W2,FlexFlight AsP
+2024,10,22135,EDQ,Air Charter Scotland Ltd.
+2024,10,22137,LNY,"Western Aircraft, dba Lanai Air"
+2024,11,19393,WN,Southwest Airlines Co.
+2024,11,19531,AC,Air Canada
+2024,11,19532,AF,Compagnie Natl Air France
+2024,11,19543,CA,Air China
+2024,11,19544,CI,China Airlines Ltd.
+2024,11,19550,KE,Korean Air Lines Co. Ltd.
+2024,11,19554,LH,Lufthansa German Airlines
+2024,11,19566,QF,Qantas Airways Ltd.
+2024,11,19572,SQ,Singapore Airlines Ltd.
+2024,11,19687,QX,Horizon Air
+2024,11,19690,HA,Hawaiian Airlines Inc.
+2024,11,19779,CX,Cathay Pacific Airways Ltd.
+2024,11,19790,DL,Delta Air Lines Inc.
+2024,11,19805,AA,American Airlines Inc.
+2024,11,19821,TK,Turk Hava Yollari A.O.
+2024,11,19830,KZ,Nippon Cargo Airlines
+2024,11,19874,8C,Air Transport International
+2024,11,19917,5X,United Parcel Service
+2024,11,19930,AS,Alaska Airlines Inc.
+2024,11,19977,UA,United Air Lines Inc.
+2024,11,20005,BR,Eva Airways Corporation
+2024,11,20007,5Y,Atlas Air Inc.
+2024,11,20046,ZW,Air Wisconsin Airlines Corp
+2024,11,20100,PO,Polar Air Cargo Airways
+2024,11,20107,FX,Federal Express Corporation
+2024,11,20108,NC,Northern Air Cargo Inc.
+2024,11,20110,ADB,Antonov Company
+2024,11,20151,M6,Amerijet International
+2024,11,20166,GFQ,Gulf And Caribbean Cargo
+2024,11,20169,L2,Lynden Air Cargo Airlines
+2024,11,20177,PFQ,Asia Pacific
+2024,11,20195,WI,Sky Lease Cargo
+2024,11,20201,AMQ,Ameristar Air Cargo
+2024,11,20207,XP,TEM Enterprises dba  Avelo Airlines
+2024,11,20224,KAT,Katmai Air
+2024,11,20226,SNK,Spernak Airways Inc.
+2024,11,20233,LX,Swiss International Airlines
+2024,11,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2024,11,20261,ELL,Ellis Air Taxi Inc.
+2024,11,20263,EM,Empire Airlines Inc.
+2024,11,20267,GCH,Grand Canyon Helicopters
+2024,11,20272,M5,Kenmore Air Harbor
+2024,11,20273,NEW,New England Airlines Inc.
+2024,11,20277,OZ,Asiana Airlines Inc.
+2024,11,20285,WRD,Ward Air
+2024,11,20304,OO,SkyWest Airlines Inc.
+2024,11,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2024,11,20319,2E,Smokey Bay Air Inc.
+2024,11,20323,4W,Warbelow
+2024,11,20327,7H,NEW PACIFIC AIRLINES
+2024,11,20330,7S,Ryan Air f/k/a Arctic Transportation
+2024,11,20331,8E,Bering Air Inc.
+2024,11,20333,8V,Wright Air Service
+2024,11,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2024,11,20341,KO,Alaska Central Express
+2024,11,20342,Q5,40-Mile Air
+2024,11,20346,V8,Iliamna Air Taxi
+2024,11,20362,CK,China Cargo Airline
+2024,11,20363,9E,Endeavor Air Inc.
+2024,11,20368,G4,Allegiant Air
+2024,11,20370,KAQ,Kalitta Air LLC
+2024,11,20372,KLQ,Kalitta Charters II
+2024,11,20377,X9,Omni Air International LLC
+2024,11,20378,YV,Mesa Airlines Inc.
+2024,11,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2024,11,20397,OH,PSA Airlines Inc.
+2024,11,20398,MQ,Envoy Air
+2024,11,20401,3M,Silver Airways
+2024,11,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2024,11,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2024,11,20409,B6,JetBlue Airways
+2024,11,20416,NK,Spirit Air Lines
+2024,11,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2024,11,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2024,11,20426,VD,Vieques Air Link Inc.
+2024,11,20427,PT,Piedmont Airlines
+2024,11,20436,F9,Frontier Airlines Inc.
+2024,11,20443,2O,Island Air Service
+2024,11,20445,C5,CommuteAir LLC dba CommuteAir
+2024,11,20447,U7,USA Jet Airlines Inc.
+2024,11,20452,YX,Republic Airline
+2024,11,20453,ABX,ABX Air Inc
+2024,11,20455,GV,Grant Aviation
+2024,11,20500,G7,GoJet Airlines LLC d/b/a United Express
+2024,11,21022,Z3Q,"PM Air, LLC"
+2024,11,21035,TIQ,Tyrolean Jet Service
+2024,11,21080,TJ,Tradewind Aviation
+2024,11,21134,0J,JetClub AG
+2024,11,21147,0Q,Flying Service N.V.
+2024,11,21186,0BQ,DCA
+2024,11,21196,0CQ,ACM AIR CHARTER GmbH
+2024,11,21271,HU,Hainan Airlines Company Limited
+2024,11,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2024,11,21376,L7,Lan Colombia
+2024,11,21386,X4,Air Excursions LLC
+2024,11,21427,3S,AeroLogic GmbH
+2024,11,21437,13Q,Chartright Air Inc.
+2024,11,21440,15Q,Air Alsie A/S
+2024,11,21477,VC,Via Airlines d/b/a Sterling Airways
+2024,11,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2024,11,21518,1EQ,"KaiserAir, Inc."
+2024,11,21548,1HQ,International Jet Management GmbH
+2024,11,21570,S2,Star Marianas Air Inc.
+2024,11,21582,RVQ,"Reeve Air Alaska, LLC"
+2024,11,21590,1UQ,Gainjet Aviation SA
+2024,11,21594,I4,Scott Air LLC dba Island Air Express
+2024,11,21599,4B,Boutique Air
+2024,11,21614,1QQ,City Wings Inc dba Seaflight
+2024,11,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2024,11,21629,KD,Western Global
+2024,11,21634,KH,Aloha Air Cargo
+2024,11,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2024,11,21646,24Q,Jet Story
+2024,11,21652,27Q,"Jet Aviation Flight Services, Inc."
+2024,11,21656,2AQ,ABS JETS A.S
+2024,11,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2024,11,21718,XE,Delux Public Charters d/b/a JSX
+2024,11,21743,TI,Tropic Ocean Airways LLC
+2024,11,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2024,11,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2024,11,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2024,11,21894,AN,"ADVANCED AIR, LLC"
+2024,11,21909,3AQ,"Maritime Helicopters, Inc."
+2024,11,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2024,11,22010,IFQ,FAI rent-a-jet AG
+2024,11,22020,GEQ,"Gestair, S.A."
+2024,11,22025,KFQ,Skyfirst Limited
+2024,11,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2024,11,22068,PAF,Pathfinder Aviation
+2024,11,22074,AOQ,Avcon Jet AG
+2024,11,22075,X5,"Junipogo, LLC"
+2024,11,22077,HAQ,Hamilton Jetport Limited
+2024,11,22080,MX,Breeze Aviation Group DBA  Breeze
+2024,11,22083,BAS,Baranautica Air Service LLC
+2024,11,22085,GCA,"Global Crossing Airlines, Inc."
+2024,11,22090,4Y,Eurowings Discover GmbH
+2024,11,22099,PTQ,Pontair Ltd.
+2024,11,22105,6F,"Fox Aircraft, LLC"
+2024,11,22107,JRQ,"KENAI AVIATION OPERATIONS, LLC"
+2024,11,22115,SWQ,Swiss Private Jet S.A.
+2024,11,22120,QFX,Sparfell Malta Ltd
+2024,11,22121,HUQ,Haute Aviation
+2024,11,22137,LNY,"Western Aircraft, dba Lanai Air"
+2024,12,19393,WN,Southwest Airlines Co.
+2024,12,19531,AC,Air Canada
+2024,12,19534,AM,Aeromexico
+2024,12,19543,CA,Air China
+2024,12,19544,CI,China Airlines Ltd.
+2024,12,19550,KE,Korean Air Lines Co. Ltd.
+2024,12,19552,LA,LATAM Airlines Group SA dba Lan Airlines
+2024,12,19554,LH,Lufthansa German Airlines
+2024,12,19566,QF,Qantas Airways Ltd.
+2024,12,19572,SQ,Singapore Airlines Ltd.
+2024,12,19682,VS,Virgin Atlantic Airways
+2024,12,19687,QX,Horizon Air
+2024,12,19690,HA,Hawaiian Airlines Inc.
+2024,12,19779,CX,Cathay Pacific Airways Ltd.
+2024,12,19790,DL,Delta Air Lines Inc.
+2024,12,19805,AA,American Airlines Inc.
+2024,12,19821,TK,Turk Hava Yollari A.O.
+2024,12,19830,KZ,Nippon Cargo Airlines
+2024,12,19874,8C,Air Transport International
+2024,12,19917,5X,United Parcel Service
+2024,12,19930,AS,Alaska Airlines Inc.
+2024,12,19977,UA,United Air Lines Inc.
+2024,12,20005,BR,Eva Airways Corporation
+2024,12,20007,5Y,Atlas Air Inc.
+2024,12,20046,ZW,Air Wisconsin Airlines Corp
+2024,12,20100,PO,Polar Air Cargo Airways
+2024,12,20107,FX,Federal Express Corporation
+2024,12,20108,NC,Northern Air Cargo Inc.
+2024,12,20140,CC,Air Atlanta Icelandic
+2024,12,20151,M6,Amerijet International
+2024,12,20166,GFQ,Gulf And Caribbean Cargo
+2024,12,20167,JJ,TAM Linhas Aereas SA dba Latam Airlines Brasil
+2024,12,20169,L2,Lynden Air Cargo Airlines
+2024,12,20177,PFQ,Asia Pacific
+2024,12,20195,WI,Sky Lease Cargo
+2024,12,20201,AMQ,Ameristar Air Cargo
+2024,12,20207,XP,TEM Enterprises dba  Avelo Airlines
+2024,12,20224,KAT,Katmai Air
+2024,12,20226,SNK,Spernak Airways Inc.
+2024,12,20250,5D,Aerolitoral
+2024,12,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2024,12,20261,ELL,Ellis Air Taxi Inc.
+2024,12,20263,EM,Empire Airlines Inc.
+2024,12,20267,GCH,Grand Canyon Helicopters
+2024,12,20272,M5,Kenmore Air Harbor
+2024,12,20273,NEW,New England Airlines Inc.
+2024,12,20277,OZ,Asiana Airlines Inc.
+2024,12,20285,WRD,Ward Air
+2024,12,20304,OO,SkyWest Airlines Inc.
+2024,12,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2024,12,20319,2E,Smokey Bay Air Inc.
+2024,12,20323,4W,Warbelow
+2024,12,20327,7H,NEW PACIFIC AIRLINES
+2024,12,20330,7S,Ryan Air f/k/a Arctic Transportation
+2024,12,20331,8E,Bering Air Inc.
+2024,12,20333,8V,Wright Air Service
+2024,12,20341,KO,Alaska Central Express
+2024,12,20342,Q5,40-Mile Air
+2024,12,20346,V8,Iliamna Air Taxi
+2024,12,20362,CK,China Cargo Airline
+2024,12,20363,9E,Endeavor Air Inc.
+2024,12,20368,G4,Allegiant Air
+2024,12,20370,KAQ,Kalitta Air LLC
+2024,12,20372,KLQ,Kalitta Charters II
+2024,12,20377,X9,Omni Air International LLC
+2024,12,20378,YV,Mesa Airlines Inc.
+2024,12,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2024,12,20397,OH,PSA Airlines Inc.
+2024,12,20398,MQ,Envoy Air
+2024,12,20401,3M,Silver Airways
+2024,12,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2024,12,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2024,12,20409,B6,JetBlue Airways
+2024,12,20416,NK,Spirit Air Lines
+2024,12,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2024,12,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2024,12,20426,VD,Vieques Air Link Inc.
+2024,12,20427,PT,Piedmont Airlines
+2024,12,20436,F9,Frontier Airlines Inc.
+2024,12,20443,2O,Island Air Service
+2024,12,20445,C5,CommuteAir LLC dba CommuteAir
+2024,12,20447,U7,USA Jet Airlines Inc.
+2024,12,20452,YX,Republic Airline
+2024,12,20453,ABX,ABX Air Inc
+2024,12,20455,GV,Grant Aviation
+2024,12,20500,G7,GoJet Airlines LLC d/b/a United Express
+2024,12,21022,Z3Q,"PM Air, LLC"
+2024,12,21035,TIQ,Tyrolean Jet Service
+2024,12,21080,TJ,Tradewind Aviation
+2024,12,21160,SVW,"Global Jet Luxembourg, Sa"
+2024,12,21196,0CQ,ACM AIR CHARTER GmbH
+2024,12,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2024,12,21376,L7,Lan Colombia
+2024,12,21427,3S,AeroLogic GmbH
+2024,12,21437,13Q,Chartright Air Inc.
+2024,12,21440,15Q,Air Alsie A/S
+2024,12,21477,VC,Via Airlines d/b/a Sterling Airways
+2024,12,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2024,12,21518,1EQ,"KaiserAir, Inc."
+2024,12,21548,1HQ,International Jet Management GmbH
+2024,12,21568,VJT,VistaJet Limited
+2024,12,21570,S2,Star Marianas Air Inc.
+2024,12,21582,RVQ,"Reeve Air Alaska, LLC"
+2024,12,21590,1UQ,Gainjet Aviation SA
+2024,12,21599,4B,Boutique Air
+2024,12,21610,RV,Air Canada rouge LP
+2024,12,21614,1QQ,City Wings Inc dba Seaflight
+2024,12,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2024,12,21629,KD,Western Global
+2024,12,21634,KH,Aloha Air Cargo
+2024,12,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2024,12,21638,AD,Azul Linhas Aereas Brazileiras S A
+2024,12,21652,27Q,"Jet Aviation Flight Services, Inc."
+2024,12,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2024,12,21718,XE,Delux Public Charters d/b/a JSX
+2024,12,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2024,12,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2024,12,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2024,12,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2024,12,21894,AN,"ADVANCED AIR, LLC"
+2024,12,21909,3AQ,"Maritime Helicopters, Inc."
+2024,12,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2024,12,22010,IFQ,FAI rent-a-jet AG
+2024,12,22035,LDQ,Sparfell Luftfahrt GmbH
+2024,12,22062,HYP,Hyperion Aviation Ltd. dba Hyperion
+2024,12,22068,PAF,Pathfinder Aviation
+2024,12,22075,X5,"Junipogo, LLC"
+2024,12,22076,ZPQ,"Silk Way Airlines, LLC"
+2024,12,22077,HAQ,Hamilton Jetport Limited
+2024,12,22080,MX,Breeze Aviation Group DBA  Breeze
+2024,12,22083,BAS,Baranautica Air Service LLC
+2024,12,22085,GCA,"Global Crossing Airlines, Inc."
+2024,12,22087,NIQ,AVCON JET MALTA LTD
+2024,12,22090,4Y,Eurowings Discover GmbH
+2024,12,22100,ALQ,Alliance Executive Jets Ltd.
+2024,12,22105,6F,"Fox Aircraft, LLC"
+2024,12,22114,IWQ,Island Wings Ltd. Dba Island Wings Charter
+2024,12,22115,SWQ,Swiss Private Jet S.A.
+2024,12,22120,QFX,Sparfell Malta Ltd
+2024,12,22121,HUQ,Haute Aviation
+2024,12,22129,W2,FlexFlight AsP
+2024,12,22135,EDQ,Air Charter Scotland Ltd.
+2024,12,22137,LNY,"Western Aircraft, dba Lanai Air"
+2025,1,19393,WN,Southwest Airlines Co.
+2025,1,19531,AC,Air Canada
+2025,1,19532,AF,Compagnie Natl Air France
+2025,1,19534,AM,Aeromexico
+2025,1,19537,AV,Aerovias Nacl De Colombia
+2025,1,19543,CA,Air China
+2025,1,19544,CI,China Airlines Ltd.
+2025,1,19550,KE,Korean Air Lines Co. Ltd.
+2025,1,19554,LH,Lufthansa German Airlines
+2025,1,19566,QF,Qantas Airways Ltd.
+2025,1,19572,SQ,Singapore Airlines Ltd.
+2025,1,19576,TP,TAP-TAP Air Portugal
+2025,1,19682,VS,Virgin Atlantic Airways
+2025,1,19687,QX,Horizon Air
+2025,1,19690,HA,Hawaiian Airlines Inc.
+2025,1,19779,CX,Cathay Pacific Airways Ltd.
+2025,1,19790,DL,Delta Air Lines Inc.
+2025,1,19805,AA,American Airlines Inc.
+2025,1,19821,TK,Turk Hava Yollari A.O.
+2025,1,19830,KZ,Nippon Cargo Airlines
+2025,1,19874,8C,Air Transport International
+2025,1,19917,5X,United Parcel Service
+2025,1,19930,AS,Alaska Airlines Inc.
+2025,1,19977,UA,United Air Lines Inc.
+2025,1,20005,BR,Eva Airways Corporation
+2025,1,20007,5Y,Atlas Air Inc.
+2025,1,20046,ZW,Air Wisconsin Airlines Corp
+2025,1,20100,PO,Polar Air Cargo Airways
+2025,1,20107,FX,Federal Express Corporation
+2025,1,20108,NC,Northern Air Cargo Inc.
+2025,1,20110,ADB,Antonov Company
+2025,1,20151,M6,Amerijet International
+2025,1,20166,GFQ,Gulf And Caribbean Cargo
+2025,1,20169,L2,Lynden Air Cargo Airlines
+2025,1,20177,PFQ,Asia Pacific
+2025,1,20195,WI,Sky Lease Cargo
+2025,1,20201,AMQ,Ameristar Air Cargo
+2025,1,20207,XP,TEM Enterprises dba  Avelo Airlines
+2025,1,20224,KAT,Katmai Air
+2025,1,20226,SNK,Spernak Airways Inc.
+2025,1,20250,5D,Aerolitoral
+2025,1,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2025,1,20261,ELL,Ellis Air Taxi Inc.
+2025,1,20263,EM,Empire Airlines Inc.
+2025,1,20267,GCH,Grand Canyon Helicopters
+2025,1,20272,M5,Kenmore Air Harbor
+2025,1,20273,NEW,New England Airlines Inc.
+2025,1,20277,OZ,Asiana Airlines Inc.
+2025,1,20285,WRD,Ward Air
+2025,1,20304,OO,SkyWest Airlines Inc.
+2025,1,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2025,1,20319,2E,Smokey Bay Air Inc.
+2025,1,20323,4W,Warbelow
+2025,1,20327,7H,NEW PACIFIC AIRLINES
+2025,1,20330,7S,Ryan Air f/k/a Arctic Transportation
+2025,1,20331,8E,Bering Air Inc.
+2025,1,20333,8V,Wright Air Service
+2025,1,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2025,1,20341,KO,Alaska Central Express
+2025,1,20342,Q5,40-Mile Air
+2025,1,20362,CK,China Cargo Airline
+2025,1,20363,9E,Endeavor Air Inc.
+2025,1,20368,G4,Allegiant Air
+2025,1,20370,KAQ,Kalitta Air LLC
+2025,1,20372,KLQ,Kalitta Charters II
+2025,1,20377,X9,Omni Air International LLC
+2025,1,20378,YV,Mesa Airlines Inc.
+2025,1,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2025,1,20397,OH,PSA Airlines Inc.
+2025,1,20398,MQ,Envoy Air
+2025,1,20401,3M,Silver Airways
+2025,1,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2025,1,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2025,1,20409,B6,JetBlue Airways
+2025,1,20416,NK,Spirit Air Lines
+2025,1,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2025,1,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2025,1,20426,VD,Vieques Air Link Inc.
+2025,1,20427,PT,Piedmont Airlines
+2025,1,20436,F9,Frontier Airlines Inc.
+2025,1,20443,2O,Island Air Service
+2025,1,20445,C5,CommuteAir LLC dba CommuteAir
+2025,1,20447,U7,USA Jet Airlines Inc.
+2025,1,20452,YX,Republic Airline
+2025,1,20453,ABX,ABX Air Inc
+2025,1,20455,GV,Grant Aviation
+2025,1,20500,G7,GoJet Airlines LLC d/b/a United Express
+2025,1,21022,Z3Q,"PM Air, LLC"
+2025,1,21040,02Q,Titan Airways
+2025,1,21080,TJ,Tradewind Aviation
+2025,1,21271,HU,Hainan Airlines Company Limited
+2025,1,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2025,1,21376,L7,Lan Colombia
+2025,1,21386,X4,Air Excursions LLC
+2025,1,21427,3S,AeroLogic GmbH
+2025,1,21437,13Q,Chartright Air Inc.
+2025,1,21440,15Q,Air Alsie A/S
+2025,1,21477,VC,Via Airlines d/b/a Sterling Airways
+2025,1,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2025,1,21518,1EQ,"KaiserAir, Inc."
+2025,1,21568,VJT,VistaJet Limited
+2025,1,21570,S2,Star Marianas Air Inc.
+2025,1,21582,RVQ,"Reeve Air Alaska, LLC"
+2025,1,21594,I4,Scott Air LLC dba Island Air Express
+2025,1,21599,4B,Boutique Air
+2025,1,21610,RV,Air Canada rouge LP
+2025,1,21614,1QQ,City Wings Inc dba Seaflight
+2025,1,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2025,1,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2025,1,21629,KD,Western Global
+2025,1,21634,KH,Aloha Air Cargo
+2025,1,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2025,1,21652,27Q,"Jet Aviation Flight Services, Inc."
+2025,1,21656,2AQ,ABS JETS A.S
+2025,1,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2025,1,21718,XE,Delux Public Charters d/b/a JSX
+2025,1,21743,TI,Tropic Ocean Airways LLC
+2025,1,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2025,1,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2025,1,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2025,1,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2025,1,21894,AN,"ADVANCED AIR, LLC"
+2025,1,21909,3AQ,"Maritime Helicopters, Inc."
+2025,1,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2025,1,22010,IFQ,FAI rent-a-jet AG
+2025,1,22025,KFQ,Skyfirst Limited
+2025,1,22061,WGT,Volkswagen AirSevice GmbH dba Volkswagon
+2025,1,22068,PAF,Pathfinder Aviation
+2025,1,22075,X5,"Junipogo, LLC"
+2025,1,22077,HAQ,Hamilton Jetport Limited
+2025,1,22080,MX,Breeze Aviation Group DBA  Breeze
+2025,1,22083,BAS,Baranautica Air Service LLC
+2025,1,22085,GCA,"Global Crossing Airlines, Inc."
+2025,1,22090,4Y,Eurowings Discover GmbH
+2025,1,22099,PTQ,Pontair Ltd.
+2025,1,22100,ALQ,Alliance Executive Jets Ltd.
+2025,1,22105,6F,"Fox Aircraft, LLC"
+2025,1,22115,SWQ,Swiss Private Jet S.A.
+2025,1,22120,QFX,Sparfell Malta Ltd
+2025,1,22121,HUQ,Haute Aviation
+2025,1,22124,JEQ,Jetflite Oy
+2025,1,22127,BQJ,Brenzil Pty. Ltd. d/b/a Brenzil Jet Charter
+2025,1,22135,EDQ,Air Charter Scotland Ltd.
+2025,1,22137,LNY,"Western Aircraft, dba Lanai Air"
+2025,2,19393,WN,Southwest Airlines Co.
+2025,2,19531,AC,Air Canada
+2025,2,19532,AF,Compagnie Natl Air France
+2025,2,19543,CA,Air China
+2025,2,19544,CI,China Airlines Ltd.
+2025,2,19550,KE,Korean Air Lines Co. Ltd.
+2025,2,19552,LA,LATAM Airlines Group SA dba Lan Airlines
+2025,2,19554,LH,Lufthansa German Airlines
+2025,2,19566,QF,Qantas Airways Ltd.
+2025,2,19572,SQ,Singapore Airlines Ltd.
+2025,2,19682,VS,Virgin Atlantic Airways
+2025,2,19687,QX,Horizon Air
+2025,2,19690,HA,Hawaiian Airlines Inc.
+2025,2,19779,CX,Cathay Pacific Airways Ltd.
+2025,2,19790,DL,Delta Air Lines Inc.
+2025,2,19805,AA,American Airlines Inc.
+2025,2,19821,TK,Turk Hava Yollari A.O.
+2025,2,19830,KZ,Nippon Cargo Airlines
+2025,2,19874,8C,Air Transport International
+2025,2,19917,5X,United Parcel Service
+2025,2,19930,AS,Alaska Airlines Inc.
+2025,2,19953,QT,Transportes Aereos Mercantiles Panamericanos S.A
+2025,2,19977,UA,United Air Lines Inc.
+2025,2,20005,BR,Eva Airways Corporation
+2025,2,20007,5Y,Atlas Air Inc.
+2025,2,20046,ZW,Air Wisconsin Airlines Corp
+2025,2,20100,PO,Polar Air Cargo Airways
+2025,2,20107,FX,Federal Express Corporation
+2025,2,20108,NC,Northern Air Cargo Inc.
+2025,2,20110,ADB,Antonov Company
+2025,2,20151,M6,Amerijet International
+2025,2,20166,GFQ,Gulf And Caribbean Cargo
+2025,2,20169,L2,Lynden Air Cargo Airlines
+2025,2,20177,PFQ,Asia Pacific
+2025,2,20195,WI,Sky Lease Cargo
+2025,2,20201,AMQ,Ameristar Air Cargo
+2025,2,20207,XP,TEM Enterprises dba  Avelo Airlines
+2025,2,20226,SNK,Spernak Airways Inc.
+2025,2,20229,WS,Westjet
+2025,2,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2025,2,20261,ELL,Ellis Air Taxi Inc.
+2025,2,20263,EM,Empire Airlines Inc.
+2025,2,20267,GCH,Grand Canyon Helicopters
+2025,2,20272,M5,Kenmore Air Harbor
+2025,2,20273,NEW,New England Airlines Inc.
+2025,2,20277,OZ,Asiana Airlines Inc.
+2025,2,20285,WRD,Ward Air
+2025,2,20304,OO,SkyWest Airlines Inc.
+2025,2,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2025,2,20319,2E,Smokey Bay Air Inc.
+2025,2,20323,4W,Warbelow
+2025,2,20327,7H,NEW PACIFIC AIRLINES
+2025,2,20330,7S,Ryan Air f/k/a Arctic Transportation
+2025,2,20331,8E,Bering Air Inc.
+2025,2,20333,8V,Wright Air Service
+2025,2,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2025,2,20341,KO,Alaska Central Express
+2025,2,20342,Q5,40-Mile Air
+2025,2,20362,CK,China Cargo Airline
+2025,2,20363,9E,Endeavor Air Inc.
+2025,2,20368,G4,Allegiant Air
+2025,2,20370,KAQ,Kalitta Air LLC
+2025,2,20372,KLQ,Kalitta Charters II
+2025,2,20377,X9,Omni Air International LLC
+2025,2,20378,YV,Mesa Airlines Inc.
+2025,2,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2025,2,20397,OH,PSA Airlines Inc.
+2025,2,20398,MQ,Envoy Air
+2025,2,20401,3M,Silver Airways
+2025,2,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2025,2,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2025,2,20409,B6,JetBlue Airways
+2025,2,20416,NK,Spirit Air Lines
+2025,2,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2025,2,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2025,2,20426,VD,Vieques Air Link Inc.
+2025,2,20427,PT,Piedmont Airlines
+2025,2,20436,F9,Frontier Airlines Inc.
+2025,2,20443,2O,Island Air Service
+2025,2,20445,C5,CommuteAir LLC dba CommuteAir
+2025,2,20447,U7,USA Jet Airlines Inc.
+2025,2,20452,YX,Republic Airline
+2025,2,20453,ABX,ABX Air Inc
+2025,2,20455,GV,Grant Aviation
+2025,2,20500,G7,GoJet Airlines LLC d/b/a United Express
+2025,2,21022,Z3Q,"PM Air, LLC"
+2025,2,21040,02Q,Titan Airways
+2025,2,21080,TJ,Tradewind Aviation
+2025,2,21147,0Q,Flying Service N.V.
+2025,2,21160,SVW,"Global Jet Luxembourg, Sa"
+2025,2,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2025,2,21376,L7,Lan Colombia
+2025,2,21386,X4,Air Excursions LLC
+2025,2,21427,3S,AeroLogic GmbH
+2025,2,21437,13Q,Chartright Air Inc.
+2025,2,21440,15Q,Air Alsie A/S
+2025,2,21477,VC,Via Airlines d/b/a Sterling Airways
+2025,2,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2025,2,21518,1EQ,"KaiserAir, Inc."
+2025,2,21570,S2,Star Marianas Air Inc.
+2025,2,21582,RVQ,"Reeve Air Alaska, LLC"
+2025,2,21590,1UQ,Gainjet Aviation SA
+2025,2,21594,I4,Scott Air LLC dba Island Air Express
+2025,2,21599,4B,Boutique Air
+2025,2,21610,RV,Air Canada rouge LP
+2025,2,21614,1QQ,City Wings Inc dba Seaflight
+2025,2,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2025,2,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2025,2,21629,KD,Western Global
+2025,2,21634,KH,Aloha Air Cargo
+2025,2,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2025,2,21646,24Q,Jet Story
+2025,2,21652,27Q,"Jet Aviation Flight Services, Inc."
+2025,2,21656,2AQ,ABS JETS A.S
+2025,2,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2025,2,21718,XE,Delux Public Charters d/b/a JSX
+2025,2,21743,TI,Tropic Ocean Airways LLC
+2025,2,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2025,2,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2025,2,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2025,2,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2025,2,21894,AN,"ADVANCED AIR, LLC"
+2025,2,21909,3AQ,"Maritime Helicopters, Inc."
+2025,2,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2025,2,22010,IFQ,FAI rent-a-jet AG
+2025,2,22020,GEQ,"Gestair, S.A."
+2025,2,22025,KFQ,Skyfirst Limited
+2025,2,22036,X7,Challenge Airlines (BE) S.A.
+2025,2,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2025,2,22061,WGT,Volkswagen AirSevice GmbH dba Volkswagon
+2025,2,22068,PAF,Pathfinder Aviation
+2025,2,22074,AOQ,Avcon Jet AG
+2025,2,22075,X5,"Junipogo, LLC"
+2025,2,22080,MX,Breeze Aviation Group DBA  Breeze
+2025,2,22085,GCA,"Global Crossing Airlines, Inc."
+2025,2,22099,PTQ,Pontair Ltd.
+2025,2,22105,6F,"Fox Aircraft, LLC"
+2025,2,22115,SWQ,Swiss Private Jet S.A.
+2025,2,22120,QFX,Sparfell Malta Ltd
+2025,2,22121,HUQ,Haute Aviation
+2025,2,22124,JEQ,Jetflite Oy
+2025,2,22135,EDQ,Air Charter Scotland Ltd.
+2025,2,22137,LNY,"Western Aircraft, dba Lanai Air"
+2025,3,19393,WN,Southwest Airlines Co.
+2025,3,19531,AC,Air Canada
+2025,3,19534,AM,Aeromexico
+2025,3,19543,CA,Air China
+2025,3,19544,CI,China Airlines Ltd.
+2025,3,19545,CV,Cargolux Airlines International S.A
+2025,3,19550,KE,Korean Air Lines Co. Ltd.
+2025,3,19552,LA,LATAM Airlines Group SA dba Lan Airlines
+2025,3,19554,LH,Lufthansa German Airlines
+2025,3,19566,QF,Qantas Airways Ltd.
+2025,3,19572,SQ,Singapore Airlines Ltd.
+2025,3,19576,TP,TAP-TAP Air Portugal
+2025,3,19682,VS,Virgin Atlantic Airways
+2025,3,19687,QX,Horizon Air
+2025,3,19690,HA,Hawaiian Airlines Inc.
+2025,3,19779,CX,Cathay Pacific Airways Ltd.
+2025,3,19790,DL,Delta Air Lines Inc.
+2025,3,19805,AA,American Airlines Inc.
+2025,3,19821,TK,Turk Hava Yollari A.O.
+2025,3,19830,KZ,Nippon Cargo Airlines
+2025,3,19874,8C,Air Transport International
+2025,3,19917,5X,United Parcel Service
+2025,3,19930,AS,Alaska Airlines Inc.
+2025,3,19977,UA,United Air Lines Inc.
+2025,3,20005,BR,Eva Airways Corporation
+2025,3,20007,5Y,Atlas Air Inc.
+2025,3,20046,ZW,Air Wisconsin Airlines Corp
+2025,3,20100,PO,Polar Air Cargo Airways
+2025,3,20107,FX,Federal Express Corporation
+2025,3,20108,NC,Northern Air Cargo Inc.
+2025,3,20110,ADB,Antonov Company
+2025,3,20151,M6,Amerijet International
+2025,3,20166,GFQ,Gulf And Caribbean Cargo
+2025,3,20169,L2,Lynden Air Cargo Airlines
+2025,3,20177,PFQ,Asia Pacific
+2025,3,20195,WI,Sky Lease Cargo
+2025,3,20201,AMQ,Ameristar Air Cargo
+2025,3,20207,XP,TEM Enterprises dba  Avelo Airlines
+2025,3,20226,SNK,Spernak Airways Inc.
+2025,3,20233,LX,Swiss International Airlines
+2025,3,20250,5D,Aerolitoral
+2025,3,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2025,3,20261,ELL,Ellis Air Taxi Inc.
+2025,3,20263,EM,Empire Airlines Inc.
+2025,3,20267,GCH,Grand Canyon Helicopters
+2025,3,20272,M5,Kenmore Air Harbor
+2025,3,20273,NEW,New England Airlines Inc.
+2025,3,20277,OZ,Asiana Airlines Inc.
+2025,3,20285,WRD,Ward Air
+2025,3,20304,OO,SkyWest Airlines Inc.
+2025,3,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2025,3,20319,2E,Smokey Bay Air Inc.
+2025,3,20323,4W,Warbelow
+2025,3,20327,7H,NEW PACIFIC AIRLINES
+2025,3,20330,7S,Ryan Air f/k/a Arctic Transportation
+2025,3,20331,8E,Bering Air Inc.
+2025,3,20333,8V,Wright Air Service
+2025,3,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2025,3,20342,Q5,40-Mile Air
+2025,3,20346,V8,Iliamna Air Taxi
+2025,3,20362,CK,China Cargo Airline
+2025,3,20363,9E,Endeavor Air Inc.
+2025,3,20368,G4,Allegiant Air
+2025,3,20370,KAQ,Kalitta Air LLC
+2025,3,20372,KLQ,Kalitta Charters II
+2025,3,20377,X9,Omni Air International LLC
+2025,3,20378,YV,Mesa Airlines Inc.
+2025,3,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2025,3,20397,OH,PSA Airlines Inc.
+2025,3,20398,MQ,Envoy Air
+2025,3,20401,3M,Silver Airways
+2025,3,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2025,3,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2025,3,20409,B6,JetBlue Airways
+2025,3,20416,NK,Spirit Air Lines
+2025,3,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2025,3,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2025,3,20426,VD,Vieques Air Link Inc.
+2025,3,20427,PT,Piedmont Airlines
+2025,3,20436,F9,Frontier Airlines Inc.
+2025,3,20443,2O,Island Air Service
+2025,3,20445,C5,CommuteAir LLC dba CommuteAir
+2025,3,20447,U7,USA Jet Airlines Inc.
+2025,3,20452,YX,Republic Airline
+2025,3,20453,ABX,ABX Air Inc
+2025,3,20455,GV,Grant Aviation
+2025,3,20500,G7,GoJet Airlines LLC d/b/a United Express
+2025,3,21022,Z3Q,"PM Air, LLC"
+2025,3,21080,TJ,Tradewind Aviation
+2025,3,21160,SVW,"Global Jet Luxembourg, Sa"
+2025,3,21226,PD,Porter Airlines Limited (PACL)
+2025,3,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2025,3,21376,L7,Lan Colombia
+2025,3,21386,X4,Air Excursions LLC
+2025,3,21427,3S,AeroLogic GmbH
+2025,3,21437,13Q,Chartright Air Inc.
+2025,3,21440,15Q,Air Alsie A/S
+2025,3,21477,VC,Via Airlines d/b/a Sterling Airways
+2025,3,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2025,3,21518,1EQ,"KaiserAir, Inc."
+2025,3,21548,1HQ,International Jet Management GmbH
+2025,3,21568,VJT,VistaJet Limited
+2025,3,21570,S2,Star Marianas Air Inc.
+2025,3,21582,RVQ,"Reeve Air Alaska, LLC"
+2025,3,21590,1UQ,Gainjet Aviation SA
+2025,3,21594,I4,Scott Air LLC dba Island Air Express
+2025,3,21599,4B,Boutique Air
+2025,3,21614,1QQ,City Wings Inc dba Seaflight
+2025,3,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2025,3,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2025,3,21629,KD,Western Global
+2025,3,21634,KH,Aloha Air Cargo
+2025,3,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2025,3,21638,AD,Azul Linhas Aereas Brazileiras S A
+2025,3,21646,24Q,Jet Story
+2025,3,21652,27Q,"Jet Aviation Flight Services, Inc."
+2025,3,21656,2AQ,ABS JETS A.S
+2025,3,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2025,3,21718,XE,Delux Public Charters d/b/a JSX
+2025,3,21743,TI,Tropic Ocean Airways LLC
+2025,3,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2025,3,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2025,3,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2025,3,21875,37Q,"Eastern Air Express, LLC (EAX)"
+2025,3,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2025,3,21894,AN,"ADVANCED AIR, LLC"
+2025,3,21909,3AQ,"Maritime Helicopters, Inc."
+2025,3,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2025,3,22020,GEQ,"Gestair, S.A."
+2025,3,22025,KFQ,Skyfirst Limited
+2025,3,22036,X7,Challenge Airlines (BE) S.A.
+2025,3,22061,WGT,Volkswagen AirSevice GmbH dba Volkswagon
+2025,3,22062,HYP,Hyperion Aviation Ltd. dba Hyperion
+2025,3,22068,PAF,Pathfinder Aviation
+2025,3,22075,X5,"Junipogo, LLC"
+2025,3,22077,HAQ,Hamilton Jetport Limited
+2025,3,22080,MX,Breeze Aviation Group DBA  Breeze
+2025,3,22083,BAS,Baranautica Air Service LLC
+2025,3,22085,GCA,"Global Crossing Airlines, Inc."
+2025,3,22090,4Y,Eurowings Discover GmbH
+2025,3,22099,PTQ,Pontair Ltd.
+2025,3,22105,6F,"Fox Aircraft, LLC"
+2025,3,22120,QFX,Sparfell Malta Ltd
+2025,3,22121,HUQ,Haute Aviation
+2025,3,22134,JWQ,Global Jet Aruba V.B.A. d/b/a Global Jet Aruba
+2025,3,22135,EDQ,Air Charter Scotland Ltd.
+2025,3,22137,LNY,"Western Aircraft, dba Lanai Air"
+2025,4,19393,WN,Southwest Airlines Co.
+2025,4,19531,AC,Air Canada
+2025,4,19532,AF,Compagnie Natl Air France
+2025,4,19534,AM,Aeromexico
+2025,4,19540,BA,British Airways Plc
+2025,4,19543,CA,Air China
+2025,4,19544,CI,China Airlines Ltd.
+2025,4,19545,CV,Cargolux Airlines International S.A
+2025,4,19550,KE,Korean Air Lines Co. Ltd.
+2025,4,19554,LH,Lufthansa German Airlines
+2025,4,19566,QF,Qantas Airways Ltd.
+2025,4,19572,SQ,Singapore Airlines Ltd.
+2025,4,19576,TP,TAP-TAP Air Portugal
+2025,4,19687,QX,Horizon Air
+2025,4,19690,HA,Hawaiian Airlines Inc.
+2025,4,19779,CX,Cathay Pacific Airways Ltd.
+2025,4,19790,DL,Delta Air Lines Inc.
+2025,4,19805,AA,American Airlines Inc.
+2025,4,19821,TK,Turk Hava Yollari A.O.
+2025,4,19830,KZ,Nippon Cargo Airlines
+2025,4,19874,8C,Air Transport International
+2025,4,19917,5X,United Parcel Service
+2025,4,19930,AS,Alaska Airlines Inc.
+2025,4,19977,UA,United Air Lines Inc.
+2025,4,20005,BR,Eva Airways Corporation
+2025,4,20007,5Y,Atlas Air Inc.
+2025,4,20046,ZW,Air Wisconsin Airlines Corp
+2025,4,20100,PO,Polar Air Cargo Airways
+2025,4,20107,FX,Federal Express Corporation
+2025,4,20108,NC,Northern Air Cargo Inc.
+2025,4,20110,ADB,Antonov Company
+2025,4,20151,M6,Amerijet International
+2025,4,20166,GFQ,Gulf And Caribbean Cargo
+2025,4,20169,L2,Lynden Air Cargo Airlines
+2025,4,20177,PFQ,Asia Pacific
+2025,4,20188,LP,Lan Peru Airlines
+2025,4,20195,WI,Sky Lease Cargo
+2025,4,20201,AMQ,Ameristar Air Cargo
+2025,4,20207,XP,TEM Enterprises dba  Avelo Airlines
+2025,4,20224,KAT,Katmai Air
+2025,4,20226,SNK,Spernak Airways Inc.
+2025,4,20229,WS,Westjet
+2025,4,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2025,4,20261,ELL,Ellis Air Taxi Inc.
+2025,4,20263,EM,Empire Airlines Inc.
+2025,4,20267,GCH,Grand Canyon Helicopters
+2025,4,20272,M5,Kenmore Air Harbor
+2025,4,20273,NEW,New England Airlines Inc.
+2025,4,20277,OZ,Asiana Airlines Inc.
+2025,4,20285,WRD,Ward Air
+2025,4,20304,OO,SkyWest Airlines Inc.
+2025,4,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2025,4,20319,2E,Smokey Bay Air Inc.
+2025,4,20323,4W,Warbelow
+2025,4,20330,7S,Ryan Air f/k/a Arctic Transportation
+2025,4,20331,8E,Bering Air Inc.
+2025,4,20333,8V,Wright Air Service
+2025,4,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2025,4,20341,KO,Alaska Central Express
+2025,4,20342,Q5,40-Mile Air
+2025,4,20346,V8,Iliamna Air Taxi
+2025,4,20362,CK,China Cargo Airline
+2025,4,20363,9E,Endeavor Air Inc.
+2025,4,20368,G4,Allegiant Air
+2025,4,20370,KAQ,Kalitta Air LLC
+2025,4,20372,KLQ,Kalitta Charters II
+2025,4,20377,X9,Omni Air International LLC
+2025,4,20378,YV,Mesa Airlines Inc.
+2025,4,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2025,4,20397,OH,PSA Airlines Inc.
+2025,4,20398,MQ,Envoy Air
+2025,4,20401,3M,Silver Airways
+2025,4,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2025,4,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2025,4,20409,B6,JetBlue Airways
+2025,4,20416,NK,Spirit Air Lines
+2025,4,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2025,4,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2025,4,20426,VD,Vieques Air Link Inc.
+2025,4,20427,PT,Piedmont Airlines
+2025,4,20436,F9,Frontier Airlines Inc.
+2025,4,20443,2O,Island Air Service
+2025,4,20445,C5,CommuteAir LLC dba CommuteAir
+2025,4,20447,U7,USA Jet Airlines Inc.
+2025,4,20452,YX,Republic Airline
+2025,4,20453,ABX,ABX Air Inc
+2025,4,20455,GV,Grant Aviation
+2025,4,20500,G7,GoJet Airlines LLC d/b/a United Express
+2025,4,21022,Z3Q,"PM Air, LLC"
+2025,4,21040,02Q,Titan Airways
+2025,4,21080,TJ,Tradewind Aviation
+2025,4,21147,0Q,Flying Service N.V.
+2025,4,21160,SVW,"Global Jet Luxembourg, Sa"
+2025,4,21376,L7,Lan Colombia
+2025,4,21386,X4,Air Excursions LLC
+2025,4,21427,3S,AeroLogic GmbH
+2025,4,21437,13Q,Chartright Air Inc.
+2025,4,21440,15Q,Air Alsie A/S
+2025,4,21463,4C,Aerovias de Intergracian Regional
+2025,4,21477,VC,Via Airlines d/b/a Sterling Airways
+2025,4,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2025,4,21518,1EQ,"KaiserAir, Inc."
+2025,4,21568,VJT,VistaJet Limited
+2025,4,21570,S2,Star Marianas Air Inc.
+2025,4,21582,RVQ,"Reeve Air Alaska, LLC"
+2025,4,21590,1UQ,Gainjet Aviation SA
+2025,4,21594,I4,Scott Air LLC dba Island Air Express
+2025,4,21599,4B,Boutique Air
+2025,4,21610,RV,Air Canada rouge LP
+2025,4,21614,1QQ,City Wings Inc dba Seaflight
+2025,4,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2025,4,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2025,4,21629,KD,Western Global
+2025,4,21634,KH,Aloha Air Cargo
+2025,4,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2025,4,21652,27Q,"Jet Aviation Flight Services, Inc."
+2025,4,21656,2AQ,ABS JETS A.S
+2025,4,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2025,4,21718,XE,Delux Public Charters d/b/a JSX
+2025,4,21743,TI,Tropic Ocean Airways LLC
+2025,4,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2025,4,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2025,4,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2025,4,21875,37Q,"Eastern Air Express, LLC (EAX)"
+2025,4,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2025,4,21894,AN,"ADVANCED AIR, LLC"
+2025,4,21909,3AQ,"Maritime Helicopters, Inc."
+2025,4,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2025,4,22010,IFQ,FAI rent-a-jet AG
+2025,4,22020,GEQ,"Gestair, S.A."
+2025,4,22025,KFQ,Skyfirst Limited
+2025,4,22035,LDQ,Sparfell Luftfahrt GmbH
+2025,4,22036,X7,Challenge Airlines (BE) S.A.
+2025,4,22061,WGT,Volkswagen AirSevice GmbH dba Volkswagon
+2025,4,22068,PAF,Pathfinder Aviation
+2025,4,22075,X5,"Junipogo, LLC"
+2025,4,22077,HAQ,Hamilton Jetport Limited
+2025,4,22080,MX,Breeze Aviation Group DBA  Breeze
+2025,4,22083,BAS,Baranautica Air Service LLC
+2025,4,22085,GCA,"Global Crossing Airlines, Inc."
+2025,4,22105,6F,"Fox Aircraft, LLC"
+2025,4,22120,QFX,Sparfell Malta Ltd
+2025,4,22121,HUQ,Haute Aviation
+2025,4,22127,BQJ,Brenzil Pty. Ltd. d/b/a Brenzil Jet Charter
+2025,4,22135,EDQ,Air Charter Scotland Ltd.
+2025,4,22137,LNY,"Western Aircraft, dba Lanai Air"
+2025,5,19393,WN,Southwest Airlines Co.
+2025,5,19531,AC,Air Canada
+2025,5,19532,AF,Compagnie Natl Air France
+2025,5,19534,AM,Aeromexico
+2025,5,19543,CA,Air China
+2025,5,19544,CI,China Airlines Ltd.
+2025,5,19545,CV,Cargolux Airlines International S.A
+2025,5,19550,KE,Korean Air Lines Co. Ltd.
+2025,5,19552,LA,LATAM Airlines Group SA dba Lan Airlines
+2025,5,19554,LH,Lufthansa German Airlines
+2025,5,19566,QF,Qantas Airways Ltd.
+2025,5,19572,SQ,Singapore Airlines Ltd.
+2025,5,19687,QX,Horizon Air
+2025,5,19690,HA,Hawaiian Airlines Inc.
+2025,5,19779,CX,Cathay Pacific Airways Ltd.
+2025,5,19790,DL,Delta Air Lines Inc.
+2025,5,19805,AA,American Airlines Inc.
+2025,5,19821,TK,Turk Hava Yollari A.O.
+2025,5,19830,KZ,Nippon Cargo Airlines
+2025,5,19874,8C,Air Transport International
+2025,5,19917,5X,United Parcel Service
+2025,5,19930,AS,Alaska Airlines Inc.
+2025,5,19953,QT,Transportes Aereos Mercantiles Panamericanos S.A
+2025,5,19977,UA,United Air Lines Inc.
+2025,5,20005,BR,Eva Airways Corporation
+2025,5,20007,5Y,Atlas Air Inc.
+2025,5,20046,ZW,Air Wisconsin Airlines Corp
+2025,5,20100,PO,Polar Air Cargo Airways
+2025,5,20107,FX,Federal Express Corporation
+2025,5,20108,NC,Northern Air Cargo Inc.
+2025,5,20110,ADB,Antonov Company
+2025,5,20151,M6,Amerijet International
+2025,5,20166,GFQ,Gulf And Caribbean Cargo
+2025,5,20167,JJ,TAM Linhas Aereas SA dba Latam Airlines Brasil
+2025,5,20169,L2,Lynden Air Cargo Airlines
+2025,5,20177,PFQ,Asia Pacific
+2025,5,20188,LP,Lan Peru Airlines
+2025,5,20195,WI,Sky Lease Cargo
+2025,5,20201,AMQ,Ameristar Air Cargo
+2025,5,20207,XP,TEM Enterprises dba  Avelo Airlines
+2025,5,20224,KAT,Katmai Air
+2025,5,20226,SNK,Spernak Airways Inc.
+2025,5,20229,WS,Westjet
+2025,5,20250,5D,Aerolitoral
+2025,5,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2025,5,20261,ELL,Ellis Air Taxi Inc.
+2025,5,20263,EM,Empire Airlines Inc.
+2025,5,20267,GCH,Grand Canyon Helicopters
+2025,5,20272,M5,Kenmore Air Harbor
+2025,5,20273,NEW,New England Airlines Inc.
+2025,5,20277,OZ,Asiana Airlines Inc.
+2025,5,20285,WRD,Ward Air
+2025,5,20289,WST,Friday Harbor Seaplanes
+2025,5,20304,OO,SkyWest Airlines Inc.
+2025,5,20319,2E,Smokey Bay Air Inc.
+2025,5,20323,4W,Warbelow
+2025,5,20327,7H,NEW PACIFIC AIRLINES
+2025,5,20330,7S,Ryan Air f/k/a Arctic Transportation
+2025,5,20331,8E,Bering Air Inc.
+2025,5,20333,8V,Wright Air Service
+2025,5,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2025,5,20341,KO,Alaska Central Express
+2025,5,20342,Q5,40-Mile Air
+2025,5,20346,V8,Iliamna Air Taxi
+2025,5,20362,CK,China Cargo Airline
+2025,5,20363,9E,Endeavor Air Inc.
+2025,5,20368,G4,Allegiant Air
+2025,5,20370,KAQ,Kalitta Air LLC
+2025,5,20372,KLQ,Kalitta Charters II
+2025,5,20377,X9,Omni Air International LLC
+2025,5,20378,YV,Mesa Airlines Inc.
+2025,5,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2025,5,20397,OH,PSA Airlines Inc.
+2025,5,20398,MQ,Envoy Air
+2025,5,20401,3M,Silver Airways
+2025,5,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2025,5,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2025,5,20409,B6,JetBlue Airways
+2025,5,20416,NK,Spirit Air Lines
+2025,5,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2025,5,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2025,5,20426,VD,Vieques Air Link Inc.
+2025,5,20427,PT,Piedmont Airlines
+2025,5,20436,F9,Frontier Airlines Inc.
+2025,5,20443,2O,Island Air Service
+2025,5,20445,C5,CommuteAir LLC dba CommuteAir
+2025,5,20447,U7,USA Jet Airlines Inc.
+2025,5,20452,YX,Republic Airline
+2025,5,20453,ABX,ABX Air Inc
+2025,5,20455,GV,Grant Aviation
+2025,5,20500,G7,GoJet Airlines LLC d/b/a United Express
+2025,5,21022,Z3Q,"PM Air, LLC"
+2025,5,21040,02Q,Titan Airways
+2025,5,21080,TJ,Tradewind Aviation
+2025,5,21147,0Q,Flying Service N.V.
+2025,5,21160,SVW,"Global Jet Luxembourg, Sa"
+2025,5,21196,0CQ,ACM AIR CHARTER GmbH
+2025,5,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2025,5,21376,L7,Lan Colombia
+2025,5,21386,X4,Air Excursions LLC
+2025,5,21427,3S,AeroLogic GmbH
+2025,5,21437,13Q,Chartright Air Inc.
+2025,5,21440,15Q,Air Alsie A/S
+2025,5,21477,VC,Via Airlines d/b/a Sterling Airways
+2025,5,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2025,5,21518,1EQ,"KaiserAir, Inc."
+2025,5,21570,S2,Star Marianas Air Inc.
+2025,5,21582,RVQ,"Reeve Air Alaska, LLC"
+2025,5,21594,I4,Scott Air LLC dba Island Air Express
+2025,5,21599,4B,Boutique Air
+2025,5,21601,1XQ,Dassault Falcon Service
+2025,5,21610,RV,Air Canada rouge LP
+2025,5,21614,1QQ,City Wings Inc dba Seaflight
+2025,5,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2025,5,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2025,5,21629,KD,Western Global
+2025,5,21634,KH,Aloha Air Cargo
+2025,5,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2025,5,21652,27Q,"Jet Aviation Flight Services, Inc."
+2025,5,21656,2AQ,ABS JETS A.S
+2025,5,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2025,5,21718,XE,Delux Public Charters d/b/a JSX
+2025,5,21743,TI,Tropic Ocean Airways LLC
+2025,5,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2025,5,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2025,5,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2025,5,21875,37Q,"Eastern Air Express, LLC (EAX)"
+2025,5,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2025,5,21894,AN,"ADVANCED AIR, LLC"
+2025,5,21909,3AQ,"Maritime Helicopters, Inc."
+2025,5,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2025,5,22010,IFQ,FAI rent-a-jet AG
+2025,5,22020,GEQ,"Gestair, S.A."
+2025,5,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2025,5,22061,WGT,Volkswagen AirSevice GmbH dba Volkswagon
+2025,5,22068,PAF,Pathfinder Aviation
+2025,5,22075,X5,"Junipogo, LLC"
+2025,5,22077,HAQ,Hamilton Jetport Limited
+2025,5,22080,MX,Breeze Aviation Group DBA  Breeze
+2025,5,22083,BAS,Baranautica Air Service LLC
+2025,5,22085,GCA,"Global Crossing Airlines, Inc."
+2025,5,22090,4Y,Eurowings Discover GmbH
+2025,5,22099,PTQ,Pontair Ltd.
+2025,5,22105,6F,"Fox Aircraft, LLC"
+2025,5,22115,SWQ,Swiss Private Jet S.A.
+2025,5,22121,HUQ,Haute Aviation
+2025,5,22129,W2,FlexFlight AsP
+2025,5,22135,EDQ,Air Charter Scotland Ltd.
+2025,5,22137,LNY,"Western Aircraft, dba Lanai Air"
+2025,6,19393,WN,Southwest Airlines Co.
+2025,6,19531,AC,Air Canada
+2025,6,19532,AF,Compagnie Natl Air France
+2025,6,19543,CA,Air China
+2025,6,19544,CI,China Airlines Ltd.
+2025,6,19550,KE,Korean Air Lines Co. Ltd.
+2025,6,19552,LA,LATAM Airlines Group SA dba Lan Airlines
+2025,6,19554,LH,Lufthansa German Airlines
+2025,6,19566,QF,Qantas Airways Ltd.
+2025,6,19572,SQ,Singapore Airlines Ltd.
+2025,6,19576,TP,TAP-TAP Air Portugal
+2025,6,19682,VS,Virgin Atlantic Airways
+2025,6,19687,QX,Horizon Air
+2025,6,19690,HA,Hawaiian Airlines Inc.
+2025,6,19779,CX,Cathay Pacific Airways Ltd.
+2025,6,19790,DL,Delta Air Lines Inc.
+2025,6,19805,AA,American Airlines Inc.
+2025,6,19821,TK,Turk Hava Yollari A.O.
+2025,6,19830,KZ,Nippon Cargo Airlines
+2025,6,19874,8C,Air Transport International
+2025,6,19917,5X,United Parcel Service
+2025,6,19930,AS,Alaska Airlines Inc.
+2025,6,19953,QT,Transportes Aereos Mercantiles Panamericanos S.A
+2025,6,19977,UA,United Air Lines Inc.
+2025,6,20005,BR,Eva Airways Corporation
+2025,6,20007,5Y,Atlas Air Inc.
+2025,6,20046,ZW,Air Wisconsin Airlines Corp
+2025,6,20100,PO,Polar Air Cargo Airways
+2025,6,20107,FX,Federal Express Corporation
+2025,6,20108,NC,Northern Air Cargo Inc.
+2025,6,20110,ADB,Antonov Company
+2025,6,20120,DE,Condor Flugdienst
+2025,6,20151,M6,Amerijet International
+2025,6,20166,GFQ,Gulf And Caribbean Cargo
+2025,6,20169,L2,Lynden Air Cargo Airlines
+2025,6,20177,PFQ,Asia Pacific
+2025,6,20188,LP,Lan Peru Airlines
+2025,6,20195,WI,Sky Lease Cargo
+2025,6,20201,AMQ,Ameristar Air Cargo
+2025,6,20207,XP,TEM Enterprises dba  Avelo Airlines
+2025,6,20224,KAT,Katmai Air
+2025,6,20226,SNK,Spernak Airways Inc.
+2025,6,20229,WS,Westjet
+2025,6,20233,LX,Swiss International Airlines
+2025,6,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2025,6,20261,ELL,Ellis Air Taxi Inc.
+2025,6,20263,EM,Empire Airlines Inc.
+2025,6,20267,GCH,Grand Canyon Helicopters
+2025,6,20272,M5,Kenmore Air Harbor
+2025,6,20273,NEW,New England Airlines Inc.
+2025,6,20277,OZ,Asiana Airlines Inc.
+2025,6,20285,WRD,Ward Air
+2025,6,20304,OO,SkyWest Airlines Inc.
+2025,6,20319,2E,Smokey Bay Air Inc.
+2025,6,20323,4W,Warbelow
+2025,6,20327,7H,NEW PACIFIC AIRLINES
+2025,6,20330,7S,Ryan Air f/k/a Arctic Transportation
+2025,6,20331,8E,Bering Air Inc.
+2025,6,20333,8V,Wright Air Service
+2025,6,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2025,6,20341,KO,Alaska Central Express
+2025,6,20342,Q5,40-Mile Air
+2025,6,20346,V8,Iliamna Air Taxi
+2025,6,20348,XL,Lan Ecuador
+2025,6,20362,CK,China Cargo Airline
+2025,6,20363,9E,Endeavor Air Inc.
+2025,6,20368,G4,Allegiant Air
+2025,6,20370,KAQ,Kalitta Air LLC
+2025,6,20372,KLQ,Kalitta Charters II
+2025,6,20377,X9,Omni Air International LLC
+2025,6,20378,YV,Mesa Airlines Inc.
+2025,6,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2025,6,20397,OH,PSA Airlines Inc.
+2025,6,20398,MQ,Envoy Air
+2025,6,20401,3M,Silver Airways
+2025,6,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2025,6,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2025,6,20409,B6,JetBlue Airways
+2025,6,20416,NK,Spirit Air Lines
+2025,6,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2025,6,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2025,6,20426,VD,Vieques Air Link Inc.
+2025,6,20427,PT,Piedmont Airlines
+2025,6,20436,F9,Frontier Airlines Inc.
+2025,6,20443,2O,Island Air Service
+2025,6,20445,C5,CommuteAir LLC dba CommuteAir
+2025,6,20447,U7,USA Jet Airlines Inc.
+2025,6,20452,YX,Republic Airline
+2025,6,20453,ABX,ABX Air Inc
+2025,6,20455,GV,Grant Aviation
+2025,6,20500,G7,GoJet Airlines LLC d/b/a United Express
+2025,6,21022,Z3Q,"PM Air, LLC"
+2025,6,21080,TJ,Tradewind Aviation
+2025,6,21160,SVW,"Global Jet Luxembourg, Sa"
+2025,6,21196,0CQ,ACM AIR CHARTER GmbH
+2025,6,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2025,6,21376,L7,Lan Colombia
+2025,6,21386,X4,Air Excursions LLC
+2025,6,21427,3S,AeroLogic GmbH
+2025,6,21437,13Q,Chartright Air Inc.
+2025,6,21440,15Q,Air Alsie A/S
+2025,6,21463,4C,Aerovias de Intergracian Regional
+2025,6,21477,VC,Via Airlines d/b/a Sterling Airways
+2025,6,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2025,6,21518,1EQ,"KaiserAir, Inc."
+2025,6,21570,S2,Star Marianas Air Inc.
+2025,6,21582,RVQ,"Reeve Air Alaska, LLC"
+2025,6,21590,1UQ,Gainjet Aviation SA
+2025,6,21594,I4,Scott Air LLC dba Island Air Express
+2025,6,21599,4B,Boutique Air
+2025,6,21610,RV,Air Canada rouge LP
+2025,6,21614,1QQ,City Wings Inc dba Seaflight
+2025,6,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2025,6,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2025,6,21629,KD,Western Global
+2025,6,21634,KH,Aloha Air Cargo
+2025,6,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2025,6,21646,24Q,Jet Story
+2025,6,21649,25Q,Mjet GmbH
+2025,6,21652,27Q,"Jet Aviation Flight Services, Inc."
+2025,6,21656,2AQ,ABS JETS A.S
+2025,6,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2025,6,21718,XE,Delux Public Charters d/b/a JSX
+2025,6,21743,TI,Tropic Ocean Airways LLC
+2025,6,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2025,6,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2025,6,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2025,6,21875,37Q,"Eastern Air Express, LLC (EAX)"
+2025,6,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2025,6,21894,AN,"ADVANCED AIR, LLC"
+2025,6,21909,3AQ,"Maritime Helicopters, Inc."
+2025,6,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2025,6,22010,IFQ,FAI rent-a-jet AG
+2025,6,22020,GEQ,"Gestair, S.A."
+2025,6,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2025,6,22061,WGT,Volkswagen AirSevice GmbH dba Volkswagon
+2025,6,22068,PAF,Pathfinder Aviation
+2025,6,22074,AOQ,Avcon Jet AG
+2025,6,22075,X5,"Junipogo, LLC"
+2025,6,22080,MX,Breeze Aviation Group DBA  Breeze
+2025,6,22083,BAS,Baranautica Air Service LLC
+2025,6,22085,GCA,"Global Crossing Airlines, Inc."
+2025,6,22099,PTQ,Pontair Ltd.
+2025,6,22105,6F,"Fox Aircraft, LLC"
+2025,6,22120,QFX,Sparfell Malta Ltd
+2025,6,22121,HUQ,Haute Aviation
+2025,6,22134,JWQ,Global Jet Aruba V.B.A. d/b/a Global Jet Aruba
+2025,6,22135,EDQ,Air Charter Scotland Ltd.
+2025,6,22137,LNY,"Western Aircraft, dba Lanai Air"
+2025,7,19393,WN,Southwest Airlines Co.
+2025,7,19531,AC,Air Canada
+2025,7,19534,AM,Aeromexico
+2025,7,19543,CA,Air China
+2025,7,19544,CI,China Airlines Ltd.
+2025,7,19550,KE,Korean Air Lines Co. Ltd.
+2025,7,19552,LA,LATAM Airlines Group SA dba Lan Airlines
+2025,7,19554,LH,Lufthansa German Airlines
+2025,7,19566,QF,Qantas Airways Ltd.
+2025,7,19572,SQ,Singapore Airlines Ltd.
+2025,7,19576,TP,TAP-TAP Air Portugal
+2025,7,19682,VS,Virgin Atlantic Airways
+2025,7,19687,QX,Horizon Air
+2025,7,19690,HA,Hawaiian Airlines Inc.
+2025,7,19779,CX,Cathay Pacific Airways Ltd.
+2025,7,19790,DL,Delta Air Lines Inc.
+2025,7,19805,AA,American Airlines Inc.
+2025,7,19821,TK,Turk Hava Yollari A.O.
+2025,7,19830,KZ,Nippon Cargo Airlines
+2025,7,19874,8C,Air Transport International
+2025,7,19917,5X,United Parcel Service
+2025,7,19930,AS,Alaska Airlines Inc.
+2025,7,19977,UA,United Air Lines Inc.
+2025,7,20005,BR,Eva Airways Corporation
+2025,7,20007,5Y,Atlas Air Inc.
+2025,7,20046,ZW,Air Wisconsin Airlines Corp
+2025,7,20100,PO,Polar Air Cargo Airways
+2025,7,20107,FX,Federal Express Corporation
+2025,7,20108,NC,Northern Air Cargo Inc.
+2025,7,20110,ADB,Antonov Company
+2025,7,20120,DE,Condor Flugdienst
+2025,7,20151,M6,Amerijet International
+2025,7,20166,GFQ,Gulf And Caribbean Cargo
+2025,7,20169,L2,Lynden Air Cargo Airlines
+2025,7,20177,PFQ,Asia Pacific
+2025,7,20195,WI,Sky Lease Cargo
+2025,7,20201,AMQ,Ameristar Air Cargo
+2025,7,20206,QK,Jazz Aviation LP
+2025,7,20207,XP,TEM Enterprises dba  Avelo Airlines
+2025,7,20224,KAT,Katmai Air
+2025,7,20226,SNK,Spernak Airways Inc.
+2025,7,20229,WS,Westjet
+2025,7,20233,LX,Swiss International Airlines
+2025,7,20250,5D,Aerolitoral
+2025,7,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2025,7,20261,ELL,Ellis Air Taxi Inc.
+2025,7,20263,EM,Empire Airlines Inc.
+2025,7,20267,GCH,Grand Canyon Helicopters
+2025,7,20272,M5,Kenmore Air Harbor
+2025,7,20273,NEW,New England Airlines Inc.
+2025,7,20277,OZ,Asiana Airlines Inc.
+2025,7,20285,WRD,Ward Air
+2025,7,20289,WST,Friday Harbor Seaplanes
+2025,7,20304,OO,SkyWest Airlines Inc.
+2025,7,20319,2E,Smokey Bay Air Inc.
+2025,7,20323,4W,Warbelow
+2025,7,20327,7H,NEW PACIFIC AIRLINES
+2025,7,20330,7S,Ryan Air f/k/a Arctic Transportation
+2025,7,20331,8E,Bering Air Inc.
+2025,7,20333,8V,Wright Air Service
+2025,7,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2025,7,20342,Q5,40-Mile Air
+2025,7,20346,V8,Iliamna Air Taxi
+2025,7,20362,CK,China Cargo Airline
+2025,7,20363,9E,Endeavor Air Inc.
+2025,7,20368,G4,Allegiant Air
+2025,7,20370,KAQ,Kalitta Air LLC
+2025,7,20372,KLQ,Kalitta Charters II
+2025,7,20377,X9,Omni Air International LLC
+2025,7,20378,YV,Mesa Airlines Inc.
+2025,7,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2025,7,20397,OH,PSA Airlines Inc.
+2025,7,20398,MQ,Envoy Air
+2025,7,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2025,7,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2025,7,20409,B6,JetBlue Airways
+2025,7,20416,NK,Spirit Air Lines
+2025,7,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2025,7,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2025,7,20426,VD,Vieques Air Link Inc.
+2025,7,20427,PT,Piedmont Airlines
+2025,7,20436,F9,Frontier Airlines Inc.
+2025,7,20443,2O,Island Air Service
+2025,7,20445,C5,CommuteAir LLC dba CommuteAir
+2025,7,20447,U7,USA Jet Airlines Inc.
+2025,7,20452,YX,Republic Airline
+2025,7,20453,ABX,ABX Air Inc
+2025,7,20455,GV,Grant Aviation
+2025,7,20500,G7,GoJet Airlines LLC d/b/a United Express
+2025,7,21022,Z3Q,"PM Air, LLC"
+2025,7,21035,TIQ,Tyrolean Jet Service
+2025,7,21040,02Q,Titan Airways
+2025,7,21080,TJ,Tradewind Aviation
+2025,7,21160,SVW,"Global Jet Luxembourg, Sa"
+2025,7,21196,0CQ,ACM AIR CHARTER GmbH
+2025,7,21271,HU,Hainan Airlines Company Limited
+2025,7,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2025,7,21376,L7,Lan Colombia
+2025,7,21386,X4,Air Excursions LLC
+2025,7,21427,3S,AeroLogic GmbH
+2025,7,21437,13Q,Chartright Air Inc.
+2025,7,21440,15Q,Air Alsie A/S
+2025,7,21477,VC,Via Airlines d/b/a Sterling Airways
+2025,7,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2025,7,21518,1EQ,"KaiserAir, Inc."
+2025,7,21568,VJT,VistaJet Limited
+2025,7,21570,S2,Star Marianas Air Inc.
+2025,7,21582,RVQ,"Reeve Air Alaska, LLC"
+2025,7,21590,1UQ,Gainjet Aviation SA
+2025,7,21594,I4,Scott Air LLC dba Island Air Express
+2025,7,21599,4B,Boutique Air
+2025,7,21601,1XQ,Dassault Falcon Service
+2025,7,21610,RV,Air Canada rouge LP
+2025,7,21614,1QQ,City Wings Inc dba Seaflight
+2025,7,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2025,7,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2025,7,21629,KD,Western Global
+2025,7,21630,1ZQ,Comlux Aruba NV
+2025,7,21634,KH,Aloha Air Cargo
+2025,7,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2025,7,21638,AD,Azul Linhas Aereas Brazileiras S A
+2025,7,21646,24Q,Jet Story
+2025,7,21652,27Q,"Jet Aviation Flight Services, Inc."
+2025,7,21656,2AQ,ABS JETS A.S
+2025,7,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2025,7,21718,XE,Delux Public Charters d/b/a JSX
+2025,7,21743,TI,Tropic Ocean Airways LLC
+2025,7,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2025,7,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2025,7,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2025,7,21875,37Q,"Eastern Air Express, LLC (EAX)"
+2025,7,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2025,7,21894,AN,"ADVANCED AIR, LLC"
+2025,7,21909,3AQ,"Maritime Helicopters, Inc."
+2025,7,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2025,7,22035,LDQ,Sparfell Luftfahrt GmbH
+2025,7,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2025,7,22062,HYP,Hyperion Aviation Ltd. dba Hyperion
+2025,7,22068,PAF,Pathfinder Aviation
+2025,7,22074,AOQ,Avcon Jet AG
+2025,7,22075,X5,"Junipogo, LLC"
+2025,7,22077,HAQ,Hamilton Jetport Limited
+2025,7,22080,MX,Breeze Aviation Group DBA  Breeze
+2025,7,22083,BAS,Baranautica Air Service LLC
+2025,7,22085,GCA,"Global Crossing Airlines, Inc."
+2025,7,22090,4Y,Eurowings Discover GmbH
+2025,7,22097,GJQ,GainJet Ireland Ltd
+2025,7,22099,PTQ,Pontair Ltd.
+2025,7,22105,6F,"Fox Aircraft, LLC"
+2025,7,22115,SWQ,Swiss Private Jet S.A.
+2025,7,22121,HUQ,Haute Aviation
+2025,7,22134,JWQ,Global Jet Aruba V.B.A. d/b/a Global Jet Aruba
+2025,7,22137,LNY,"Western Aircraft, dba Lanai Air"
+2025,7,22144,JML,Jet Aviation Flight Services (Malta) Limited (JBJM)
+2025,8,19393,WN,Southwest Airlines Co.
+2025,8,19531,AC,Air Canada
+2025,8,19532,AF,Compagnie Natl Air France
+2025,8,19534,AM,Aeromexico
+2025,8,19543,CA,Air China
+2025,8,19544,CI,China Airlines Ltd.
+2025,8,19550,KE,Korean Air Lines Co. Ltd.
+2025,8,19552,LA,LATAM Airlines Group SA dba Lan Airlines
+2025,8,19554,LH,Lufthansa German Airlines
+2025,8,19566,QF,Qantas Airways Ltd.
+2025,8,19572,SQ,Singapore Airlines Ltd.
+2025,8,19576,TP,TAP-TAP Air Portugal
+2025,8,19682,VS,Virgin Atlantic Airways
+2025,8,19687,QX,Horizon Air
+2025,8,19690,HA,Hawaiian Airlines Inc.
+2025,8,19779,CX,Cathay Pacific Airways Ltd.
+2025,8,19790,DL,Delta Air Lines Inc.
+2025,8,19805,AA,American Airlines Inc.
+2025,8,19821,TK,Turk Hava Yollari A.O.
+2025,8,19830,KZ,Nippon Cargo Airlines
+2025,8,19874,8C,Air Transport International
+2025,8,19917,5X,United Parcel Service
+2025,8,19930,AS,Alaska Airlines Inc.
+2025,8,19977,UA,United Air Lines Inc.
+2025,8,20005,BR,Eva Airways Corporation
+2025,8,20007,5Y,Atlas Air Inc.
+2025,8,20100,PO,Polar Air Cargo Airways
+2025,8,20107,FX,Federal Express Corporation
+2025,8,20108,NC,Northern Air Cargo Inc.
+2025,8,20110,ADB,Antonov Company
+2025,8,20151,M6,Amerijet International
+2025,8,20166,GFQ,Gulf And Caribbean Cargo
+2025,8,20167,JJ,TAM Linhas Aereas SA dba Latam Airlines Brasil
+2025,8,20169,L2,Lynden Air Cargo Airlines
+2025,8,20177,PFQ,Asia Pacific
+2025,8,20195,WI,Sky Lease Cargo
+2025,8,20201,AMQ,Ameristar Air Cargo
+2025,8,20207,XP,TEM Enterprises dba  Avelo Airlines
+2025,8,20224,KAT,Katmai Air
+2025,8,20226,SNK,Spernak Airways Inc.
+2025,8,20229,WS,Westjet
+2025,8,20250,5D,Aerolitoral
+2025,8,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2025,8,20261,ELL,Ellis Air Taxi Inc.
+2025,8,20263,EM,Empire Airlines Inc.
+2025,8,20267,GCH,Grand Canyon Helicopters
+2025,8,20272,M5,Kenmore Air Harbor
+2025,8,20273,NEW,New England Airlines Inc.
+2025,8,20285,WRD,Ward Air
+2025,8,20289,WST,Friday Harbor Seaplanes
+2025,8,20304,OO,SkyWest Airlines Inc.
+2025,8,20319,2E,Smokey Bay Air Inc.
+2025,8,20323,4W,Warbelow
+2025,8,20327,7H,NEW PACIFIC AIRLINES
+2025,8,20330,7S,Ryan Air f/k/a Arctic Transportation
+2025,8,20331,8E,Bering Air Inc.
+2025,8,20333,8V,Wright Air Service
+2025,8,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2025,8,20341,KO,Alaska Central Express
+2025,8,20342,Q5,40-Mile Air
+2025,8,20348,XL,Lan Ecuador
+2025,8,20362,CK,China Cargo Airline
+2025,8,20363,9E,Endeavor Air Inc.
+2025,8,20368,G4,Allegiant Air
+2025,8,20370,KAQ,Kalitta Air LLC
+2025,8,20372,KLQ,Kalitta Charters II
+2025,8,20377,X9,Omni Air International LLC
+2025,8,20378,YV,Mesa Airlines Inc.
+2025,8,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2025,8,20397,OH,PSA Airlines Inc.
+2025,8,20398,MQ,Envoy Air
+2025,8,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2025,8,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2025,8,20409,B6,JetBlue Airways
+2025,8,20416,NK,Spirit Air Lines
+2025,8,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2025,8,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2025,8,20426,VD,Vieques Air Link Inc.
+2025,8,20427,PT,Piedmont Airlines
+2025,8,20436,F9,Frontier Airlines Inc.
+2025,8,20443,2O,Island Air Service
+2025,8,20445,C5,CommuteAir LLC dba CommuteAir
+2025,8,20447,U7,USA Jet Airlines Inc.
+2025,8,20452,YX,Republic Airline
+2025,8,20453,ABX,ABX Air Inc
+2025,8,20455,GV,Grant Aviation
+2025,8,20500,G7,GoJet Airlines LLC d/b/a United Express
+2025,8,21022,Z3Q,"PM Air, LLC"
+2025,8,21080,TJ,Tradewind Aviation
+2025,8,21160,SVW,"Global Jet Luxembourg, Sa"
+2025,8,21196,0CQ,ACM AIR CHARTER GmbH
+2025,8,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2025,8,21376,L7,Lan Colombia
+2025,8,21386,X4,Air Excursions LLC
+2025,8,21427,3S,AeroLogic GmbH
+2025,8,21437,13Q,Chartright Air Inc.
+2025,8,21440,15Q,Air Alsie A/S
+2025,8,21463,4C,Aerovias de Intergracian Regional
+2025,8,21477,VC,Via Airlines d/b/a Sterling Airways
+2025,8,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2025,8,21518,1EQ,"KaiserAir, Inc."
+2025,8,21548,1HQ,International Jet Management GmbH
+2025,8,21568,VJT,VistaJet Limited
+2025,8,21570,S2,Star Marianas Air Inc.
+2025,8,21582,RVQ,"Reeve Air Alaska, LLC"
+2025,8,21590,1UQ,Gainjet Aviation SA
+2025,8,21594,I4,Scott Air LLC dba Island Air Express
+2025,8,21599,4B,Boutique Air
+2025,8,21610,RV,Air Canada rouge LP
+2025,8,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2025,8,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2025,8,21629,KD,Western Global
+2025,8,21634,KH,Aloha Air Cargo
+2025,8,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2025,8,21638,AD,Azul Linhas Aereas Brazileiras S A
+2025,8,21646,24Q,Jet Story
+2025,8,21652,27Q,"Jet Aviation Flight Services, Inc."
+2025,8,21656,2AQ,ABS JETS A.S
+2025,8,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2025,8,21718,XE,Delux Public Charters d/b/a JSX
+2025,8,21743,TI,Tropic Ocean Airways LLC
+2025,8,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2025,8,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2025,8,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2025,8,21875,37Q,"Eastern Air Express, LLC (EAX)"
+2025,8,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2025,8,21894,AN,"ADVANCED AIR, LLC"
+2025,8,21909,3AQ,"Maritime Helicopters, Inc."
+2025,8,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2025,8,22035,LDQ,Sparfell Luftfahrt GmbH
+2025,8,22036,X7,Challenge Airlines (BE) S.A.
+2025,8,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2025,8,22061,WGT,Volkswagen AirSevice GmbH dba Volkswagon
+2025,8,22068,PAF,Pathfinder Aviation
+2025,8,22074,AOQ,Avcon Jet AG
+2025,8,22075,X5,"Junipogo, LLC"
+2025,8,22080,MX,Breeze Aviation Group DBA  Breeze
+2025,8,22083,BAS,Baranautica Air Service LLC
+2025,8,22085,GCA,"Global Crossing Airlines, Inc."
+2025,8,22090,4Y,Eurowings Discover GmbH
+2025,8,22097,GJQ,GainJet Ireland Ltd
+2025,8,22099,PTQ,Pontair Ltd.
+2025,8,22105,6F,"Fox Aircraft, LLC"
+2025,8,22121,HUQ,Haute Aviation
+2025,8,22137,LNY,"Western Aircraft, dba Lanai Air"
+2025,8,22170,KJ,AIRZETA CO Ltd.
+2025,9,19393,WN,Southwest Airlines Co.
+2025,9,19531,AC,Air Canada
+2025,9,19532,AF,Compagnie Natl Air France
+2025,9,19543,CA,Air China
+2025,9,19544,CI,China Airlines Ltd.
+2025,9,19550,KE,Korean Air Lines Co. Ltd.
+2025,9,19552,LA,LATAM Airlines Group SA dba Lan Airlines
+2025,9,19554,LH,Lufthansa German Airlines
+2025,9,19566,QF,Qantas Airways Ltd.
+2025,9,19572,SQ,Singapore Airlines Ltd.
+2025,9,19576,TP,TAP-TAP Air Portugal
+2025,9,19687,QX,Horizon Air
+2025,9,19690,HA,Hawaiian Airlines Inc.
+2025,9,19779,CX,Cathay Pacific Airways Ltd.
+2025,9,19790,DL,Delta Air Lines Inc.
+2025,9,19805,AA,American Airlines Inc.
+2025,9,19821,TK,Turk Hava Yollari A.O.
+2025,9,19830,KZ,Nippon Cargo Airlines
+2025,9,19874,8C,Air Transport International
+2025,9,19917,5X,United Parcel Service
+2025,9,19930,AS,Alaska Airlines Inc.
+2025,9,19977,UA,United Air Lines Inc.
+2025,9,20005,BR,Eva Airways Corporation
+2025,9,20007,5Y,Atlas Air Inc.
+2025,9,20046,ZW,Air Wisconsin Airlines Corp
+2025,9,20100,PO,Polar Air Cargo Airways
+2025,9,20107,FX,Federal Express Corporation
+2025,9,20108,NC,Northern Air Cargo Inc.
+2025,9,20110,ADB,Antonov Company
+2025,9,20151,M6,Amerijet International
+2025,9,20166,GFQ,Gulf And Caribbean Cargo
+2025,9,20169,L2,Lynden Air Cargo Airlines
+2025,9,20177,PFQ,Asia Pacific
+2025,9,20195,WI,Sky Lease Cargo
+2025,9,20201,AMQ,Ameristar Air Cargo
+2025,9,20206,QK,Jazz Aviation LP
+2025,9,20207,XP,TEM Enterprises dba  Avelo Airlines
+2025,9,20224,KAT,Katmai Air
+2025,9,20226,SNK,Spernak Airways Inc.
+2025,9,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2025,9,20261,ELL,Ellis Air Taxi Inc.
+2025,9,20263,EM,Empire Airlines Inc.
+2025,9,20267,GCH,Grand Canyon Helicopters
+2025,9,20272,M5,Kenmore Air Harbor
+2025,9,20273,NEW,New England Airlines Inc.
+2025,9,20285,WRD,Ward Air
+2025,9,20289,WST,Friday Harbor Seaplanes
+2025,9,20304,OO,SkyWest Airlines Inc.
+2025,9,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2025,9,20319,2E,Smokey Bay Air Inc.
+2025,9,20323,4W,Warbelow
+2025,9,20327,7H,NEW PACIFIC AIRLINES
+2025,9,20330,7S,Ryan Air f/k/a Arctic Transportation
+2025,9,20331,8E,Bering Air Inc.
+2025,9,20333,8V,Wright Air Service
+2025,9,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2025,9,20341,KO,Alaska Central Express
+2025,9,20342,Q5,40-Mile Air
+2025,9,20362,CK,China Cargo Airline
+2025,9,20363,9E,Endeavor Air Inc.
+2025,9,20368,G4,Allegiant Air
+2025,9,20370,KAQ,Kalitta Air LLC
+2025,9,20372,KLQ,Kalitta Charters II
+2025,9,20377,X9,Omni Air International LLC
+2025,9,20378,YV,Mesa Airlines Inc.
+2025,9,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2025,9,20397,OH,PSA Airlines Inc.
+2025,9,20398,MQ,Envoy Air
+2025,9,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2025,9,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2025,9,20409,B6,JetBlue Airways
+2025,9,20416,NK,Spirit Air Lines
+2025,9,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2025,9,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2025,9,20426,VD,Vieques Air Link Inc.
+2025,9,20427,PT,Piedmont Airlines
+2025,9,20436,F9,Frontier Airlines Inc.
+2025,9,20443,2O,Island Air Service
+2025,9,20445,C5,CommuteAir LLC dba CommuteAir
+2025,9,20447,U7,USA Jet Airlines Inc.
+2025,9,20452,YX,Republic Airline
+2025,9,20453,ABX,ABX Air Inc
+2025,9,20455,GV,Grant Aviation
+2025,9,20500,G7,GoJet Airlines LLC d/b/a United Express
+2025,9,21040,02Q,Titan Airways
+2025,9,21147,0Q,Flying Service N.V.
+2025,9,21196,0CQ,ACM AIR CHARTER GmbH
+2025,9,21331,0UQ,"Comlux Malta, Ltd."
+2025,9,21376,L7,Lan Colombia
+2025,9,21386,X4,Air Excursions LLC
+2025,9,21427,3S,AeroLogic GmbH
+2025,9,21437,13Q,Chartright Air Inc.
+2025,9,21440,15Q,Air Alsie A/S
+2025,9,21463,4C,Aerovias de Intergracian Regional
+2025,9,21477,VC,Via Airlines d/b/a Sterling Airways
+2025,9,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2025,9,21518,1EQ,"KaiserAir, Inc."
+2025,9,21548,1HQ,International Jet Management GmbH
+2025,9,21568,VJT,VistaJet Limited
+2025,9,21570,S2,Star Marianas Air Inc.
+2025,9,21590,1UQ,Gainjet Aviation SA
+2025,9,21594,I4,Scott Air LLC dba Island Air Express
+2025,9,21599,4B,Boutique Air
+2025,9,21610,RV,Air Canada rouge LP
+2025,9,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2025,9,21629,KD,Western Global
+2025,9,21634,KH,Aloha Air Cargo
+2025,9,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2025,9,21646,24Q,Jet Story
+2025,9,21649,25Q,Mjet GmbH
+2025,9,21652,27Q,"Jet Aviation Flight Services, Inc."
+2025,9,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2025,9,21718,XE,Delux Public Charters d/b/a JSX
+2025,9,21743,TI,Tropic Ocean Airways LLC
+2025,9,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2025,9,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2025,9,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2025,9,21875,37Q,"Eastern Air Express, LLC (EAX)"
+2025,9,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2025,9,21894,AN,"ADVANCED AIR, LLC"
+2025,9,21909,3AQ,"Maritime Helicopters, Inc."
+2025,9,21954,GCQ,Glock Aviation GmbH
+2025,9,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2025,9,22010,IFQ,FAI rent-a-jet AG
+2025,9,22020,GEQ,"Gestair, S.A."
+2025,9,22035,LDQ,Sparfell Luftfahrt GmbH
+2025,9,22036,X7,Challenge Airlines (BE) S.A.
+2025,9,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2025,9,22061,WGT,Volkswagen AirSevice GmbH dba Volkswagon
+2025,9,22068,PAF,Pathfinder Aviation
+2025,9,22074,AOQ,Avcon Jet AG
+2025,9,22075,X5,"Junipogo, LLC"
+2025,9,22077,HAQ,Hamilton Jetport Limited
+2025,9,22080,MX,Breeze Aviation Group DBA  Breeze
+2025,9,22083,BAS,Baranautica Air Service LLC
+2025,9,22085,GCA,"Global Crossing Airlines, Inc."
+2025,9,22087,NIQ,AVCON JET MALTA LTD
+2025,9,22090,4Y,Eurowings Discover GmbH
+2025,9,22099,PTQ,Pontair Ltd.
+2025,9,22105,6F,"Fox Aircraft, LLC"
+2025,9,22115,SWQ,Swiss Private Jet S.A.
+2025,9,22120,QFX,Sparfell Malta Ltd
+2025,9,22129,W2,FlexFlight AsP
+2025,9,22134,JWQ,Global Jet Aruba V.B.A. d/b/a Global Jet Aruba
+2025,9,22137,LNY,"Western Aircraft, dba Lanai Air"
+2025,9,22170,KJ,AIRZETA CO Ltd.
+2025,10,19393,WN,Southwest Airlines Co.
+2025,10,19531,AC,Air Canada
+2025,10,19534,AM,Aeromexico
+2025,10,19543,CA,Air China
+2025,10,19544,CI,China Airlines Ltd.
+2025,10,19550,KE,Korean Air Lines Co. Ltd.
+2025,10,19554,LH,Lufthansa German Airlines
+2025,10,19566,QF,Qantas Airways Ltd.
+2025,10,19572,SQ,Singapore Airlines Ltd.
+2025,10,19682,VS,Virgin Atlantic Airways
+2025,10,19687,QX,Horizon Air
+2025,10,19690,HA,Hawaiian Airlines Inc.
+2025,10,19779,CX,Cathay Pacific Airways Ltd.
+2025,10,19790,DL,Delta Air Lines Inc.
+2025,10,19805,AA,American Airlines Inc.
+2025,10,19821,TK,Turk Hava Yollari A.O.
+2025,10,19830,KZ,Nippon Cargo Airlines
+2025,10,19874,8C,Air Transport International
+2025,10,19912,KX,Cayman Airways Limited
+2025,10,19917,5X,United Parcel Service
+2025,10,19930,AS,Alaska Airlines Inc.
+2025,10,19953,QT,Transportes Aereos Mercantiles Panamericanos S.A
+2025,10,19977,UA,United Air Lines Inc.
+2025,10,20005,BR,Eva Airways Corporation
+2025,10,20007,5Y,Atlas Air Inc.
+2025,10,20046,ZW,Air Wisconsin Airlines Corp
+2025,10,20100,PO,Polar Air Cargo Airways
+2025,10,20107,FX,Federal Express Corporation
+2025,10,20108,NC,Northern Air Cargo Inc.
+2025,10,20110,ADB,Antonov Company
+2025,10,20151,M6,Amerijet International
+2025,10,20166,GFQ,Gulf And Caribbean Cargo
+2025,10,20169,L2,Lynden Air Cargo Airlines
+2025,10,20177,PFQ,Asia Pacific
+2025,10,20195,WI,Sky Lease Cargo
+2025,10,20201,AMQ,Ameristar Air Cargo
+2025,10,20206,QK,Jazz Aviation LP
+2025,10,20207,XP,TEM Enterprises dba  Avelo Airlines
+2025,10,20224,KAT,Katmai Air
+2025,10,20226,SNK,Spernak Airways Inc.
+2025,10,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2025,10,20261,ELL,Ellis Air Taxi Inc.
+2025,10,20263,EM,Empire Airlines Inc.
+2025,10,20272,M5,Kenmore Air Harbor
+2025,10,20273,NEW,New England Airlines Inc.
+2025,10,20285,WRD,Ward Air
+2025,10,20289,WST,Friday Harbor Seaplanes
+2025,10,20304,OO,SkyWest Airlines Inc.
+2025,10,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2025,10,20319,2E,Smokey Bay Air Inc.
+2025,10,20323,4W,Warbelow
+2025,10,20330,7S,Ryan Air f/k/a Arctic Transportation
+2025,10,20331,8E,Bering Air Inc.
+2025,10,20333,8V,Wright Air Service
+2025,10,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2025,10,20341,KO,Alaska Central Express
+2025,10,20342,Q5,40-Mile Air
+2025,10,20346,V8,Iliamna Air Taxi
+2025,10,20362,CK,China Cargo Airline
+2025,10,20363,9E,Endeavor Air Inc.
+2025,10,20368,G4,Allegiant Air
+2025,10,20370,KAQ,Kalitta Air LLC
+2025,10,20377,X9,Omni Air International LLC
+2025,10,20378,YV,Mesa Airlines Inc.
+2025,10,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2025,10,20397,OH,PSA Airlines Inc.
+2025,10,20398,MQ,Envoy Air
+2025,10,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2025,10,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2025,10,20409,B6,JetBlue Airways
+2025,10,20416,NK,Spirit Air Lines
+2025,10,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2025,10,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2025,10,20426,VD,Vieques Air Link Inc.
+2025,10,20427,PT,Piedmont Airlines
+2025,10,20436,F9,Frontier Airlines Inc.
+2025,10,20443,2O,Island Air Service
+2025,10,20445,C5,CommuteAir LLC dba CommuteAir
+2025,10,20447,U7,USA Jet Airlines Inc.
+2025,10,20452,YX,Republic Airline
+2025,10,20453,ABX,ABX Air Inc
+2025,10,20455,GV,Grant Aviation
+2025,10,20500,G7,GoJet Airlines LLC d/b/a United Express
+2025,10,21022,Z3Q,"PM Air, LLC"
+2025,10,21080,TJ,Tradewind Aviation
+2025,10,21196,0CQ,ACM AIR CHARTER GmbH
+2025,10,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2025,10,21376,L7,Lan Colombia
+2025,10,21386,X4,Air Excursions LLC
+2025,10,21427,3S,AeroLogic GmbH
+2025,10,21437,13Q,Chartright Air Inc.
+2025,10,21440,15Q,Air Alsie A/S
+2025,10,21477,VC,Via Airlines d/b/a Sterling Airways
+2025,10,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2025,10,21518,1EQ,"KaiserAir, Inc."
+2025,10,21570,S2,Star Marianas Air Inc.
+2025,10,21590,1UQ,Gainjet Aviation SA
+2025,10,21594,I4,Scott Air LLC dba Island Air Express
+2025,10,21599,4B,Boutique Air
+2025,10,21601,1XQ,Dassault Falcon Service
+2025,10,21614,1QQ,City Wings Inc dba Seaflight
+2025,10,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2025,10,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2025,10,21629,KD,Western Global
+2025,10,21634,KH,Aloha Air Cargo
+2025,10,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2025,10,21638,AD,Azul Linhas Aereas Brazileiras S A
+2025,10,21646,24Q,Jet Story
+2025,10,21651,26Q,Albinati aviation Limited
+2025,10,21652,27Q,"Jet Aviation Flight Services, Inc."
+2025,10,21656,2AQ,ABS JETS A.S
+2025,10,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2025,10,21718,XE,Delux Public Charters d/b/a JSX
+2025,10,21743,TI,Tropic Ocean Airways LLC
+2025,10,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2025,10,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2025,10,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2025,10,21875,37Q,"Eastern Air Express, LLC (EAX)"
+2025,10,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2025,10,21894,AN,"ADVANCED AIR, LLC"
+2025,10,21909,3AQ,"Maritime Helicopters, Inc."
+2025,10,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2025,10,22010,IFQ,FAI rent-a-jet AG
+2025,10,22020,GEQ,"Gestair, S.A."
+2025,10,22035,LDQ,Sparfell Luftfahrt GmbH
+2025,10,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2025,10,22052,EAU,Elitavia Malta Limited
+2025,10,22061,WGT,Volkswagen AirSevice GmbH dba Volkswagon
+2025,10,22068,PAF,Pathfinder Aviation
+2025,10,22075,X5,"Junipogo, LLC"
+2025,10,22077,HAQ,Hamilton Jetport Limited
+2025,10,22080,MX,Breeze Aviation Group DBA  Breeze
+2025,10,22083,BAS,Baranautica Air Service LLC
+2025,10,22085,GCA,"Global Crossing Airlines, Inc."
+2025,10,22087,NIQ,AVCON JET MALTA LTD
+2025,10,22105,6F,"Fox Aircraft, LLC"
+2025,10,22135,EDQ,Air Charter Scotland Ltd.
+2025,10,22137,LNY,"Western Aircraft, dba Lanai Air"
+2025,10,22170,KJ,AIRZETA CO Ltd.
+2025,11,19393,WN,Southwest Airlines Co.
+2025,11,19531,AC,Air Canada
+2025,11,19534,AM,Aeromexico
+2025,11,19543,CA,Air China
+2025,11,19544,CI,China Airlines Ltd.
+2025,11,19550,KE,Korean Air Lines Co. Ltd.
+2025,11,19552,LA,LATAM Airlines Group SA dba Lan Airlines
+2025,11,19566,QF,Qantas Airways Ltd.
+2025,11,19682,VS,Virgin Atlantic Airways
+2025,11,19687,QX,Horizon Air
+2025,11,19690,HA,Hawaiian Airlines Inc.
+2025,11,19779,CX,Cathay Pacific Airways Ltd.
+2025,11,19790,DL,Delta Air Lines Inc.
+2025,11,19805,AA,American Airlines Inc.
+2025,11,19821,TK,Turk Hava Yollari A.O.
+2025,11,19830,KZ,Nippon Cargo Airlines
+2025,11,19874,8C,Air Transport International
+2025,11,19917,5X,United Parcel Service
+2025,11,19930,AS,Alaska Airlines Inc.
+2025,11,19977,UA,United Air Lines Inc.
+2025,11,20005,BR,Eva Airways Corporation
+2025,11,20007,5Y,Atlas Air Inc.
+2025,11,20046,ZW,Air Wisconsin Airlines Corp
+2025,11,20100,PO,Polar Air Cargo Airways
+2025,11,20107,FX,Federal Express Corporation
+2025,11,20108,NC,Northern Air Cargo Inc.
+2025,11,20110,ADB,Antonov Company
+2025,11,20119,UX,Air Europa
+2025,11,20151,M6,Amerijet International
+2025,11,20166,GFQ,Gulf And Caribbean Cargo
+2025,11,20169,L2,Lynden Air Cargo Airlines
+2025,11,20177,PFQ,Asia Pacific
+2025,11,20195,WI,Sky Lease Cargo
+2025,11,20201,AMQ,Ameristar Air Cargo
+2025,11,20207,XP,TEM Enterprises dba  Avelo Airlines
+2025,11,20224,KAT,Katmai Air
+2025,11,20226,SNK,Spernak Airways Inc.
+2025,11,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2025,11,20261,ELL,Ellis Air Taxi Inc.
+2025,11,20263,EM,Empire Airlines Inc.
+2025,11,20267,GCH,Grand Canyon Helicopters
+2025,11,20272,M5,Kenmore Air Harbor
+2025,11,20273,NEW,New England Airlines Inc.
+2025,11,20285,WRD,Ward Air
+2025,11,20304,OO,SkyWest Airlines Inc.
+2025,11,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2025,11,20319,2E,Smokey Bay Air Inc.
+2025,11,20323,4W,Warbelow
+2025,11,20330,7S,Ryan Air f/k/a Arctic Transportation
+2025,11,20331,8E,Bering Air Inc.
+2025,11,20333,8V,Wright Air Service
+2025,11,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2025,11,20341,KO,Alaska Central Express
+2025,11,20342,Q5,40-Mile Air
+2025,11,20346,V8,Iliamna Air Taxi
+2025,11,20362,CK,China Cargo Airline
+2025,11,20363,9E,Endeavor Air Inc.
+2025,11,20368,G4,Allegiant Air
+2025,11,20370,KAQ,Kalitta Air LLC
+2025,11,20377,X9,Omni Air International LLC
+2025,11,20378,YV,Mesa Airlines Inc.
+2025,11,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2025,11,20397,OH,PSA Airlines Inc.
+2025,11,20398,MQ,Envoy Air
+2025,11,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2025,11,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2025,11,20409,B6,JetBlue Airways
+2025,11,20416,NK,Spirit Air Lines
+2025,11,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2025,11,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2025,11,20426,VD,Vieques Air Link Inc.
+2025,11,20427,PT,Piedmont Airlines
+2025,11,20436,F9,Frontier Airlines Inc.
+2025,11,20443,2O,Island Air Service
+2025,11,20445,C5,CommuteAir LLC dba CommuteAir
+2025,11,20447,U7,USA Jet Airlines Inc.
+2025,11,20452,YX,Republic Airline
+2025,11,20453,ABX,ABX Air Inc
+2025,11,20455,GV,Grant Aviation
+2025,11,20500,G7,GoJet Airlines LLC d/b/a United Express
+2025,11,21022,Z3Q,"PM Air, LLC"
+2025,11,21040,02Q,Titan Airways
+2025,11,21080,TJ,Tradewind Aviation
+2025,11,21147,0Q,Flying Service N.V.
+2025,11,21160,SVW,"Global Jet Luxembourg, Sa"
+2025,11,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2025,11,21376,L7,Lan Colombia
+2025,11,21386,X4,Air Excursions LLC
+2025,11,21427,3S,AeroLogic GmbH
+2025,11,21437,13Q,Chartright Air Inc.
+2025,11,21440,15Q,Air Alsie A/S
+2025,11,21463,4C,Aerovias de Intergracian Regional
+2025,11,21477,VC,Via Airlines d/b/a Sterling Airways
+2025,11,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2025,11,21518,1EQ,"KaiserAir, Inc."
+2025,11,21548,1HQ,International Jet Management GmbH
+2025,11,21570,S2,Star Marianas Air Inc.
+2025,11,21594,I4,Scott Air LLC dba Island Air Express
+2025,11,21599,4B,Boutique Air
+2025,11,21610,RV,Air Canada rouge LP
+2025,11,21614,1QQ,City Wings Inc dba Seaflight
+2025,11,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2025,11,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2025,11,21629,KD,Western Global
+2025,11,21634,KH,Aloha Air Cargo
+2025,11,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2025,11,21646,24Q,Jet Story
+2025,11,21652,27Q,"Jet Aviation Flight Services, Inc."
+2025,11,21656,2AQ,ABS JETS A.S
+2025,11,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2025,11,21718,XE,Delux Public Charters d/b/a JSX
+2025,11,21743,TI,Tropic Ocean Airways LLC
+2025,11,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2025,11,21814,2UQ,Svenskt Industriflyg AB
+2025,11,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2025,11,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2025,11,21875,37Q,"Eastern Air Express, LLC (EAX)"
+2025,11,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2025,11,21894,AN,"ADVANCED AIR, LLC"
+2025,11,21909,3AQ,"Maritime Helicopters, Inc."
+2025,11,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2025,11,22010,IFQ,FAI rent-a-jet AG
+2025,11,22020,GEQ,"Gestair, S.A."
+2025,11,22025,KFQ,Skyfirst Limited
+2025,11,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2025,11,22068,PAF,Pathfinder Aviation
+2025,11,22075,X5,"Junipogo, LLC"
+2025,11,22077,HAQ,Hamilton Jetport Limited
+2025,11,22080,MX,Breeze Aviation Group DBA  Breeze
+2025,11,22083,BAS,Baranautica Air Service LLC
+2025,11,22085,GCA,"Global Crossing Airlines, Inc."
+2025,11,22105,6F,"Fox Aircraft, LLC"
+2025,11,22115,SWQ,Swiss Private Jet S.A.
+2025,11,22120,QFX,Sparfell Malta Ltd
+2025,11,22127,BQJ,Brenzil Pty. Ltd. d/b/a Brenzil Jet Charter
+2025,11,22137,LNY,"Western Aircraft, dba Lanai Air"
+2025,11,22144,JML,Jet Aviation Flight Services (Malta) Limited (JBJM)
+2025,11,22170,KJ,AIRZETA CO Ltd.
+2025,12,19393,WN,Southwest Airlines Co.
+2025,12,19531,AC,Air Canada
+2025,12,19534,AM,Aeromexico
+2025,12,19543,CA,Air China
+2025,12,19544,CI,China Airlines Ltd.
+2025,12,19550,KE,Korean Air Lines Co. Ltd.
+2025,12,19566,QF,Qantas Airways Ltd.
+2025,12,19572,SQ,Singapore Airlines Ltd.
+2025,12,19682,VS,Virgin Atlantic Airways
+2025,12,19687,QX,Horizon Air
+2025,12,19690,HA,Hawaiian Airlines Inc.
+2025,12,19779,CX,Cathay Pacific Airways Ltd.
+2025,12,19790,DL,Delta Air Lines Inc.
+2025,12,19805,AA,American Airlines Inc.
+2025,12,19821,TK,Turk Hava Yollari A.O.
+2025,12,19830,KZ,Nippon Cargo Airlines
+2025,12,19874,8C,Air Transport International
+2025,12,19917,5X,United Parcel Service
+2025,12,19930,AS,Alaska Airlines Inc.
+2025,12,19977,UA,United Air Lines Inc.
+2025,12,20005,BR,Eva Airways Corporation
+2025,12,20007,5Y,Atlas Air Inc.
+2025,12,20046,ZW,Air Wisconsin Airlines Corp
+2025,12,20100,PO,Polar Air Cargo Airways
+2025,12,20107,FX,Federal Express Corporation
+2025,12,20108,NC,Northern Air Cargo Inc.
+2025,12,20110,ADB,Antonov Company
+2025,12,20151,M6,Amerijet International
+2025,12,20166,GFQ,Gulf And Caribbean Cargo
+2025,12,20169,L2,Lynden Air Cargo Airlines
+2025,12,20177,PFQ,Asia Pacific
+2025,12,20195,WI,Sky Lease Cargo
+2025,12,20201,AMQ,Ameristar Air Cargo
+2025,12,20207,XP,TEM Enterprises dba  Avelo Airlines
+2025,12,20224,KAT,Katmai Air
+2025,12,20226,SNK,Spernak Airways Inc.
+2025,12,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2025,12,20261,ELL,Ellis Air Taxi Inc.
+2025,12,20263,EM,Empire Airlines Inc.
+2025,12,20267,GCH,Grand Canyon Helicopters
+2025,12,20272,M5,Kenmore Air Harbor
+2025,12,20273,NEW,New England Airlines Inc.
+2025,12,20285,WRD,Ward Air
+2025,12,20304,OO,SkyWest Airlines Inc.
+2025,12,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2025,12,20319,2E,Smokey Bay Air Inc.
+2025,12,20323,4W,Warbelow
+2025,12,20330,7S,Ryan Air f/k/a Arctic Transportation
+2025,12,20331,8E,Bering Air Inc.
+2025,12,20333,8V,Wright Air Service
+2025,12,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2025,12,20341,KO,Alaska Central Express
+2025,12,20342,Q5,40-Mile Air
+2025,12,20346,V8,Iliamna Air Taxi
+2025,12,20362,CK,China Cargo Airline
+2025,12,20363,9E,Endeavor Air Inc.
+2025,12,20368,G4,Allegiant Air
+2025,12,20370,KAQ,Kalitta Air LLC
+2025,12,20377,X9,Omni Air International LLC
+2025,12,20378,YV,Mesa Airlines Inc.
+2025,12,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2025,12,20397,OH,PSA Airlines Inc.
+2025,12,20398,MQ,Envoy Air
+2025,12,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2025,12,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2025,12,20409,B6,JetBlue Airways
+2025,12,20416,NK,Spirit Air Lines
+2025,12,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2025,12,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2025,12,20426,VD,Vieques Air Link Inc.
+2025,12,20427,PT,Piedmont Airlines
+2025,12,20436,F9,Frontier Airlines Inc.
+2025,12,20443,2O,Island Air Service
+2025,12,20445,C5,CommuteAir LLC dba CommuteAir
+2025,12,20447,U7,USA Jet Airlines Inc.
+2025,12,20452,YX,Republic Airline
+2025,12,20453,ABX,ABX Air Inc
+2025,12,20455,GV,Grant Aviation
+2025,12,20500,G7,GoJet Airlines LLC d/b/a United Express
+2025,12,21022,Z3Q,"PM Air, LLC"
+2025,12,21040,02Q,Titan Airways
+2025,12,21080,TJ,Tradewind Aviation
+2025,12,21147,0Q,Flying Service N.V.
+2025,12,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2025,12,21376,L7,Lan Colombia
+2025,12,21386,X4,Air Excursions LLC
+2025,12,21427,3S,AeroLogic GmbH
+2025,12,21437,13Q,Chartright Air Inc.
+2025,12,21477,VC,Via Airlines d/b/a Sterling Airways
+2025,12,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2025,12,21518,1EQ,"KaiserAir, Inc."
+2025,12,21548,1HQ,International Jet Management GmbH
+2025,12,21570,S2,Star Marianas Air Inc.
+2025,12,21590,1UQ,Gainjet Aviation SA
+2025,12,21594,I4,Scott Air LLC dba Island Air Express
+2025,12,21599,4B,Boutique Air
+2025,12,21610,RV,Air Canada rouge LP
+2025,12,21614,1QQ,City Wings Inc dba Seaflight
+2025,12,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2025,12,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2025,12,21629,KD,Western Global
+2025,12,21634,KH,Aloha Air Cargo
+2025,12,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2025,12,21638,AD,Azul Linhas Aereas Brazileiras S A
+2025,12,21646,24Q,Jet Story
+2025,12,21649,25Q,Mjet GmbH
+2025,12,21652,27Q,"Jet Aviation Flight Services, Inc."
+2025,12,21656,2AQ,ABS JETS A.S
+2025,12,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2025,12,21718,XE,Delux Public Charters d/b/a JSX
+2025,12,21743,TI,Tropic Ocean Airways LLC
+2025,12,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2025,12,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2025,12,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2025,12,21875,37Q,"Eastern Air Express, LLC (EAX)"
+2025,12,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2025,12,21894,AN,"ADVANCED AIR, LLC"
+2025,12,21909,3AQ,"Maritime Helicopters, Inc."
+2025,12,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2025,12,22010,IFQ,FAI rent-a-jet AG
+2025,12,22020,GEQ,"Gestair, S.A."
+2025,12,22025,KFQ,Skyfirst Limited
+2025,12,22062,HYP,Hyperion Aviation Ltd. dba Hyperion
+2025,12,22068,PAF,Pathfinder Aviation
+2025,12,22077,HAQ,Hamilton Jetport Limited
+2025,12,22080,MX,Breeze Aviation Group DBA  Breeze
+2025,12,22083,BAS,Baranautica Air Service LLC
+2025,12,22085,GCA,"Global Crossing Airlines, Inc."
+2025,12,22099,PTQ,Pontair Ltd.
+2025,12,22105,6F,"Fox Aircraft, LLC"
+2025,12,22127,BQJ,Brenzil Pty. Ltd. d/b/a Brenzil Jet Charter
+2025,12,22137,LNY,"Western Aircraft, dba Lanai Air"
+2025,12,22170,KJ,AIRZETA CO Ltd.
+2026,1,19393,WN,Southwest Airlines Co.
+2026,1,19531,AC,Air Canada
+2026,1,19532,AF,Compagnie Natl Air France
+2026,1,19534,AM,Aeromexico
+2026,1,19543,CA,Air China
+2026,1,19544,CI,China Airlines Ltd.
+2026,1,19550,KE,Korean Air Lines Co. Ltd.
+2026,1,19552,LA,LATAM Airlines Group SA dba Lan Airlines
+2026,1,19554,LH,Lufthansa German Airlines
+2026,1,19566,QF,Qantas Airways Ltd.
+2026,1,19572,SQ,Singapore Airlines Ltd.
+2026,1,19687,QX,Horizon Air
+2026,1,19779,CX,Cathay Pacific Airways Ltd.
+2026,1,19790,DL,Delta Air Lines Inc.
+2026,1,19805,AA,American Airlines Inc.
+2026,1,19821,TK,Turk Hava Yollari A.O.
+2026,1,19830,KZ,Nippon Cargo Airlines
+2026,1,19874,8C,Air Transport International
+2026,1,19917,5X,United Parcel Service
+2026,1,19930,AS,Alaska Airlines Inc.
+2026,1,19977,UA,United Air Lines Inc.
+2026,1,20005,BR,Eva Airways Corporation
+2026,1,20007,5Y,Atlas Air Inc.
+2026,1,20046,ZW,Air Wisconsin Airlines Corp
+2026,1,20100,PO,Polar Air Cargo Airways
+2026,1,20107,FX,Federal Express Corporation
+2026,1,20108,NC,Northern Air Cargo Inc.
+2026,1,20110,ADB,Antonov Company
+2026,1,20151,M6,Amerijet International
+2026,1,20166,GFQ,Gulf And Caribbean Cargo
+2026,1,20167,JJ,TAM Linhas Aereas SA dba Latam Airlines Brasil
+2026,1,20169,L2,Lynden Air Cargo Airlines
+2026,1,20177,PFQ,Asia Pacific
+2026,1,20195,WI,Sky Lease Cargo
+2026,1,20201,AMQ,Ameristar Air Cargo
+2026,1,20206,QK,Jazz Aviation LP
+2026,1,20207,XP,TEM Enterprises dba  Avelo Airlines
+2026,1,20226,SNK,Spernak Airways Inc.
+2026,1,20250,5D,Aerolitoral
+2026,1,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2026,1,20261,ELL,Ellis Air Taxi Inc.
+2026,1,20263,EM,Empire Airlines Inc.
+2026,1,20272,M5,Kenmore Air Harbor
+2026,1,20273,NEW,New England Airlines Inc.
+2026,1,20285,WRD,Ward Air
+2026,1,20304,OO,SkyWest Airlines Inc.
+2026,1,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2026,1,20319,2E,Smokey Bay Air Inc.
+2026,1,20323,4W,Warbelow
+2026,1,20330,7S,Ryan Air f/k/a Arctic Transportation
+2026,1,20331,8E,Bering Air Inc.
+2026,1,20333,8V,Wright Air Service
+2026,1,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2026,1,20341,KO,Alaska Central Express
+2026,1,20342,Q5,40-Mile Air
+2026,1,20362,CK,China Cargo Airline
+2026,1,20363,9E,Endeavor Air Inc.
+2026,1,20368,G4,Allegiant Air
+2026,1,20370,KAQ,Kalitta Air LLC
+2026,1,20377,X9,Omni Air International LLC
+2026,1,20378,YV,Mesa Airlines Inc.
+2026,1,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2026,1,20397,OH,PSA Airlines Inc.
+2026,1,20398,MQ,Envoy Air
+2026,1,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2026,1,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2026,1,20409,B6,JetBlue Airways
+2026,1,20416,NK,Spirit Air Lines
+2026,1,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2026,1,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2026,1,20427,PT,Piedmont Airlines
+2026,1,20436,F9,Frontier Airlines Inc.
+2026,1,20443,2O,Island Air Service
+2026,1,20445,C5,CommuteAir LLC dba CommuteAir
+2026,1,20447,U7,USA Jet Airlines Inc.
+2026,1,20452,YX,Republic Airline
+2026,1,20453,ABX,ABX Air Inc
+2026,1,20455,GV,Grant Aviation
+2026,1,20500,G7,GoJet Airlines LLC d/b/a United Express
+2026,1,21022,Z3Q,"PM Air, LLC"
+2026,1,21040,02Q,Titan Airways
+2026,1,21080,TJ,Tradewind Aviation
+2026,1,21107,EY,Etihad Airways
+2026,1,21147,0Q,Flying Service N.V.
+2026,1,21160,SVW,"Global Jet Luxembourg, Sa"
+2026,1,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2026,1,21376,L7,Lan Colombia
+2026,1,21386,X4,Air Excursions LLC
+2026,1,21427,3S,AeroLogic GmbH
+2026,1,21437,13Q,Chartright Air Inc.
+2026,1,21440,15Q,Air Alsie A/S
+2026,1,21477,VC,Via Airlines d/b/a Sterling Airways
+2026,1,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2026,1,21518,1EQ,"KaiserAir, Inc."
+2026,1,21568,VJT,VistaJet Limited
+2026,1,21570,S2,Star Marianas Air Inc.
+2026,1,21582,RVQ,"Reeve Air Alaska, LLC"
+2026,1,21590,1UQ,Gainjet Aviation SA
+2026,1,21594,I4,Scott Air LLC dba Island Air Express
+2026,1,21610,RV,Air Canada rouge LP
+2026,1,21614,1QQ,City Wings Inc dba Seaflight
+2026,1,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2026,1,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2026,1,21629,KD,Western Global
+2026,1,21634,KH,Aloha Air Cargo
+2026,1,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2026,1,21646,24Q,Jet Story
+2026,1,21651,26Q,Albinati aviation Limited
+2026,1,21652,27Q,"Jet Aviation Flight Services, Inc."
+2026,1,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2026,1,21718,XE,Delux Public Charters d/b/a JSX
+2026,1,21743,TI,Tropic Ocean Airways LLC
+2026,1,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2026,1,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2026,1,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2026,1,21875,37Q,"Eastern Air Express, LLC (EAX)"
+2026,1,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2026,1,21894,AN,"ADVANCED AIR, LLC"
+2026,1,21909,3AQ,"Maritime Helicopters, Inc."
+2026,1,21954,GCQ,Glock Aviation GmbH
+2026,1,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2026,1,22010,IFQ,FAI rent-a-jet AG
+2026,1,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2026,1,22068,PAF,Pathfinder Aviation
+2026,1,22075,X5,"Junipogo, LLC"
+2026,1,22077,HAQ,Hamilton Jetport Limited
+2026,1,22080,MX,Breeze Aviation Group DBA  Breeze
+2026,1,22083,BAS,Baranautica Air Service LLC
+2026,1,22085,GCA,"Global Crossing Airlines, Inc."
+2026,1,22099,PTQ,Pontair Ltd.
+2026,1,22105,6F,"Fox Aircraft, LLC"
+2026,1,22120,QFX,Sparfell Malta Ltd
+2026,1,22121,HUQ,Haute Aviation
+2026,1,22127,BQJ,Brenzil Pty. Ltd. d/b/a Brenzil Jet Charter
+2026,1,22137,LNY,"Western Aircraft, dba Lanai Air"
+2026,1,22170,KJ,AIRZETA CO Ltd.
+2026,2,19393,WN,Southwest Airlines Co.
+2026,2,19531,AC,Air Canada
+2026,2,19534,AM,Aeromexico
+2026,2,19543,CA,Air China
+2026,2,19544,CI,China Airlines Ltd.
+2026,2,19550,KE,Korean Air Lines Co. Ltd.
+2026,2,19554,LH,Lufthansa German Airlines
+2026,2,19566,QF,Qantas Airways Ltd.
+2026,2,19572,SQ,Singapore Airlines Ltd.
+2026,2,19687,QX,Horizon Air
+2026,2,19779,CX,Cathay Pacific Airways Ltd.
+2026,2,19790,DL,Delta Air Lines Inc.
+2026,2,19805,AA,American Airlines Inc.
+2026,2,19821,TK,Turk Hava Yollari A.O.
+2026,2,19830,KZ,Nippon Cargo Airlines
+2026,2,19874,8C,Air Transport International
+2026,2,19917,5X,United Parcel Service
+2026,2,19930,AS,Alaska Airlines Inc.
+2026,2,19953,QT,Transportes Aereos Mercantiles Panamericanos S.A
+2026,2,19977,UA,United Air Lines Inc.
+2026,2,20005,BR,Eva Airways Corporation
+2026,2,20007,5Y,Atlas Air Inc.
+2026,2,20046,ZW,Air Wisconsin Airlines Corp
+2026,2,20100,PO,Polar Air Cargo Airways
+2026,2,20107,FX,Federal Express Corporation
+2026,2,20108,NC,Northern Air Cargo Inc.
+2026,2,20110,ADB,Antonov Company
+2026,2,20148,MP,Martinair Holland N.V.
+2026,2,20151,M6,Amerijet International
+2026,2,20166,GFQ,Gulf And Caribbean Cargo
+2026,2,20167,JJ,TAM Linhas Aereas SA dba Latam Airlines Brasil
+2026,2,20169,L2,Lynden Air Cargo Airlines
+2026,2,20177,PFQ,Asia Pacific
+2026,2,20188,LP,Lan Peru Airlines
+2026,2,20195,WI,Sky Lease Cargo
+2026,2,20201,AMQ,Ameristar Air Cargo
+2026,2,20206,QK,Jazz Aviation LP
+2026,2,20207,XP,TEM Enterprises dba  Avelo Airlines
+2026,2,20224,KAT,Katmai Air
+2026,2,20226,SNK,Spernak Airways Inc.
+2026,2,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2026,2,20261,ELL,Ellis Air Taxi Inc.
+2026,2,20263,EM,Empire Airlines Inc.
+2026,2,20267,GCH,Grand Canyon Helicopters
+2026,2,20272,M5,Kenmore Air Harbor
+2026,2,20273,NEW,New England Airlines Inc.
+2026,2,20285,WRD,Ward Air
+2026,2,20304,OO,SkyWest Airlines Inc.
+2026,2,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2026,2,20319,2E,Smokey Bay Air Inc.
+2026,2,20323,4W,Warbelow
+2026,2,20330,7S,Ryan Air f/k/a Arctic Transportation
+2026,2,20331,8E,Bering Air Inc.
+2026,2,20333,8V,Wright Air Service
+2026,2,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2026,2,20341,KO,Alaska Central Express
+2026,2,20342,Q5,40-Mile Air
+2026,2,20346,V8,Iliamna Air Taxi
+2026,2,20348,XL,Lan Ecuador
+2026,2,20362,CK,China Cargo Airline
+2026,2,20363,9E,Endeavor Air Inc.
+2026,2,20368,G4,Allegiant Air
+2026,2,20370,KAQ,Kalitta Air LLC
+2026,2,20377,X9,Omni Air International LLC
+2026,2,20378,YV,Mesa Airlines Inc.
+2026,2,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2026,2,20397,OH,PSA Airlines Inc.
+2026,2,20398,MQ,Envoy Air
+2026,2,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2026,2,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2026,2,20409,B6,JetBlue Airways
+2026,2,20416,NK,Spirit Air Lines
+2026,2,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2026,2,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2026,2,20427,PT,Piedmont Airlines
+2026,2,20436,F9,Frontier Airlines Inc.
+2026,2,20443,2O,Island Air Service
+2026,2,20445,C5,CommuteAir LLC dba CommuteAir
+2026,2,20447,U7,USA Jet Airlines Inc.
+2026,2,20452,YX,Republic Airline
+2026,2,20453,ABX,ABX Air Inc
+2026,2,20455,GV,Grant Aviation
+2026,2,20500,G7,GoJet Airlines LLC d/b/a United Express
+2026,2,21022,Z3Q,"PM Air, LLC"
+2026,2,21040,02Q,Titan Airways
+2026,2,21080,TJ,Tradewind Aviation
+2026,2,21160,SVW,"Global Jet Luxembourg, Sa"
+2026,2,21196,0CQ,ACM AIR CHARTER GmbH
+2026,2,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2026,2,21376,L7,Lan Colombia
+2026,2,21386,X4,Air Excursions LLC
+2026,2,21427,3S,AeroLogic GmbH
+2026,2,21437,13Q,Chartright Air Inc.
+2026,2,21440,15Q,Air Alsie A/S
+2026,2,21477,VC,Via Airlines d/b/a Sterling Airways
+2026,2,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2026,2,21518,1EQ,"KaiserAir, Inc."
+2026,2,21548,1HQ,International Jet Management GmbH
+2026,2,21570,S2,Star Marianas Air Inc.
+2026,2,21573,1LQ,Bertelsmann Aviation GmbH
+2026,2,21582,RVQ,"Reeve Air Alaska, LLC"
+2026,2,21594,I4,Scott Air LLC dba Island Air Express
+2026,2,21599,4B,Boutique Air
+2026,2,21601,1XQ,Dassault Falcon Service
+2026,2,21610,RV,Air Canada rouge LP
+2026,2,21614,1QQ,City Wings Inc dba Seaflight
+2026,2,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2026,2,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2026,2,21629,KD,Western Global
+2026,2,21634,KH,Aloha Air Cargo
+2026,2,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2026,2,21646,24Q,Jet Story
+2026,2,21649,25Q,Mjet GmbH
+2026,2,21651,26Q,Albinati aviation Limited
+2026,2,21652,27Q,"Jet Aviation Flight Services, Inc."
+2026,2,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2026,2,21718,XE,Delux Public Charters d/b/a JSX
+2026,2,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2026,2,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2026,2,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2026,2,21875,37Q,"Eastern Air Express, LLC (EAX)"
+2026,2,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2026,2,21894,AN,"ADVANCED AIR, LLC"
+2026,2,21909,3AQ,"Maritime Helicopters, Inc."
+2026,2,21954,GCQ,Glock Aviation GmbH
+2026,2,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2026,2,22010,IFQ,FAI rent-a-jet AG
+2026,2,22020,GEQ,"Gestair, S.A."
+2026,2,22025,KFQ,Skyfirst Limited
+2026,2,22036,X7,Challenge Airlines (BE) S.A.
+2026,2,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2026,2,22068,PAF,Pathfinder Aviation
+2026,2,22075,X5,"Junipogo, LLC"
+2026,2,22077,HAQ,Hamilton Jetport Limited
+2026,2,22080,MX,Breeze Aviation Group DBA  Breeze
+2026,2,22085,GCA,"Global Crossing Airlines, Inc."
+2026,2,22099,PTQ,Pontair Ltd.
+2026,2,22105,6F,"Fox Aircraft, LLC"
+2026,2,22137,LNY,"Western Aircraft, dba Lanai Air"
+2026,2,22170,KJ,AIRZETA CO Ltd.
+2026,3,19393,WN,Southwest Airlines Co.
+2026,3,19531,AC,Air Canada
+2026,3,19532,AF,Compagnie Natl Air France
+2026,3,19534,AM,Aeromexico
+2026,3,19543,CA,Air China
+2026,3,19544,CI,China Airlines Ltd.
+2026,3,19550,KE,Korean Air Lines Co. Ltd.
+2026,3,19552,LA,LATAM Airlines Group SA dba Lan Airlines
+2026,3,19554,LH,Lufthansa German Airlines
+2026,3,19566,QF,Qantas Airways Ltd.
+2026,3,19572,SQ,Singapore Airlines Ltd.
+2026,3,19682,VS,Virgin Atlantic Airways
+2026,3,19687,QX,Horizon Air
+2026,3,19779,CX,Cathay Pacific Airways Ltd.
+2026,3,19790,DL,Delta Air Lines Inc.
+2026,3,19805,AA,American Airlines Inc.
+2026,3,19830,KZ,Nippon Cargo Airlines
+2026,3,19874,8C,Air Transport International
+2026,3,19917,5X,United Parcel Service
+2026,3,19930,AS,Alaska Airlines Inc.
+2026,3,19977,UA,United Air Lines Inc.
+2026,3,20005,BR,Eva Airways Corporation
+2026,3,20007,5Y,Atlas Air Inc.
+2026,3,20046,ZW,Air Wisconsin Airlines Corp
+2026,3,20100,PO,Polar Air Cargo Airways
+2026,3,20107,FX,Federal Express Corporation
+2026,3,20108,NC,Northern Air Cargo Inc.
+2026,3,20110,ADB,Antonov Company
+2026,3,20151,M6,Amerijet International
+2026,3,20166,GFQ,Gulf And Caribbean Cargo
+2026,3,20169,L2,Lynden Air Cargo Airlines
+2026,3,20177,PFQ,Asia Pacific
+2026,3,20195,WI,Sky Lease Cargo
+2026,3,20201,AMQ,Ameristar Air Cargo
+2026,3,20206,QK,Jazz Aviation LP
+2026,3,20207,XP,TEM Enterprises dba  Avelo Airlines
+2026,3,20224,KAT,Katmai Air
+2026,3,20226,SNK,Spernak Airways Inc.
+2026,3,20229,WS,Westjet
+2026,3,20250,5D,Aerolitoral
+2026,3,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2026,3,20261,ELL,Ellis Air Taxi Inc.
+2026,3,20263,EM,Empire Airlines Inc.
+2026,3,20272,M5,Kenmore Air Harbor
+2026,3,20273,NEW,New England Airlines Inc.
+2026,3,20285,WRD,Ward Air
+2026,3,20304,OO,SkyWest Airlines Inc.
+2026,3,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2026,3,20319,2E,Smokey Bay Air Inc.
+2026,3,20323,4W,Warbelow
+2026,3,20330,7S,Ryan Air f/k/a Arctic Transportation
+2026,3,20331,8E,Bering Air Inc.
+2026,3,20333,8V,Wright Air Service
+2026,3,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2026,3,20341,KO,Alaska Central Express
+2026,3,20342,Q5,40-Mile Air
+2026,3,20346,V8,Iliamna Air Taxi
+2026,3,20362,CK,China Cargo Airline
+2026,3,20363,9E,Endeavor Air Inc.
+2026,3,20368,G4,Allegiant Air
+2026,3,20370,KAQ,Kalitta Air LLC
+2026,3,20377,X9,Omni Air International LLC
+2026,3,20378,YV,Mesa Airlines Inc.
+2026,3,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2026,3,20397,OH,PSA Airlines Inc.
+2026,3,20398,MQ,Envoy Air
+2026,3,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2026,3,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2026,3,20409,B6,JetBlue Airways
+2026,3,20416,NK,Spirit Air Lines
+2026,3,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2026,3,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2026,3,20427,PT,Piedmont Airlines
+2026,3,20436,F9,Frontier Airlines Inc.
+2026,3,20443,2O,Island Air Service
+2026,3,20445,C5,CommuteAir LLC dba CommuteAir
+2026,3,20447,U7,USA Jet Airlines Inc.
+2026,3,20452,YX,Republic Airline
+2026,3,20453,ABX,ABX Air Inc
+2026,3,20455,GV,Grant Aviation
+2026,3,20500,G7,GoJet Airlines LLC d/b/a United Express
+2026,3,21022,Z3Q,"PM Air, LLC"
+2026,3,21040,02Q,Titan Airways
+2026,3,21160,SVW,"Global Jet Luxembourg, Sa"
+2026,3,21196,0CQ,ACM AIR CHARTER GmbH
+2026,3,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2026,3,21376,L7,Lan Colombia
+2026,3,21386,X4,Air Excursions LLC
+2026,3,21421,PP,Jet Aviation Business Jets AG
+2026,3,21427,3S,AeroLogic GmbH
+2026,3,21437,13Q,Chartright Air Inc.
+2026,3,21440,15Q,Air Alsie A/S
+2026,3,21477,VC,Via Airlines d/b/a Sterling Airways
+2026,3,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2026,3,21518,1EQ,"KaiserAir, Inc."
+2026,3,21570,S2,Star Marianas Air Inc.
+2026,3,21582,RVQ,"Reeve Air Alaska, LLC"
+2026,3,21594,I4,Scott Air LLC dba Island Air Express
+2026,3,21599,4B,Boutique Air
+2026,3,21610,RV,Air Canada rouge LP
+2026,3,21614,1QQ,City Wings Inc dba Seaflight
+2026,3,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2026,3,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2026,3,21629,KD,Western Global
+2026,3,21634,KH,Aloha Air Cargo
+2026,3,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2026,3,21646,24Q,Jet Story
+2026,3,21652,27Q,"Jet Aviation Flight Services, Inc."
+2026,3,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2026,3,21718,XE,Delux Public Charters d/b/a JSX
+2026,3,21743,TI,Tropic Ocean Airways LLC
+2026,3,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2026,3,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2026,3,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2026,3,21875,37Q,"Eastern Air Express, LLC (EAX)"
+2026,3,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2026,3,21894,AN,"ADVANCED AIR, LLC"
+2026,3,21909,3AQ,"Maritime Helicopters, Inc."
+2026,3,21954,GCQ,Glock Aviation GmbH
+2026,3,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air"
+2026,3,22010,IFQ,FAI rent-a-jet AG
+2026,3,22020,GEQ,"Gestair, S.A."
+2026,3,22025,KFQ,Skyfirst Limited
+2026,3,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2026,3,22068,PAF,Pathfinder Aviation
+2026,3,22074,AOQ,Avcon Jet AG
+2026,3,22075,X5,"Junipogo, LLC"
+2026,3,22077,HAQ,Hamilton Jetport Limited
+2026,3,22080,MX,Breeze Aviation Group DBA  Breeze
+2026,3,22083,BAS,Baranautica Air Service LLC
+2026,3,22085,GCA,"Global Crossing Airlines, Inc."
+2026,3,22090,4Y,Eurowings Discover GmbH
+2026,3,22099,PTQ,Pontair Ltd.
+2026,3,22105,6F,"Fox Aircraft, LLC"
+2026,3,22120,QFX,Sparfell Malta Ltd
+2026,3,22124,JEQ,Jetflite Oy
+2026,3,22137,LNY,"Western Aircraft, dba Lanai Air"
+2026,3,22144,JML,Jet Aviation Flight Services (Malta) Limited (JBJM)
+2026,3,22170,KJ,AIRZETA CO Ltd.
+2026,4,19393,WN,Southwest Airlines Co.
+2026,4,19531,AC,Air Canada
+2026,4,19534,AM,Aeromexico
+2026,4,19540,BA,British Airways Plc
+2026,4,19543,CA,Air China
+2026,4,19544,CI,China Airlines Ltd.
+2026,4,19550,KE,Korean Air Lines Co. Ltd.
+2026,4,19554,LH,Lufthansa German Airlines
+2026,4,19566,QF,Qantas Airways Ltd.
+2026,4,19572,SQ,Singapore Airlines Ltd.
+2026,4,19687,QX,Horizon Air
+2026,4,19779,CX,Cathay Pacific Airways Ltd.
+2026,4,19790,DL,Delta Air Lines Inc.
+2026,4,19805,AA,American Airlines Inc.
+2026,4,19821,TK,Turk Hava Yollari A.O.
+2026,4,19830,KZ,Nippon Cargo Airlines
+2026,4,19874,8C,Air Transport International
+2026,4,19917,5X,United Parcel Service
+2026,4,19930,AS,Alaska Airlines Inc.
+2026,4,19977,UA,United Air Lines Inc.
+2026,4,20005,BR,Eva Airways Corporation
+2026,4,20007,5Y,Atlas Air Inc.
+2026,4,20046,ZW,Air Wisconsin Airlines Corp
+2026,4,20100,PO,Polar Air Cargo Airways
+2026,4,20107,FX,Federal Express Corporation
+2026,4,20108,NC,Northern Air Cargo Inc.
+2026,4,20110,ADB,Antonov Company
+2026,4,20151,M6,Amerijet International
+2026,4,20166,GFQ,Gulf And Caribbean Cargo
+2026,4,20169,L2,Lynden Air Cargo Airlines
+2026,4,20177,PFQ,Asia Pacific
+2026,4,20195,WI,Sky Lease Cargo
+2026,4,20201,AMQ,Ameristar Air Cargo
+2026,4,20206,QK,Jazz Aviation LP
+2026,4,20207,XP,TEM Enterprises dba  Avelo Airlines
+2026,4,20226,SNK,Spernak Airways Inc.
+2026,4,20229,WS,Westjet
+2026,4,20250,5D,Aerolitoral
+2026,4,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2026,4,20261,ELL,Ellis Air Taxi Inc.
+2026,4,20263,EM,Empire Airlines Inc.
+2026,4,20267,GCH,Grand Canyon Helicopters
+2026,4,20272,M5,Kenmore Air Harbor
+2026,4,20273,NEW,New England Airlines Inc.
+2026,4,20304,OO,SkyWest Airlines Inc.
+2026,4,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2026,4,20319,2E,Smokey Bay Air Inc.
+2026,4,20323,4W,Warbelow
+2026,4,20330,7S,Ryan Air f/k/a Arctic Transportation
+2026,4,20331,8E,Bering Air Inc.
+2026,4,20333,8V,Wright Air Service
+2026,4,20341,KO,Alaska Central Express
+2026,4,20342,Q5,40-Mile Air
+2026,4,20362,CK,China Cargo Airline
+2026,4,20363,9E,Endeavor Air Inc.
+2026,4,20368,G4,Allegiant Air
+2026,4,20377,X9,Omni Air International LLC
+2026,4,20378,YV,Mesa Airlines Inc.
+2026,4,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2026,4,20397,OH,PSA Airlines Inc.
+2026,4,20398,MQ,Envoy Air
+2026,4,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2026,4,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2026,4,20409,B6,JetBlue Airways
+2026,4,20416,NK,Spirit Air Lines
+2026,4,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2026,4,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2026,4,20427,PT,Piedmont Airlines
+2026,4,20436,F9,Frontier Airlines Inc.
+2026,4,20443,2O,Island Air Service
+2026,4,20445,C5,CommuteAir LLC dba CommuteAir
+2026,4,20447,U7,USA Jet Airlines Inc.
+2026,4,20452,YX,Republic Airline
+2026,4,20453,ABX,ABX Air Inc
+2026,4,20455,GV,Grant Aviation
+2026,4,20500,G7,GoJet Airlines LLC d/b/a United Express
+2026,4,21022,Z3Q,"PM Air, LLC"
+2026,4,21040,02Q,Titan Airways
+2026,4,21160,SVW,"Global Jet Luxembourg, Sa"
+2026,4,21196,0CQ,ACM AIR CHARTER GmbH
+2026,4,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2026,4,21376,L7,Lan Colombia
+2026,4,21427,3S,AeroLogic GmbH
+2026,4,21440,15Q,Air Alsie A/S
+2026,4,21463,4C,Aerovias de Intergracian Regional
+2026,4,21477,VC,Via Airlines d/b/a Sterling Airways
+2026,4,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2026,4,21518,1EQ,"KaiserAir, Inc."
+2026,4,21570,S2,Star Marianas Air Inc.
+2026,4,21582,RVQ,"Reeve Air Alaska, LLC"
+2026,4,21599,4B,Boutique Air
+2026,4,21610,RV,Air Canada rouge LP
+2026,4,21614,1QQ,City Wings Inc dba Seaflight
+2026,4,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2026,4,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2026,4,21629,KD,Western Global
+2026,4,21634,KH,Aloha Air Cargo
+2026,4,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2026,4,21646,24Q,Jet Story
+2026,4,21649,25Q,Mjet GmbH
+2026,4,21652,27Q,"Jet Aviation Flight Services, Inc."
+2026,4,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2026,4,21718,XE,Delux Public Charters d/b/a JSX
+2026,4,21743,TI,Tropic Ocean Airways LLC
+2026,4,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2026,4,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2026,4,21875,37Q,"Eastern Air Express, LLC (EAX)"
+2026,4,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2026,4,21894,AN,"ADVANCED AIR, LLC"
+2026,4,21909,3AQ,"Maritime Helicopters, Inc."
+2026,4,21954,GCQ,Glock Aviation GmbH
+2026,4,22020,GEQ,"Gestair, S.A."
+2026,4,22036,X7,Challenge Airlines (BE) S.A.
+2026,4,22068,PAF,Pathfinder Aviation
+2026,4,22075,X5,"Junipogo, LLC"
+2026,4,22076,ZPQ,"Silk Way Airlines, LLC"
+2026,4,22080,MX,Breeze Aviation Group DBA  Breeze
+2026,4,22083,BAS,Baranautica Air Service LLC
+2026,4,22085,GCA,"Global Crossing Airlines, Inc."
+2026,4,22099,PTQ,Pontair Ltd.
+2026,4,22105,6F,"Fox Aircraft, LLC"
+2026,4,22120,QFX,Sparfell Malta Ltd
+2026,4,22121,HUQ,Haute Aviation
+2026,4,22129,W2,FlexFlight AsP
+2026,4,22137,LNY,"Western Aircraft, dba Lanai Air"
+2026,4,22169,PGQ,Sparfell Luxembourg SA
+2026,4,22170,KJ,AIRZETA CO Ltd.
+2026,5,19393,WN,Southwest Airlines Co.
+2026,5,19531,AC,Air Canada
+2026,5,19532,AF,Compagnie Natl Air France
+2026,5,19543,CA,Air China
+2026,5,19544,CI,China Airlines Ltd.
+2026,5,19550,KE,Korean Air Lines Co. Ltd.
+2026,5,19552,LA,LATAM Airlines Group SA dba Lan Airlines
+2026,5,19554,LH,Lufthansa German Airlines
+2026,5,19566,QF,Qantas Airways Ltd.
+2026,5,19572,SQ,Singapore Airlines Ltd.
+2026,5,19576,TP,TAP-TAP Air Portugal
+2026,5,19687,QX,Horizon Air
+2026,5,19779,CX,Cathay Pacific Airways Ltd.
+2026,5,19790,DL,Delta Air Lines Inc.
+2026,5,19805,AA,American Airlines Inc.
+2026,5,19821,TK,Turk Hava Yollari A.O.
+2026,5,19874,8C,Air Transport International
+2026,5,19912,KX,Cayman Airways Limited
+2026,5,19917,5X,United Parcel Service
+2026,5,19930,AS,Alaska Airlines Inc.
+2026,5,19977,UA,United Air Lines Inc.
+2026,5,20005,BR,Eva Airways Corporation
+2026,5,20007,5Y,Atlas Air Inc.
+2026,5,20046,ZW,Air Wisconsin Airlines Corp
+2026,5,20100,PO,Polar Air Cargo Airways
+2026,5,20107,FX,Federal Express Corporation
+2026,5,20108,NC,Northern Air Cargo Inc.
+2026,5,20110,ADB,Antonov Company
+2026,5,20151,M6,Amerijet International
+2026,5,20169,L2,Lynden Air Cargo Airlines
+2026,5,20177,PFQ,Asia Pacific
+2026,5,20195,WI,Sky Lease Cargo
+2026,5,20201,AMQ,Ameristar Air Cargo
+2026,5,20206,QK,Jazz Aviation LP
+2026,5,20207,XP,TEM Enterprises dba  Avelo Airlines
+2026,5,20224,KAT,Katmai Air
+2026,5,20226,SNK,Spernak Airways Inc.
+2026,5,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2026,5,20261,ELL,Ellis Air Taxi Inc.
+2026,5,20267,GCH,Grand Canyon Helicopters
+2026,5,20272,M5,Kenmore Air Harbor
+2026,5,20273,NEW,New England Airlines Inc.
+2026,5,20289,WST,Friday Harbor Seaplanes
+2026,5,20304,OO,SkyWest Airlines Inc.
+2026,5,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2026,5,20319,2E,Smokey Bay Air Inc.
+2026,5,20323,4W,Warbelow
+2026,5,20330,7S,Ryan Air f/k/a Arctic Transportation
+2026,5,20331,8E,Bering Air Inc.
+2026,5,20333,8V,Wright Air Service
+2026,5,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2026,5,20342,Q5,40-Mile Air
+2026,5,20346,V8,Iliamna Air Taxi
+2026,5,20348,XL,Lan Ecuador
+2026,5,20362,CK,China Cargo Airline
+2026,5,20363,9E,Endeavor Air Inc.
+2026,5,20368,G4,Allegiant Air
+2026,5,20377,X9,Omni Air International LLC
+2026,5,20378,YV,Mesa Airlines Inc.
+2026,5,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2026,5,20397,OH,PSA Airlines Inc.
+2026,5,20398,MQ,Envoy Air
+2026,5,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2026,5,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2026,5,20409,B6,JetBlue Airways
+2026,5,20416,NK,Spirit Air Lines
+2026,5,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2026,5,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2026,5,20427,PT,Piedmont Airlines
+2026,5,20436,F9,Frontier Airlines Inc.
+2026,5,20443,2O,Island Air Service
+2026,5,20445,C5,CommuteAir LLC dba CommuteAir
+2026,5,20447,U7,USA Jet Airlines Inc.
+2026,5,20452,YX,Republic Airline
+2026,5,20453,ABX,ABX Air Inc
+2026,5,20455,GV,Grant Aviation
+2026,5,20500,G7,GoJet Airlines LLC d/b/a United Express
+2026,5,21022,Z3Q,"PM Air, LLC"
+2026,5,21040,02Q,Titan Airways
+2026,5,21160,SVW,"Global Jet Luxembourg, Sa"
+2026,5,21196,0CQ,ACM AIR CHARTER GmbH
+2026,5,21342,VB,"Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus"
+2026,5,21376,L7,Lan Colombia
+2026,5,21386,X4,Air Excursions LLC
+2026,5,21427,3S,AeroLogic GmbH
+2026,5,21437,13Q,Chartright Air Inc.
+2026,5,21440,15Q,Air Alsie A/S
+2026,5,21447,17Q,Albinati Aeronautics SA
+2026,5,21463,4C,Aerovias de Intergracian Regional
+2026,5,21477,VC,Via Airlines d/b/a Sterling Airways
+2026,5,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2026,5,21518,1EQ,"KaiserAir, Inc."
+2026,5,21570,S2,Star Marianas Air Inc.
+2026,5,21582,RVQ,"Reeve Air Alaska, LLC"
+2026,5,21594,I4,Scott Air LLC dba Island Air Express
+2026,5,21599,4B,Boutique Air
+2026,5,21610,RV,Air Canada rouge LP
+2026,5,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2026,5,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2026,5,21629,KD,Western Global
+2026,5,21634,KH,Aloha Air Cargo
+2026,5,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2026,5,21646,24Q,Jet Story
+2026,5,21649,25Q,Mjet GmbH
+2026,5,21651,26Q,Albinati aviation Limited
+2026,5,21652,27Q,"Jet Aviation Flight Services, Inc."
+2026,5,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2026,5,21718,XE,Delux Public Charters d/b/a JSX
+2026,5,21743,TI,Tropic Ocean Airways LLC
+2026,5,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2026,5,21869,36Q,Air Hamburg Luftverkehrsgesellschaft mbH
+2026,5,21875,37Q,"Eastern Air Express, LLC (EAX)"
+2026,5,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2026,5,21894,AN,"ADVANCED AIR, LLC"
+2026,5,21909,3AQ,"Maritime Helicopters, Inc."
+2026,5,21954,GCQ,Glock Aviation GmbH
+2026,5,22010,IFQ,FAI rent-a-jet AG
+2026,5,22025,KFQ,Skyfirst Limited
+2026,5,22061,WGT,Volkswagen AirSevice GmbH dba Volkswagon
+2026,5,22068,PAF,Pathfinder Aviation
+2026,5,22075,X5,"Junipogo, LLC"
+2026,5,22077,HAQ,Hamilton Jetport Limited
+2026,5,22080,MX,Breeze Aviation Group DBA  Breeze
+2026,5,22083,BAS,Baranautica Air Service LLC
+2026,5,22085,GCA,"Global Crossing Airlines, Inc."
+2026,5,22090,4Y,Eurowings Discover GmbH
+2026,5,22099,PTQ,Pontair Ltd.
+2026,5,22105,6F,"Fox Aircraft, LLC"
+2026,5,22137,LNY,"Western Aircraft, dba Lanai Air"
+2026,5,22170,KJ,AIRZETA CO Ltd.
+2026,6,19393,WN,Southwest Airlines Co.
+2026,6,19532,AF,Compagnie Natl Air France
+2026,6,19534,AM,Aeromexico
+2026,6,19540,BA,British Airways Plc
+2026,6,19543,CA,Air China
+2026,6,19544,CI,China Airlines Ltd.
+2026,6,19550,KE,Korean Air Lines Co. Ltd.
+2026,6,19554,LH,Lufthansa German Airlines
+2026,6,19566,QF,Qantas Airways Ltd.
+2026,6,19572,SQ,Singapore Airlines Ltd.
+2026,6,19576,TP,TAP-TAP Air Portugal
+2026,6,19682,VS,Virgin Atlantic Airways
+2026,6,19687,QX,Horizon Air
+2026,6,19779,CX,Cathay Pacific Airways Ltd.
+2026,6,19790,DL,Delta Air Lines Inc.
+2026,6,19805,AA,American Airlines Inc.
+2026,6,19821,TK,Turk Hava Yollari A.O.
+2026,6,19830,KZ,Nippon Cargo Airlines
+2026,6,19874,8C,Air Transport International
+2026,6,19917,5X,United Parcel Service
+2026,6,19930,AS,Alaska Airlines Inc.
+2026,6,19977,UA,United Air Lines Inc.
+2026,6,20005,BR,Eva Airways Corporation
+2026,6,20007,5Y,Atlas Air Inc.
+2026,6,20046,ZW,Air Wisconsin Airlines Corp
+2026,6,20100,PO,Polar Air Cargo Airways
+2026,6,20107,FX,Federal Express Corporation
+2026,6,20108,NC,Northern Air Cargo Inc.
+2026,6,20110,ADB,Antonov Company
+2026,6,20151,M6,Amerijet International
+2026,6,20166,GFQ,Gulf And Caribbean Cargo
+2026,6,20167,JJ,TAM Linhas Aereas SA dba Latam Airlines Brasil
+2026,6,20169,L2,Lynden Air Cargo Airlines
+2026,6,20177,PFQ,Asia Pacific
+2026,6,20188,LP,Lan Peru Airlines
+2026,6,20195,WI,Sky Lease Cargo
+2026,6,20201,AMQ,Ameristar Air Cargo
+2026,6,20207,XP,TEM Enterprises dba  Avelo Airlines
+2026,6,20224,KAT,Katmai Air
+2026,6,20226,SNK,Spernak Airways Inc.
+2026,6,20250,5D,Aerolitoral
+2026,6,20253,9K,"Hyannis Air Service, Inc. dba Cape Air"
+2026,6,20267,GCH,Grand Canyon Helicopters
+2026,6,20272,M5,Kenmore Air Harbor
+2026,6,20273,NEW,New England Airlines Inc.
+2026,6,20289,WST,Friday Harbor Seaplanes
+2026,6,20304,OO,SkyWest Airlines Inc.
+2026,6,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines"
+2026,6,20323,4W,Warbelow
+2026,6,20330,7S,Ryan Air f/k/a Arctic Transportation
+2026,6,20331,8E,Bering Air Inc.
+2026,6,20333,8V,Wright Air Service
+2026,6,20337,J5,Kalinin Aviation LLC d/b/a Alaska Seaplanes
+2026,6,20341,KO,Alaska Central Express
+2026,6,20342,Q5,40-Mile Air
+2026,6,20362,CK,China Cargo Airline
+2026,6,20363,9E,Endeavor Air Inc.
+2026,6,20368,G4,Allegiant Air
+2026,6,20370,KAQ,Kalitta Air LLC
+2026,6,20372,KLQ,Kalitta Charters II
+2026,6,20377,X9,Omni Air International LLC
+2026,6,20378,YV,Mesa Airlines Inc.
+2026,6,20383,K3,Venture Travel LLC d/b/a Taquan Air Service
+2026,6,20397,OH,PSA Airlines Inc.
+2026,6,20398,MQ,Envoy Air
+2026,6,20405,N8,National Air Cargo Group Inc d/ba National Airlines
+2026,6,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+2026,6,20409,B6,JetBlue Airways
+2026,6,20416,NK,Spirit Air Lines
+2026,6,20422,SY,Sun Country Airlines d/b/a MN Airlines
+2026,6,20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines"
+2026,6,20427,PT,Piedmont Airlines
+2026,6,20436,F9,Frontier Airlines Inc.
+2026,6,20443,2O,Island Air Service
+2026,6,20445,C5,CommuteAir LLC dba CommuteAir
+2026,6,20447,U7,USA Jet Airlines Inc.
+2026,6,20452,YX,Republic Airline
+2026,6,20453,ABX,ABX Air Inc
+2026,6,20455,GV,Grant Aviation
+2026,6,20500,G7,GoJet Airlines LLC d/b/a United Express
+2026,6,21040,02Q,Titan Airways
+2026,6,21080,TJ,Tradewind Aviation
+2026,6,21147,0Q,Flying Service N.V.
+2026,6,21196,0CQ,ACM AIR CHARTER GmbH
+2026,6,21376,L7,Lan Colombia
+2026,6,21386,X4,Air Excursions LLC
+2026,6,21421,PP,Jet Aviation Business Jets AG
+2026,6,21427,3S,AeroLogic GmbH
+2026,6,21437,13Q,Chartright Air Inc.
+2026,6,21440,15Q,Air Alsie A/S
+2026,6,21477,VC,Via Airlines d/b/a Sterling Airways
+2026,6,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC"
+2026,6,21518,1EQ,"KaiserAir, Inc."
+2026,6,21568,VJT,VistaJet Limited
+2026,6,21570,S2,Star Marianas Air Inc.
+2026,6,21594,I4,Scott Air LLC dba Island Air Express
+2026,6,21599,4B,Boutique Air
+2026,6,21610,RV,Air Canada rouge LP
+2026,6,21614,1QQ,City Wings Inc dba Seaflight
+2026,6,21615,F4,"Air Charter, Inc d/b/a Air Flamenco"
+2026,6,21618,9X,"Southern Airways Express, dba Mokulele Airlines"
+2026,6,21629,KD,Western Global
+2026,6,21634,KH,Aloha Air Cargo
+2026,6,21635,LF,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle
+2026,6,21646,24Q,Jet Story
+2026,6,21651,26Q,Albinati aviation Limited
+2026,6,21652,27Q,"Jet Aviation Flight Services, Inc."
+2026,6,21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit"
+2026,6,21718,XE,Delux Public Charters d/b/a JSX
+2026,6,21743,TI,Tropic Ocean Airways LLC
+2026,6,21745,2NQ,LIMA NY Corp d/b/a Fly The Whale
+2026,6,21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service"
+2026,6,21875,37Q,"Eastern Air Express, LLC (EAX)"
+2026,6,21879,KG,Key Lime Air Corp dba Denver Air Connection
+2026,6,21894,AN,"ADVANCED AIR, LLC"
+2026,6,21909,3AQ,"Maritime Helicopters, Inc."
+2026,6,21954,GCQ,Glock Aviation GmbH
+2026,6,22010,IFQ,FAI rent-a-jet AG
+2026,6,22035,LDQ,Sparfell Luftfahrt GmbH
+2026,6,22036,X7,Challenge Airlines (BE) S.A.
+2026,6,22048,JCO,Concierge U Ltd. d/b/a Jet Concierge Club
+2026,6,22052,EAU,Elitavia Malta Limited
+2026,6,22061,WGT,Volkswagen AirSevice GmbH dba Volkswagon
+2026,6,22068,PAF,Pathfinder Aviation
+2026,6,22075,X5,"Junipogo, LLC"
+2026,6,22077,HAQ,Hamilton Jetport Limited
+2026,6,22080,MX,Breeze Aviation Group DBA  Breeze
+2026,6,22083,BAS,Baranautica Air Service LLC
+2026,6,22085,GCA,"Global Crossing Airlines, Inc."
+2026,6,22090,4Y,Eurowings Discover GmbH
+2026,6,22099,PTQ,Pontair Ltd.
+2026,6,22105,6F,"Fox Aircraft, LLC"
+2026,6,22134,JWQ,Global Jet Aruba V.B.A. d/b/a Global Jet Aruba
+2026,6,22137,LNY,"Western Aircraft, dba Lanai Air"
+2026,6,22144,JML,Jet Aviation Flight Services (Malta) Limited (JBJM)
+2026,6,22169,PGQ,Sparfell Luxembourg SA
+2026,6,22170,KJ,AIRZETA CO Ltd.

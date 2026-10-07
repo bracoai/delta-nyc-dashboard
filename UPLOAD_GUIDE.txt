@@ -1,0 +1,159 @@
+YOUR WEBSITE UPLOAD GUIDE
+Prepared October 7, 2026
+
+START HERE: THE FILE PREPARATION IS ALREADY DONE
+
+I created this folder on your computer:
+C:\Users\brand\Downloads\Delta_NYC_T100_Pipeline\delta_nyc\GITHUB_UPLOAD_READY
+
+It is a copy prepared specifically for the website. You do not need to find,
+copy, rename, edit or create any additional files. Nothing has been uploaded.
+You can leave your existing local website running.
+
+For this upload, follow this guide instead of the older DEPLOYMENT.md checklist.
+There are no terminal commands to run for the browser-upload method below.
+
+WHAT THE NAMES MEAN
+
+app.py and dashboard_model.py are Python program files.
+requirements.txt is a file listing the software the cloud service installs.
+README.md is a plain-text explanation displayed by GitHub.
+.gitignore is a small settings file used by Git. Keep its leading dot.
+.streamlit is a folder. Its config.toml file controls the website theme.
+assets is a folder containing the logo and its source attribution.
+data_v2 is a folder containing the already-prepared data and its build record.
+UPLOAD_GUIDE.txt is this guide. You can double-click it to read it in Notepad.
+
+These are file/folder names, not commands. A slash in a path means 'inside':
+.streamlit/config.toml means the file config.toml INSIDE the .streamlit folder.
+'Commit changes' is GitHub's button for saving uploaded files to the repository.
+A 'repository' is your project's storage space on GitHub.
+
+WHAT ABOUT THE ORIGINAL ZIP FILES?
+
+Keep your original delta_nyc project and its inputs folder on your computer.
+The six original ZIPs remain there unchanged. They are the source archive used
+to prepare the data. The website reads data_v2, so the ZIPs do not need uploading.
+This upload copy intentionally contains no inputs folder, ZIPs, database,
+virtual environment, backups, or pipeline scripts. Do not add those manually.
+The original project remains the place to reproduce or develop the analysis.
+
+PART 1 - OPEN THE PREPARED FOLDER (YOU CAN STOP AFTER THIS PART)
+
+1. Open Windows File Explorer.
+2. Click the address bar at the top (or press Ctrl+L).
+3. Paste the full folder path shown above and press Enter.
+4. If necessary, choose View > Show > Hidden items, and also turn on
+   File name extensions. This helps you see names beginning with a dot.
+5. You should see these NINE items directly inside the folder:
+
+   .streamlit          folder
+   assets              folder
+   data_v2             folder
+   .gitignore          file
+   app.py              file
+   dashboard_model.py  file
+   requirements.txt    file
+   README.md           file
+   UPLOAD_GUIDE.txt    file
+
+There are 17 files in total when you count the files inside the three folders.
+Do not run the Python files by double-clicking them. They are ready for upload.
+Your file-preparation step is complete. The remaining parts are for when you
+choose to publish; you do not need to do them now.
+
+PART 2 - CREATE A GITHUB REPOSITORY WHEN YOU ARE READY
+
+1. Sign in at https://github.com in your browser.
+2. Use the + menu near the top-right and choose New repository.
+3. Enter a name, for example: delta-nyc-dashboard
+4. Choose Public if you want a public portfolio repository. Public means anyone
+   can see and download the uploaded code and data. Choose Private if that is
+   your preference; Streamlit must be granted access to the private repository.
+5. Leave the initialization options OFF: do not add a README, .gitignore,
+   or license here. The prepared folder already supplies the first two.
+6. Click Create repository.
+
+PART 3 - UPLOAD THE CONTENTS OF THE PREPARED FOLDER
+
+1. On the empty repository page, click the 'uploading an existing file' link.
+   If the repository already has files, use Add file > Upload files instead.
+2. Go back to File Explorer and OPEN GITHUB_UPLOAD_READY.
+3. Press Ctrl+A to select the NINE items INSIDE it.
+4. Drag those selected items together onto GitHub's upload area.
+   Drag the three folders along with the six files; keep their contents inside.
+
+IMPORTANT: Upload the CONTENTS, not the outer GITHUB_UPLOAD_READY folder.
+The app.py file must end up directly at the top of the GitHub repository.
+Do not zip the folder. Do not drag the original delta_nyc folder.
+The .gitignore file does not filter browser uploads, so use this prepared copy.
+
+5. Wait for all files to appear in GitHub's pending upload list.
+6. Check that .gitignore and .streamlit/config.toml are included. If either was
+   skipped, drag the missing file/folder into the upload area before saving.
+7. Check the names do NOT start with GITHUB_UPLOAD_READY/.
+8. Enter a short message such as: Add prepared Streamlit dashboard
+9. Click Commit changes. On an empty repository this saves the first version.
+10. Confirm the branch selector says main. If your branch has another name,
+    use that exact branch name in Streamlit later.
+11. Verify the top level shows app.py, dashboard_model.py, requirements.txt,
+    .gitignore, README.md, UPLOAD_GUIDE.txt and the three folders.
+12. Open data_v2 on GitHub. It should contain these EIGHT files:
+
+    airports.csv
+    build_manifest.json
+    carriers.csv
+    coverage.csv
+    market_route.csv
+    market_scope.csv
+    segment_route.csv
+    segment_scope.csv
+
+13. Open .streamlit and confirm config.toml is inside it.
+14. Open assets and confirm delta_logo.png and SOURCES.md are inside it.
+
+If GitHub shows an outer GITHUB_UPLOAD_READY folder instead of app.py at the
+repository top level, stop before deploying and correct the upload structure.
+Do not compensate by changing the application code.
+
+PART 4 - DEPLOY TO STREAMLIT COMMUNITY CLOUD LATER
+
+1. Go to https://share.streamlit.io and sign in/connect your GitHub account.
+2. Choose Create app (or New app), then the option to deploy from GitHub.
+3. Select the repository you just created.
+4. Set Branch to main, or the exact branch name you confirmed on GitHub.
+5. Set Main file path to: app.py
+6. Open Advanced settings and select Python version 3.13.
+7. Leave Secrets empty; this app needs none. Save the settings.
+8. Choose an available app URL if desired, or accept the assigned one.
+9. Click Deploy when you are ready to publish the website.
+10. Wait for installation and startup. Streamlit reads requirements.txt and
+    runs the app automatically. You do not run the pipeline or a terminal command.
+
+PART 5 - CHECK THE HOSTED WEBSITE
+
+1. Open the public app URL that Streamlit gives you.
+2. Confirm the default view is Delta / NYC core / May 2026.
+3. Confirm the four default metrics are:
+   21.81% | 21.12% | 84.3% | 5,694
+4. Confirm the logo and existing theme appear.
+5. Try an airline filter, an airport filter, and a route search.
+6. If the app fails, read/copy the error from Streamlit's logs. Check the file
+   layout and Python version above before changing code or rebuilding data.
+
+YOUR RUNNING LOCAL APP
+
+You may leave the local app on localhost:8501 running throughout these steps.
+The hosted app runs separately. Ctrl+C is only needed when you want to stop
+that local server. This folder is a snapshot: future edits in the original
+project do not automatically update this copy or GitHub.
+
+REFERENCE INFORMATION
+
+GitHub supports browser drag-and-drop uploads of files and folders, up to
+100 files per upload and 25 MiB per file. This package fits those limits.
+https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
+
+Streamlit's file layout and deployment settings:
+https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/file-organization
+https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy

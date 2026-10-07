@@ -1,0 +1,1902 @@
+{
+  "status": "PASS",
+  "sources": [
+    {
+      "kind": "market",
+      "file": "T_T100D_MARKET_ALL_CARRIER_20261004_192320.zip",
+      "sha256": "d924b925d955dc7520c6833e5b6d52d61add8542d31c5e351923ec6621b2f497",
+      "csv_sha256": "266c3e6703d095c7d473304158729da58ee45eb723b1fc79ba9ab145adcef683",
+      "rows": 127286,
+      "columns": 36,
+      "periods": [
+        [
+          2026,
+          1,
+          21140
+        ],
+        [
+          2026,
+          2,
+          20073
+        ],
+        [
+          2026,
+          3,
+          21727
+        ],
+        [
+          2026,
+          4,
+          20863
+        ],
+        [
+          2026,
+          5,
+          21465
+        ],
+        [
+          2026,
+          6,
+          22018
+        ]
+      ]
+    },
+    {
+      "kind": "market",
+      "file": "T_T100D_MARKET_ALL_CARRIER_20261005_003724.zip",
+      "sha256": "ee189667e5a0ce1c08f2ffe343ec7156a32a1c2ff9f414be699be91643c8fbcd",
+      "csv_sha256": "d52f24ab80762ede0c94e4089131e79b160147180ef55ea4c4093061cab68c2d",
+      "rows": 253318,
+      "columns": 36,
+      "periods": [
+        [
+          2025,
+          1,
+          20140
+        ],
+        [
+          2025,
+          2,
+          19392
+        ],
+        [
+          2025,
+          3,
+          21219
+        ],
+        [
+          2025,
+          4,
+          20072
+        ],
+        [
+          2025,
+          5,
+          20731
+        ],
+        [
+          2025,
+          6,
+          22325
+        ],
+        [
+          2025,
+          7,
+          21665
+        ],
+        [
+          2025,
+          8,
+          22302
+        ],
+        [
+          2025,
+          9,
+          20523
+        ],
+        [
+          2025,
+          10,
+          21515
+        ],
+        [
+          2025,
+          11,
+          21834
+        ],
+        [
+          2025,
+          12,
+          21600
+        ]
+      ]
+    },
+    {
+      "kind": "market",
+      "file": "T_T100D_MARKET_ALL_CARRIER_20261005_003840.zip",
+      "sha256": "4c233b0d41952c9907e813ff4d13108b3ee0502dd00df2b98582d7bdd7e97609",
+      "csv_sha256": "ccc027a0a4cd691d46e7c0ebd2819a594ad67d9ed60b0496410c1313ca715635",
+      "rows": 248211,
+      "columns": 36,
+      "periods": [
+        [
+          2024,
+          1,
+          21517
+        ],
+        [
+          2024,
+          2,
+          19906
+        ],
+        [
+          2024,
+          3,
+          21030
+        ],
+        [
+          2024,
+          4,
+          19214
+        ],
+        [
+          2024,
+          5,
+          20533
+        ],
+        [
+          2024,
+          6,
+          21066
+        ],
+        [
+          2024,
+          7,
+          21179
+        ],
+        [
+          2024,
+          8,
+          21416
+        ],
+        [
+          2024,
+          9,
+          20164
+        ],
+        [
+          2024,
+          10,
+          20081
+        ],
+        [
+          2024,
+          11,
+          20647
+        ],
+        [
+          2024,
+          12,
+          21458
+        ]
+      ]
+    },
+    {
+      "kind": "segment",
+      "file": "T_T100D_SEGMENT_ALL_CARRIER_20261004_192534.zip",
+      "sha256": "cd2f6abbcb3fd5cfcf24cab34da2eee2968ab1e453c4d57ed9639ec7528ac228",
+      "csv_sha256": "4256fe262c0eed943c3cd72def5a4bb1cc463b57849550cd2e7343a52e5f0905",
+      "rows": 228670,
+      "columns": 45,
+      "periods": [
+        [
+          2026,
+          1,
+          38371
+        ],
+        [
+          2026,
+          2,
+          36165
+        ],
+        [
+          2026,
+          3,
+          39314
+        ],
+        [
+          2026,
+          4,
+          37451
+        ],
+        [
+          2026,
+          5,
+          38857
+        ],
+        [
+          2026,
+          6,
+          38512
+        ]
+      ]
+    },
+    {
+      "kind": "segment",
+      "file": "T_T100D_SEGMENT_ALL_CARRIER_20261005_004849.zip",
+      "sha256": "4d1b671ec1a95b2885375beab2a462b4516f6409a7a0c582978726ec8151b778",
+      "csv_sha256": "c8914d1d8a2a6cd757048c08b4a796eb78d50291358f9583fef8618f85a06eaa",
+      "rows": 458793,
+      "columns": 45,
+      "periods": [
+        [
+          2025,
+          1,
+          36123
+        ],
+        [
+          2025,
+          2,
+          35058
+        ],
+        [
+          2025,
+          3,
+          38155
+        ],
+        [
+          2025,
+          4,
+          36343
+        ],
+        [
+          2025,
+          5,
+          38260
+        ],
+        [
+          2025,
+          6,
+          40359
+        ],
+        [
+          2025,
+          7,
+          39976
+        ],
+        [
+          2025,
+          8,
+          40137
+        ],
+        [
+          2025,
+          9,
+          36723
+        ],
+        [
+          2025,
+          10,
+          38804
+        ],
+        [
+          2025,
+          11,
+          39240
+        ],
+        [
+          2025,
+          12,
+          39615
+        ]
+      ]
+    },
+    {
+      "kind": "segment",
+      "file": "T_T100D_SEGMENT_ALL_CARRIER_20261005_045447.zip",
+      "sha256": "b62bd9aec42fc2201127627ebc138e5d125000656f9ef4b0d28aa44f87da1aa0",
+      "csv_sha256": "72fe6167b9f79fb05b793b92a896a0c018bbfc98f6a6fee73f2633713173acd3",
+      "rows": 440939,
+      "columns": 45,
+      "periods": [
+        [
+          2024,
+          1,
+          36186
+        ],
+        [
+          2024,
+          2,
+          33687
+        ],
+        [
+          2024,
+          3,
+          35656
+        ],
+        [
+          2024,
+          4,
+          34531
+        ],
+        [
+          2024,
+          5,
+          37985
+        ],
+        [
+          2024,
+          6,
+          38270
+        ],
+        [
+          2024,
+          7,
+          38251
+        ],
+        [
+          2024,
+          8,
+          38752
+        ],
+        [
+          2024,
+          9,
+          36347
+        ],
+        [
+          2024,
+          10,
+          36056
+        ],
+        [
+          2024,
+          11,
+          36860
+        ],
+        [
+          2024,
+          12,
+          38358
+        ]
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "name": "One matching fact member: T_T100D_MARKET_ALL_CARRIER_20261004_192320.zip",
+      "passed": true,
+      "actual": 1
+    },
+    {
+      "name": "No exact duplicate source records: T_T100D_MARKET_ALL_CARRIER_20261004_192320.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Required numeric types: T_T100D_MARKET_ALL_CARRIER_20261004_192320.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Required labels: T_T100D_MARKET_ALL_CARRIER_20261004_192320.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Identifier and month domains: T_T100D_MARKET_ALL_CARRIER_20261004_192320.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2026, 1)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2026, 2)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2026, 3)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2026, 4)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2026, 5)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2026, 6)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Source ZIP unchanged: T_T100D_MARKET_ALL_CARRIER_20261004_192320.zip",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "One matching fact member: T_T100D_MARKET_ALL_CARRIER_20261005_003724.zip",
+      "passed": true,
+      "actual": 1
+    },
+    {
+      "name": "No exact duplicate source records: T_T100D_MARKET_ALL_CARRIER_20261005_003724.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Required numeric types: T_T100D_MARKET_ALL_CARRIER_20261005_003724.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Required labels: T_T100D_MARKET_ALL_CARRIER_20261005_003724.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Identifier and month domains: T_T100D_MARKET_ALL_CARRIER_20261005_003724.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2025, 1)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2025, 2)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2025, 3)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2025, 4)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2025, 5)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2025, 6)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2025, 7)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2025, 8)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2025, 9)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2025, 10)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2025, 11)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2025, 12)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Source ZIP unchanged: T_T100D_MARKET_ALL_CARRIER_20261005_003724.zip",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "One matching fact member: T_T100D_MARKET_ALL_CARRIER_20261005_003840.zip",
+      "passed": true,
+      "actual": 1
+    },
+    {
+      "name": "No exact duplicate source records: T_T100D_MARKET_ALL_CARRIER_20261005_003840.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Required numeric types: T_T100D_MARKET_ALL_CARRIER_20261005_003840.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Required labels: T_T100D_MARKET_ALL_CARRIER_20261005_003840.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Identifier and month domains: T_T100D_MARKET_ALL_CARRIER_20261005_003840.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2024, 1)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2024, 2)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2024, 3)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2024, 4)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2024, 5)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2024, 6)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2024, 7)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2024, 8)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2024, 9)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2024, 10)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2024, 11)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('market', 2024, 12)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Source ZIP unchanged: T_T100D_MARKET_ALL_CARRIER_20261005_003840.zip",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "One matching fact member: T_T100D_SEGMENT_ALL_CARRIER_20261004_192534.zip",
+      "passed": true,
+      "actual": 1
+    },
+    {
+      "name": "No exact duplicate source records: T_T100D_SEGMENT_ALL_CARRIER_20261004_192534.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Required numeric types: T_T100D_SEGMENT_ALL_CARRIER_20261004_192534.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Required labels: T_T100D_SEGMENT_ALL_CARRIER_20261004_192534.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Identifier and month domains: T_T100D_SEGMENT_ALL_CARRIER_20261004_192534.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2026, 1)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2026, 2)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2026, 3)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2026, 4)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2026, 5)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2026, 6)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Scoped Segment distance and operated-flight consistency: T_T100D_SEGMENT_ALL_CARRIER_20261004_192534.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Source ZIP unchanged: T_T100D_SEGMENT_ALL_CARRIER_20261004_192534.zip",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "One matching fact member: T_T100D_SEGMENT_ALL_CARRIER_20261005_004849.zip",
+      "passed": true,
+      "actual": 1
+    },
+    {
+      "name": "No exact duplicate source records: T_T100D_SEGMENT_ALL_CARRIER_20261005_004849.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Required numeric types: T_T100D_SEGMENT_ALL_CARRIER_20261005_004849.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Required labels: T_T100D_SEGMENT_ALL_CARRIER_20261005_004849.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Identifier and month domains: T_T100D_SEGMENT_ALL_CARRIER_20261005_004849.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2025, 1)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2025, 2)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2025, 3)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2025, 4)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2025, 5)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2025, 6)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2025, 7)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2025, 8)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2025, 9)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2025, 10)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2025, 11)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2025, 12)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Scoped Segment distance and operated-flight consistency: T_T100D_SEGMENT_ALL_CARRIER_20261005_004849.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Source ZIP unchanged: T_T100D_SEGMENT_ALL_CARRIER_20261005_004849.zip",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "One matching fact member: T_T100D_SEGMENT_ALL_CARRIER_20261005_045447.zip",
+      "passed": true,
+      "actual": 1
+    },
+    {
+      "name": "No exact duplicate source records: T_T100D_SEGMENT_ALL_CARRIER_20261005_045447.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Required numeric types: T_T100D_SEGMENT_ALL_CARRIER_20261005_045447.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Required labels: T_T100D_SEGMENT_ALL_CARRIER_20261005_045447.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Identifier and month domains: T_T100D_SEGMENT_ALL_CARRIER_20261005_045447.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2024, 1)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2024, 2)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2024, 3)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2024, 4)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2024, 5)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2024, 6)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2024, 7)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2024, 8)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2024, 9)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2024, 10)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2024, 11)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Nonoverlapping source period: ('segment', 2024, 12)",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Scoped Segment distance and operated-flight consistency: T_T100D_SEGMENT_ALL_CARRIER_20261005_045447.zip",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Source ZIP unchanged: T_T100D_SEGMENT_ALL_CARRIER_20261005_045447.zip",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Unique aggregate grain: market_scope",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Shares reconcile: market_passenger_share",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Independent Python sums: market_scope",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Unique aggregate grain: market_route",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Unique aggregate grain: segment_scope",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Shares reconcile: segment_passenger_share",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Shares reconcile: seat_share",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Shares reconcile: departure_share",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Independent Python sums: segment_scope",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "Unique aggregate grain: segment_route",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Carrier labels unique per period/id",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "Unique official airport ID reference",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "2026 market keys reconcile to V1",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "2026 baseline market_passengers",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "2026 segment keys reconcile to V1",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "2026 baseline segment_passengers",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "2026 baseline seats",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "2026 baseline departures_performed",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "2026 baseline departures_scheduled",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "2026 baseline asm",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "2026 baseline rpm",
+      "passed": true,
+      "actual": null
+    }
+  ],
+  "source_warnings": [
+    {
+      "file": "T_T100D_SEGMENT_ALL_CARRIER_20261005_004849.zip",
+      "reason": "Same-airport zero distance; retained counts, zero seat/passenger miles",
+      "rows": [
+        {
+          "YEAR": 2025,
+          "MONTH": 12,
+          "AIRLINE_ID": 20409,
+          "UNIQUE_CARRIER": "B6",
+          "ORIGIN": "JFK",
+          "DEST": "JFK",
+          "PASSENGERS": 157,
+          "SEATS": 162,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 11,
+          "AIRLINE_ID": 20409,
+          "UNIQUE_CARRIER": "B6",
+          "ORIGIN": "EWR",
+          "DEST": "EWR",
+          "PASSENGERS": 57,
+          "SEATS": 138,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 2,
+          "AIRLINE_ID": 20409,
+          "UNIQUE_CARRIER": "B6",
+          "ORIGIN": "JFK",
+          "DEST": "JFK",
+          "PASSENGERS": 2,
+          "SEATS": 200,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 11,
+          "AIRLINE_ID": 21080,
+          "UNIQUE_CARRIER": "TJ",
+          "ORIGIN": "HPN",
+          "DEST": "HPN",
+          "PASSENGERS": 3,
+          "SEATS": 8,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 8,
+          "AIRLINE_ID": 21080,
+          "UNIQUE_CARRIER": "TJ",
+          "ORIGIN": "HPN",
+          "DEST": "HPN",
+          "PASSENGERS": 4,
+          "SEATS": 8,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 2,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "HPN",
+          "DEST": "HPN",
+          "PASSENGERS": 0,
+          "SEATS": 76,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 1,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "HPN",
+          "DEST": "HPN",
+          "PASSENGERS": 0,
+          "SEATS": 70,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 6,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "HPN",
+          "DEST": "HPN",
+          "PASSENGERS": 0,
+          "SEATS": 70,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 12,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 76,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 8,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 76,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 5,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 76,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 5,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "JFK",
+          "DEST": "JFK",
+          "PASSENGERS": 0,
+          "SEATS": 76,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 3,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "JFK",
+          "DEST": "JFK",
+          "PASSENGERS": 0,
+          "SEATS": 76,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 1,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "JFK",
+          "DEST": "JFK",
+          "PASSENGERS": 0,
+          "SEATS": 76,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 7,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "HPN",
+          "DEST": "HPN",
+          "PASSENGERS": 0,
+          "SEATS": 146,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 2
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 2,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 152,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 2
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 10,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 152,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 2
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 11,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 228,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 3
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 4,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "JFK",
+          "DEST": "JFK",
+          "PASSENGERS": 0,
+          "SEATS": 228,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 3
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 4,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 228,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 3
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 6,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 228,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 3
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 3,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 304,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 4
+        },
+        {
+          "YEAR": 2025,
+          "MONTH": 7,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 532,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 7
+        }
+      ],
+      "count": 23
+    },
+    {
+      "file": "T_T100D_SEGMENT_ALL_CARRIER_20261005_045447.zip",
+      "reason": "Same-airport zero distance; retained counts, zero seat/passenger miles",
+      "rows": [
+        {
+          "YEAR": 2024,
+          "MONTH": 1,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "EWR",
+          "DEST": "EWR",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 9,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 1,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 2,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 2,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 2,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "EWR",
+          "DEST": "EWR",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 3,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 4,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 10,
+          "AIRLINE_ID": 21080,
+          "UNIQUE_CARRIER": "TJ",
+          "ORIGIN": "HPN",
+          "DEST": "HPN",
+          "PASSENGERS": 7,
+          "SEATS": 8,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 5,
+          "AIRLINE_ID": 21080,
+          "UNIQUE_CARRIER": "TJ",
+          "ORIGIN": "HPN",
+          "DEST": "HPN",
+          "PASSENGERS": 8,
+          "SEATS": 8,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 10,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "HPN",
+          "DEST": "HPN",
+          "PASSENGERS": 0,
+          "SEATS": 76,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 7,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "HPN",
+          "DEST": "HPN",
+          "PASSENGERS": 0,
+          "SEATS": 76,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 11,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "HPN",
+          "DEST": "HPN",
+          "PASSENGERS": 0,
+          "SEATS": 76,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 6,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "JFK",
+          "DEST": "JFK",
+          "PASSENGERS": 0,
+          "SEATS": 76,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 12,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "JFK",
+          "DEST": "JFK",
+          "PASSENGERS": 0,
+          "SEATS": 76,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 11,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "JFK",
+          "DEST": "JFK",
+          "PASSENGERS": 0,
+          "SEATS": 76,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 1
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 3,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "EWR",
+          "DEST": "EWR",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 9,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "EWR",
+          "DEST": "EWR",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 3,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "EWR",
+          "DEST": "EWR",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 9,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "EWR",
+          "DEST": "EWR",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 4,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 3,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 9,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 4,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "EWR",
+          "DEST": "EWR",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 4,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "EWR",
+          "DEST": "EWR",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 1,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 152,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 2
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 1,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "JFK",
+          "DEST": "JFK",
+          "PASSENGERS": 0,
+          "SEATS": 152,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 2
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 12,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 146,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 2
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 9,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 152,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 2
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 10,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 152,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 2
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 2,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "EWR",
+          "DEST": "EWR",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 4,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 4,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "EWR",
+          "DEST": "EWR",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 3,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "EWR",
+          "DEST": "EWR",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 3,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "HPN",
+          "DEST": "HPN",
+          "PASSENGERS": 0,
+          "SEATS": 210,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 3
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 2,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 228,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 3
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 5,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "JFK",
+          "DEST": "JFK",
+          "PASSENGERS": 0,
+          "SEATS": 228,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 3
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 9,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "JFK",
+          "DEST": "JFK",
+          "PASSENGERS": 0,
+          "SEATS": 228,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 3
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 8,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "HPN",
+          "DEST": "HPN",
+          "PASSENGERS": 0,
+          "SEATS": 304,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 4
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 1,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "HPN",
+          "DEST": "HPN",
+          "PASSENGERS": 0,
+          "SEATS": 298,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 4
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 2,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "JFK",
+          "DEST": "JFK",
+          "PASSENGERS": 0,
+          "SEATS": 304,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 4
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 1,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "EWR",
+          "DEST": "EWR",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 6,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "HPN",
+          "DEST": "HPN",
+          "PASSENGERS": 0,
+          "SEATS": 374,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 5
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 5,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 380,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 5
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 9,
+          "AIRLINE_ID": 20416,
+          "UNIQUE_CARRIER": "NK",
+          "ORIGIN": "EWR",
+          "DEST": "EWR",
+          "PASSENGERS": 0,
+          "SEATS": 0,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 0
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 7,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "JFK",
+          "DEST": "JFK",
+          "PASSENGERS": 0,
+          "SEATS": 456,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 6
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 8,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "JFK",
+          "DEST": "JFK",
+          "PASSENGERS": 0,
+          "SEATS": 456,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 6
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 4,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 532,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 7
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 6,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 678,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 9
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 7,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 912,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 12
+        },
+        {
+          "YEAR": 2024,
+          "MONTH": 8,
+          "AIRLINE_ID": 20304,
+          "UNIQUE_CARRIER": "OO",
+          "ORIGIN": "LGA",
+          "DEST": "LGA",
+          "PASSENGERS": 0,
+          "SEATS": 1058,
+          "DISTANCE": 0,
+          "DEPARTURES_PERFORMED": 14
+        }
+      ],
+      "count": 51
+    },
+    {
+      "file": "T_T100D_SEGMENT_ALL_CARRIER_20261005_045447.zip",
+      "reason": "Reported passengers exceed seats; retained without correction or capping",
+      "rows": [
+        {
+          "YEAR": 2024,
+          "MONTH": 3,
+          "AIRLINE_ID": 22080,
+          "UNIQUE_CARRIER": "MX",
+          "ORIGIN": "SWF",
+          "DEST": "CHS",
+          "PASSENGERS": 109,
+          "SEATS": 108,
+          "DISTANCE": 677,
+          "DEPARTURES_PERFORMED": 1
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "airport_lookup_source": "https://www.transtats.bts.gov/Download_Lookup.asp?Y11x72=Y_NVecbeg_VQ",
+  "airport_name_unmatched": [],
+  "airport_lookup_sha256": "bea24dd3e7a516a6dac8674b86ea3da50f575b3cadec59d78cb10529c4bbb709",
+  "table_sizes": {
+    "airports.csv": 191366,
+    "carriers.csv": 186562,
+    "coverage.csv": 1331,
+    "market_route.csv": 590063,
+    "market_scope.csv": 113008,
+    "segment_route.csv": 1757261,
+    "segment_scope.csv": 386317
+  }
+}

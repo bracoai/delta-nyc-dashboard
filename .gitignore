@@ -1,0 +1,14 @@
+# Local environments, caches and secrets
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+secrets.toml
+*.pem
+*.key
+.DS_Store
+Thumbs.db
+# The prepared CSVs, manifest, logo and theme configuration must stay included.
